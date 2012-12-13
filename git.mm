@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1355144480049" ID="ID_1054199605" MODIFIED="1355317817024" TEXT="Git 1.7.9.5">
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1355318290341" ID="ID_1116462917" MODIFIED="1355321956912" POSITION="right" TEXT="history of version system">
+<node CREATED="1355318290341" FOLDED="true" ID="ID_1116462917" MODIFIED="1355381750448" POSITION="right" TEXT="history of version system">
 <font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355318498637" ID="ID_1103496071" MODIFIED="1355318532252" TEXT="diff/patch  Lunus 1991~2002">
 <node CREATED="1355318564668" ID="ID_1428996426" MODIFIED="1355318573201" TEXT="diff -u hello world &gt; diff.txt"/>
@@ -124,7 +124,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355144732595" HGAP="87" ID="ID_1549322574" MODIFIED="1355322165976" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
+<node CREATED="1355144732595" FOLDED="true" HGAP="87" ID="ID_1549322574" MODIFIED="1355381748829" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
 <font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355149049713" HGAP="44" ID="ID_119476811" MODIFIED="1355321697601" TEXT="&#x73b0;&#x573a;&#x7248;&#x672c;&#x63a7;&#x5236;" VSHIFT="-164">
 <node CREATED="1355321699224" ID="ID_1652919908" MODIFIED="1355321701586" TEXT="svn">
@@ -282,7 +282,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355322630298" ID="ID_1173205921" MODIFIED="1355324468760" POSITION="right" TEXT="install git">
+<node CREATED="1355322630298" FOLDED="true" ID="ID_1173205921" MODIFIED="1355381754571" POSITION="right" TEXT="install git">
 <node CREATED="1355324502629" ID="ID_1514136850" MODIFIED="1355324504399" TEXT="linux">
 <node CREATED="1355324505285" ID="ID_999160121" MODIFIED="1355324509855" TEXT="sudo apt-get install git-all"/>
 <node CREATED="1355324614692" ID="ID_920659054" MODIFIED="1355324670731">
@@ -302,7 +302,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355378463419" ID="ID_1655824546" MODIFIED="1355378470770" POSITION="right" TEXT="github settings">
+<node CREATED="1355378463419" FOLDED="true" ID="ID_1655824546" MODIFIED="1355381755982" POSITION="right" TEXT="github settings">
 <node CREATED="1355378593262" ID="ID_1714811720" MODIFIED="1355378597326" TEXT="enter https://github.com/"/>
 <node CREATED="1355378598637" ID="ID_173230394" MODIFIED="1355378608480" TEXT="create a account in https://github.com/"/>
 <node CREATED="1355378650325" ID="ID_597655477" MODIFIED="1355378701874" TEXT="github&#x7684;ssh&#x670d;&#x52a1;&#x652f;&#x6301;openssh&#x7684;&#x516c;&#x94a5;&#x8ba4;&#x8bc1;"/>
@@ -368,8 +368,9 @@
 </node>
 </node>
 </node>
-<node CREATED="1355324953674" ID="ID_264982736" MODIFIED="1355324956501" POSITION="right" TEXT="git init">
+<node CREATED="1355324953674" ID="ID_264982736" MODIFIED="1355381763392" POSITION="right" TEXT="git init">
 <node CREATED="1355324962682" ID="ID_1295128177" MODIFIED="1355324965633" TEXT="git --version"/>
+<node CREATED="1355383114460" ID="ID_159349796" MODIFIED="1355383116474" TEXT="git config">
 <node CREATED="1355324974466" ID="ID_1396633791" MODIFIED="1355325119713" TEXT="git config --global user.name &quot;libin&quot;"/>
 <node CREATED="1355324993178" ID="ID_624821412" MODIFIED="1355325023424" TEXT="git config --global user.email piaolingxue305@gmail.com"/>
 <node CREATED="1355325031017" ID="ID_771079565" MODIFIED="1355325142377" TEXT="git alias">
@@ -379,7 +380,26 @@
 <node CREATED="1355325212064" ID="ID_1302859577" MODIFIED="1355325223711" TEXT="git config --global alias.ci commit"/>
 </node>
 <node CREATED="1355325240960" ID="ID_1804139455" MODIFIED="1355325278487" TEXT="git config --global color.ui true &apos;git&#x547d;&#x4ee4;&#x8f93;&#x51fa;&#x5f00;&#x542f;&#x989c;&#x8272;&#x663e;&#x793a;"/>
-<node CREATED="1355325296888" ID="ID_1123051519" MODIFIED="1355325336307" TEXT="git init &apos;git&#x7248;&#x672c;&#x5e93;&#x521d;&#x59cb;&#x5316; &#x9690;&#x85cf;&#x7684;.git&#x76ee;&#x5f55;&#xff0c;&#x5373;git&#x7684;&#x7248;&#x672c;&#x5e93;"/>
+<node CREATED="1355383153761" ID="ID_876384240" MODIFIED="1355383184050" TEXT="edit git config file">
+<node CREATED="1355383187033" ID="ID_60544988" MODIFIED="1355383199059" TEXT="git config -e &#x5f53;&#x524d;&#x5de5;&#x7a0b;&#x914d;&#x7f6e;"/>
+<node CREATED="1355383199881" ID="ID_1613374389" MODIFIED="1355383209217" TEXT="git config --global -e &#x5f53;&#x524d;&#x7528;&#x6237;&#x914d;&#x7f6e;"/>
+<node CREATED="1355383210081" ID="ID_1197455476" MODIFIED="1355383224475" TEXT="sudo git config --system -e &#x7cfb;&#x7edf;&#x914d;&#x7f6e;"/>
+<node CREATED="1355383244169" ID="ID_1353395698" MODIFIED="1355383280578" TEXT="git &#x914d;&#x7f6e;&#x6587;&#x4ef6;=&gt;.git/config"/>
+<node CREATED="1355383315497" ID="ID_1775913044" MODIFIED="1355383320451" TEXT="&#x683c;&#x5f0f;:ini"/>
+<node CREATED="1355383333041" ID="ID_31768302" MODIFIED="1355383355990" TEXT="git config &lt;section&gt;.&lt;name&gt; &lt;value&gt;"/>
+<node CREATED="1355383386745" ID="ID_1765112998" MODIFIED="1355383461715" TEXT="git config -f test.ini a.b c &#x4fee;&#x6539;&#x6307;&#x5b9a;&#x914d;&#x7f6e;&#x6587;&#x4ef6;"/>
+<node CREATED="1355383480536" ID="ID_960240241" MODIFIED="1355383497403" TEXT="git config --unset --global user.name &#x5220;&#x9664;&#x914d;&#x7f6e;"/>
 </node>
+</node>
+<node CREATED="1355382927322" ID="ID_133823116" MODIFIED="1355382929816" TEXT=".git">
+<node CREATED="1355325296888" ID="ID_1123051519" MODIFIED="1355325336307" TEXT="git init &apos;git&#x7248;&#x672c;&#x5e93;&#x521d;&#x59cb;&#x5316; &#x9690;&#x85cf;&#x7684;.git&#x76ee;&#x5f55;&#xff0c;&#x5373;git&#x7684;&#x7248;&#x672c;&#x5e93;"/>
+<node CREATED="1355382823714" ID="ID_1804837632" MODIFIED="1355382844798" TEXT="git grep &quot;*&quot; &#x641c;&#x7d22;&#x5f53;&#x524d;&#x9879;&#x76ee;&#x7684;&#x6587;&#x4ef6;&#xff0c;&#x53ef;&#x4ee5;&#x8fc7;&#x6ee4;.git&#x76ee;&#x5f55;"/>
+<node CREATED="1355382954362" ID="ID_949284520" MODIFIED="1355382990778" TEXT="git rev-parse --git-dir &#x663e;&#x793a;&#x7248;&#x672c;&#x5e93;git&#x76ee;&#x5f55;&#x5730;&#x5740;"/>
+<node CREATED="1355383033761" ID="ID_934435724" MODIFIED="1355383057291" TEXT="git rev-parse --show-toplevel &#x663e;&#x793a;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x533a;&#x6839;&#x76ee;&#x5f55;"/>
+<node CREATED="1355383075865" ID="ID_141580740" MODIFIED="1355383082955" TEXT="git rev-parse --show-prefix"/>
+<node CREATED="1355383083409" ID="ID_886551727" MODIFIED="1355383090099" TEXT="git rev-parse --show-cdup"/>
+</node>
+</node>
+<node CREATED="1355384054439" ID="ID_1039135738" MODIFIED="1355384061097" POSITION="right" TEXT="git stage(&#x6682;&#x5b58;&#x533a;)"/>
 </node>
 </map>
