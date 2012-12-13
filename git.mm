@@ -3,7 +3,7 @@
 <node CREATED="1355144480049" ID="ID_1054199605" MODIFIED="1355317817024" TEXT="Git 1.7.9.5">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1355318290341" ID="ID_1116462917" MODIFIED="1355321956912" POSITION="right" TEXT="history of version system">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355318498637" ID="ID_1103496071" MODIFIED="1355318532252" TEXT="diff/patch  Lunus 1991~2002">
 <node CREATED="1355318564668" ID="ID_1428996426" MODIFIED="1355318573201" TEXT="diff -u hello world &gt; diff.txt"/>
 <node CREATED="1355318722556" ID="ID_72360274" MODIFIED="1355319001702">
@@ -22,8 +22,7 @@
       patch world &lt; diff.txt
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1355318412540" ID="ID_1340147090" MODIFIED="1355319102641" TEXT="1986~    cvs(Concurrent Version System),  c/s mode">
@@ -52,8 +51,7 @@
       &#27599;&#27425;&#25552;&#20132;&#37117;&#20250;&#22312;&#26381;&#21153;&#22120;&#31471;db/revs&#21644;db/revsprops&#30446;&#24405;&#19979;&#21508;&#21019;&#24314;&#19968;&#20010;&#20197;&#39034;&#24207;&#25968;&#23383;&#32534;&#21495;&#21629;&#21517;&#30340;&#25991;&#20214;&#65292;&#20854;&#20013;db/revs&#19979;&#30340;&#25991;&#20214;&#35760;&#24405;&#20102;&#19982;&#19978;&#19968;&#20010;&#25552;&#20132;&#20043;&#38388;&#30340;&#24046;&#24322;,&#22312;db/revsprops&#19979;&#21017;&#20445;&#30041;&#30528;&#25552;&#20132;&#26085;&#24535;&#12289;&#20316;&#32773;&#12289;&#25552;&#20132;&#26102;&#38388;&#31561;&#20449;&#24687;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355320200426" ID="ID_955203587" MODIFIED="1355320200426" TEXT=""/>
 </node>
@@ -74,8 +72,7 @@
       &#26080;&#38656;&#30495;&#27491;&#30340;&#25991;&#20214;&#25335;&#36125;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355320389184" ID="ID_1925408536" MODIFIED="1355320445585">
 <richcontent TYPE="NODE"><html>
@@ -90,8 +87,7 @@
       &#32780;&#26159;&#37319;&#29992;&#25480;&#26435;&#25991;&#20214;&#30340;&#24418;&#24335;&#23454;&#29616;<br />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355320497671" ID="ID_81508300" MODIFIED="1355320586951">
 <richcontent TYPE="NODE"><html>
@@ -109,8 +105,7 @@
       &#20197;&#21450;&#38169;&#35823;&#26356;&#25913;&#30340;&#22238;&#36864;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -130,7 +125,7 @@
 </node>
 </node>
 <node CREATED="1355144732595" HGAP="87" ID="ID_1549322574" MODIFIED="1355322165976" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355149049713" HGAP="44" ID="ID_119476811" MODIFIED="1355321697601" TEXT="&#x73b0;&#x573a;&#x7248;&#x672c;&#x63a7;&#x5236;" VSHIFT="-164">
 <node CREATED="1355321699224" ID="ID_1652919908" MODIFIED="1355321701586" TEXT="svn">
 <node CREATED="1355321717984" ID="ID_1078661053" MODIFIED="1355321744008" TEXT="svnadmin create /path/repos/project1"/>
@@ -234,8 +229,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355324015361" ID="ID_843411417" MODIFIED="1355324038798" TEXT="&#x5207;&#x5fcc;svn&#x7684;&#x8865;&#x4e01;&#x4e0d;&#x652f;&#x6301;&#x4e8c;&#x8fdb;&#x5236;&#x683c;&#x5f0f;">
 <icon BUILTIN="yes"/>
@@ -269,8 +263,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="list"/>
 </node>
 </node>
@@ -303,6 +296,71 @@
     </p>
     <p>
       git config --global core.quotepath false
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1355378463419" ID="ID_1655824546" MODIFIED="1355378470770" POSITION="right" TEXT="github settings">
+<node CREATED="1355378593262" ID="ID_1714811720" MODIFIED="1355378597326" TEXT="enter https://github.com/"/>
+<node CREATED="1355378598637" ID="ID_173230394" MODIFIED="1355378608480" TEXT="create a account in https://github.com/"/>
+<node CREATED="1355378650325" ID="ID_597655477" MODIFIED="1355378701874" TEXT="github&#x7684;ssh&#x670d;&#x52a1;&#x652f;&#x6301;openssh&#x7684;&#x516c;&#x94a5;&#x8ba4;&#x8bc1;"/>
+<node CREATED="1355378715525" ID="ID_1238571355" MODIFIED="1355378745858" TEXT="ssh-kengen -t rsa -C &quot;piaolingxue305@gmail.com&quot; &#x521b;&#x5efa;&#x516c;&#x94a5;/&#x79c1;&#x94a5;&#x5bf9;"/>
+<node CREATED="1355378771580" ID="ID_260520428" MODIFIED="1355379398618" TEXT="github-&gt;settings-&gt;deploy  add deploy keys &#x5c06;~/.ssh/id_rsa.pub&#x5185;&#x5bb9;&#x62f7;&#x8d1d;&#x5230;&#x8fd9;&#x91cc;">
+<node CREATED="1355379403651" ID="ID_622023146" MODIFIED="1355379431089" TEXT="copy&#x65f6;&#x4e00;&#x5b9a;&#x4e0d;&#x8981;&#x5728;&#x5176;&#x4e2d;&#x63d2;&#x5165;&#x591a;&#x4f59;&#x7684;&#x6362;&#x884c;&#x7b26;&#x3001;&#x7a7a;&#x683c;&#x7b49;"/>
+</node>
+<node CREATED="1355379459907" ID="ID_1670440327" MODIFIED="1355379462974" TEXT="run ssh-add ~/.ssh/id_rsa"/>
+<node CREATED="1355379478227" ID="ID_540806109" MODIFIED="1355379499274" TEXT="ssh -T git@github.com &#x5982;&#x679c;&#x63d0;&#x793a;:Hi github! You&apos;ve successfully authenticated, but GitHub does not provide shell access.&#x8868;&#x793a;&#x6210;&#x529f;!!!"/>
+<node CREATED="1355379538771" ID="ID_1004071821" MODIFIED="1355379545170" TEXT="set user ">
+<node CREATED="1355379549355" ID="ID_1617844" MODIFIED="1355379560974" TEXT="git config --global user.name &quot;piaolingxue&quot;"/>
+<node CREATED="1355379567243" ID="ID_1201444858" MODIFIED="1355379586111" TEXT="git config --global user.email &quot;piaolingxue305@gmail.com&quot;"/>
+</node>
+<node CREATED="1355380241929" ID="ID_1515786817" MODIFIED="1355380336807" TEXT="create a repository in github like:freemind-maps"/>
+<node CREATED="1355380073978" ID="ID_1990673609" MODIFIED="1355380143485" TEXT="git remote add freemind git@github.com:piaolingxue/freemind-maps.git"/>
+<node CREATED="1355380260929" ID="ID_1914391523" MODIFIED="1355380365040" TEXT="&#x5728;&#x672c;&#x5730;&#x6267;&#x884c; git pull freemind"/>
+<node CREATED="1355380778945" ID="ID_864000473" MODIFIED="1355381392969" TEXT="Create a new repository on the command line">
+<node CREATED="1355380810649" ID="ID_774510305" MODIFIED="1355381339970">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      touch README.md
+    </p>
+    <p>
+      git init
+    </p>
+    <p>
+      git add README.md
+    </p>
+    <p>
+      git commit -m &quot;first commit&quot;
+    </p>
+    <p>
+      git remote add origin https://github.com/piaolingxue/demo.git
+    </p>
+    <p>
+      git push -u origin master
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1355381396751" ID="ID_105176520" MODIFIED="1355381406455" TEXT="Push an existing repository from the command line">
+<node CREATED="1355381408182" ID="ID_994191622" MODIFIED="1355381426288">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git remote add origin https://github.com/piaolingxue/demo.git
+    </p>
+    <p>
+      git push -u origin master
     </p>
   </body>
 </html>
