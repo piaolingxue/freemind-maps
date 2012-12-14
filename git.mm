@@ -3,7 +3,7 @@
 <node CREATED="1355144480049" ID="ID_1054199605" MODIFIED="1355317817024" TEXT="Git 1.7.9.5">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1355318290341" FOLDED="true" ID="ID_1116462917" MODIFIED="1355386699876" POSITION="right" TEXT="history of version system">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355318498637" ID="ID_1103496071" MODIFIED="1355318532252" TEXT="diff/patch  Lunus 1991~2002">
 <node CREATED="1355318564668" ID="ID_1428996426" MODIFIED="1355318573201" TEXT="diff -u hello world &gt; diff.txt"/>
 <node CREATED="1355318722556" ID="ID_72360274" MODIFIED="1355319001702">
@@ -125,7 +125,7 @@
 </node>
 </node>
 <node CREATED="1355144732595" FOLDED="true" HGAP="87" ID="ID_1549322574" MODIFIED="1355386697752" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355149049713" HGAP="44" ID="ID_119476811" MODIFIED="1355321697601" TEXT="&#x73b0;&#x573a;&#x7248;&#x672c;&#x63a7;&#x5236;" VSHIFT="-164">
 <node CREATED="1355321699224" ID="ID_1652919908" MODIFIED="1355321701586" TEXT="svn">
 <node CREATED="1355321717984" ID="ID_1078661053" MODIFIED="1355321744008" TEXT="svnadmin create /path/repos/project1"/>
@@ -512,8 +512,7 @@
       (git cat-file -p fd3c069|wc -c|xargs printf &quot;blob %d\000&quot;; git cat-file -p fd3c069)|sha1sum
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355402393640" ID="ID_626097964" MODIFIED="1355402411784">
 <richcontent TYPE="NODE"><html>
@@ -537,8 +536,7 @@
       f58da9a820e3fd9d84ab2ca2f1b467ac265038f9&#160;&#160;-
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -568,7 +566,7 @@
 <node CREATED="1355391046336" ID="ID_711519835" MODIFIED="1355391061829" TEXT="&#x7528;&#x4e00;&#x4e2a;&#x6587;&#x4ef6;&#x6307;&#x5411;&#x94fe;&#x63a5;&#x7684;&#x6700;&#x65b0;&#x63d0;&#x4ea4;&#xff0c;&#x8fd9;&#x6837;&#x5c31;&#x53ef;&#x4ee5;&#x8ddf;&#x8e2a;&#x6574;&#x4e2a;&#x63d0;&#x4ea4;"/>
 </node>
 </node>
-<node CREATED="1355384933773" FOLDED="true" ID="ID_1240723287" MODIFIED="1355400094199" POSITION="right" TEXT="git command">
+<node CREATED="1355384933773" ID="ID_1240723287" MODIFIED="1355474443624" POSITION="right" TEXT="git command">
 <node CREATED="1355385043716" ID="ID_801736069" MODIFIED="1355385045775" TEXT="git log">
 <node CREATED="1355385777835" ID="ID_1474017544" MODIFIED="1355385811157" TEXT="git log --oneline &#x8d85;&#x7cbe;&#x7b80;&#x6a21;&#x5f0f; &#x63d0;&#x4ea4;id&#x4ee5;7&#x4f4d;&#x663e;&#x793a;"/>
 <node CREATED="1355384940845" ID="ID_1145608350" MODIFIED="1355384977280" TEXT="git log --pretty=oneline &#x7cbe;&#x7b80;&#x8f93;&#x51fa;"/>
