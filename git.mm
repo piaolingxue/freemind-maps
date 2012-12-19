@@ -2,7 +2,7 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1355144480049" ID="ID_1054199605" MODIFIED="1355317817024" TEXT="Git 1.7.9.5">
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1355318290341" FOLDED="true" ID="ID_1116462917" MODIFIED="1355386699876" POSITION="right" TEXT="history of version system">
+<node CREATED="1355318290341" FOLDED="true" ID="ID_1116462917" MODIFIED="1355902341079" POSITION="right" TEXT="history of version system">
 <font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355318498637" ID="ID_1103496071" MODIFIED="1355318532252" TEXT="diff/patch  Lunus 1991~2002">
 <node CREATED="1355318564668" ID="ID_1428996426" MODIFIED="1355318573201" TEXT="diff -u hello world &gt; diff.txt"/>
@@ -124,7 +124,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355144732595" FOLDED="true" HGAP="87" ID="ID_1549322574" MODIFIED="1355386697752" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
+<node CREATED="1355144732595" FOLDED="true" HGAP="87" ID="ID_1549322574" MODIFIED="1355902335931" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
 <font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
 <node CREATED="1355149049713" HGAP="44" ID="ID_119476811" MODIFIED="1355321697601" TEXT="&#x73b0;&#x573a;&#x7248;&#x672c;&#x63a7;&#x5236;" VSHIFT="-164">
 <node CREATED="1355321699224" ID="ID_1652919908" MODIFIED="1355321701586" TEXT="svn">
@@ -282,7 +282,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355322630298" FOLDED="true" ID="ID_1173205921" MODIFIED="1355400106701" POSITION="right" TEXT="install git">
+<node CREATED="1355322630298" FOLDED="true" ID="ID_1173205921" MODIFIED="1355882987552" POSITION="right" TEXT="install git">
 <node CREATED="1355324502629" ID="ID_1514136850" MODIFIED="1355324504399" TEXT="linux">
 <node CREATED="1355324505285" ID="ID_999160121" MODIFIED="1355324509855" TEXT="sudo apt-get install git-all"/>
 <node CREATED="1355324614692" ID="ID_920659054" MODIFIED="1355324670731">
@@ -302,7 +302,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355378463419" FOLDED="true" ID="ID_1655824546" MODIFIED="1355400109566" POSITION="right" TEXT="github settings">
+<node CREATED="1355378463419" FOLDED="true" ID="ID_1655824546" MODIFIED="1355882975395" POSITION="right" TEXT="github settings">
 <node CREATED="1355378593262" ID="ID_1714811720" MODIFIED="1355378597326" TEXT="enter https://github.com/"/>
 <node CREATED="1355378598637" ID="ID_173230394" MODIFIED="1355378608480" TEXT="create a account in https://github.com/"/>
 <node CREATED="1355378650325" ID="ID_597655477" MODIFIED="1355378701874" TEXT="github&#x7684;ssh&#x670d;&#x52a1;&#x652f;&#x6301;openssh&#x7684;&#x516c;&#x94a5;&#x8ba4;&#x8bc1;"/>
@@ -366,7 +366,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1355324953674" FOLDED="true" ID="ID_264982736" MODIFIED="1355400099223" POSITION="right" TEXT="git init">
+<node CREATED="1355324953674" FOLDED="true" ID="ID_264982736" MODIFIED="1355882982772" POSITION="right" TEXT="git init">
 <node CREATED="1355324962682" ID="ID_1295128177" MODIFIED="1355324965633" TEXT="git --version"/>
 <node CREATED="1355385376555" ID="ID_1205631294" MODIFIED="1355385379805" TEXT="git init"/>
 <node CREATED="1355383114460" ID="ID_159349796" MODIFIED="1355383116474" TEXT="git config">
@@ -399,9 +399,9 @@
 <node CREATED="1355383083409" ID="ID_886551727" MODIFIED="1355383090099" TEXT="git rev-parse --show-cdup"/>
 </node>
 </node>
-<node CREATED="1355384054439" ID="ID_1039135738" MODIFIED="1355400111319" POSITION="right" TEXT="git stage(&#x6682;&#x5b58;&#x533a;)">
+<node CREATED="1355384054439" FOLDED="true" ID="ID_1039135738" MODIFIED="1355902338115" POSITION="right" TEXT="git stage(&#x6682;&#x5b58;&#x533a;)">
 <cloud/>
-<node CREATED="1355386120634" FOLDED="true" ID="ID_1724943129" MODIFIED="1355400117060" TEXT="&#x4e00;&#x4e2a;&#x6709;&#x8da3;&#x7684;&#x5b9e;&#x9a8c;">
+<node CREATED="1355386120634" FOLDED="true" ID="ID_1724943129" MODIFIED="1355882979368" TEXT="&#x4e00;&#x4e2a;&#x6709;&#x8da3;&#x7684;&#x5b9e;&#x9a8c;">
 <node CREATED="1355386153026" ID="ID_1083821544" MODIFIED="1355386439367">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -484,11 +484,25 @@
 </node>
 </node>
 </node>
-<node CREATED="1355389407499" FOLDED="true" ID="ID_1943084683" MODIFIED="1355636137933" POSITION="right" TEXT="git object">
-<node CREATED="1355389650258" FOLDED="true" ID="ID_766166107" MODIFIED="1355542502653" TEXT="&#x9b54;&#x5e7b;&#x6570;&#x5b57;SHA1&#x54c8;&#x5e0c;&#x503c;(40&#x4f4d;)">
+<node CREATED="1355389407499" ID="ID_1943084683" MODIFIED="1355907104985" POSITION="right" TEXT="git object">
+<node CREATED="1355389650258" FOLDED="true" ID="ID_766166107" MODIFIED="1355899733318" TEXT="&#x9b54;&#x5e7b;&#x6570;&#x5b57;SHA1&#x54c8;&#x5e0c;&#x503c;(40&#x4f4d;)">
 <node CREATED="1355400923439" ID="ID_1441776946" MODIFIED="1355400962753" TEXT="&#x54c8;&#x5e0c;&#x662f;&#x4e00;&#x79cd;&#x6570;&#x636e;&#x6458;&#x8981;&#x7b97;&#x6cd5;,&#x662f;&#x4fe1;&#x606f;&#x5b89;&#x5168;&#x9886;&#x57df;&#x91cd;&#x8981;&#x7684;&#x7406;&#x8bba;&#x57fa;&#x77f3;"/>
 <node CREATED="1355401080857" ID="ID_753144232" MODIFIED="1355401089860" TEXT="&#x6bd4;&#x8f83;&#x8457;&#x540d;&#x7684;&#x6458;&#x8981;&#x7b97;&#x6cd5;&#x5305;&#x62ec;">
-<node CREATED="1355401090632" ID="ID_1045494214" MODIFIED="1355401093508" TEXT="SHA1"/>
+<node CREATED="1355401090632" ID="ID_1045494214" MODIFIED="1355401093508" TEXT="SHA1">
+<node CREATED="1355884294834" ID="ID_786461134" MODIFIED="1355884299475">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span http-equiv="content-type" style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal" content="text/html; charset=utf-8">&#23433;&#20840;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/273836.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#21704;&#24076;&#31639;&#27861;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#65288;Secure Hash Algorithm&#65289;&#20027;&#35201;&#36866;&#29992;&#20110;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/7626.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#25968;&#23383;&#31614;&#21517;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#26631;&#20934;&#65288;Digital Signature Standard DSS&#65289;&#37324;&#38754;&#23450;&#20041;&#30340;&#25968;&#23383;&#31614;&#21517;&#31639;&#27861;&#65288;Digital Signature Algorithm DSA&#65289;&#12290;&#23545;&#20110;&#38271;&#24230;&#23567;&#20110;2^64&#20301;&#30340;&#28040;&#24687;&#65292;SHA1&#20250;&#20135;&#29983;&#19968;&#20010;160&#20301;&#30340;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#28040;&#24687;&#25688;&#35201;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#12290;&#24403;&#25509;&#25910;&#21040;&#28040;&#24687;&#30340;&#26102;&#20505;&#65292;&#36825;&#20010;&#28040;&#24687;&#25688;&#35201;&#21487;&#20197;&#29992;&#26469;&#39564;&#35777;&#25968;&#25454;&#30340;&#23436;&#25972;&#24615;&#12290;&#22312;&#20256;&#36755;&#30340;&#36807;&#31243;&#20013;&#65292;&#25968;&#25454;&#24456;&#21487;&#33021;&#20250;&#21457;&#29983;&#21464;&#21270;&#65292;&#37027;&#20040;&#36825;&#26102;&#20505;&#23601;&#20250;&#20135;&#29983;&#19981;&#21516;&#30340;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#28040;&#24687;&#25688;&#35201;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#12290; SHA1&#26377;&#22914;&#19979;&#29305;&#24615;&#65306;&#19981;&#21487;&#20197;&#20174;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#28040;&#24687;&#25688;&#35201;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#20013;&#22797;&#21407;&#20449;&#24687;&#65307;&#20004;&#20010;&#19981;&#21516;&#30340;&#28040;&#24687;&#19981;&#20250;&#20135;&#29983;&#21516;&#26679;&#30340;&#28040;&#24687;&#25688;&#35201;&#12290;</span></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1355401093992" ID="ID_1193695588" MODIFIED="1355401096505" TEXT="MD5"/>
 </node>
 <node CREATED="1355401103120" ID="ID_738306139" MODIFIED="1355401123589" TEXT="linux&#x4e0b;&#x7684;sha1sum&#x53ef;&#x4ee5;&#x7528;&#x6765;&#x751f;&#x6210;sha1&#x6458;&#x8981;">
@@ -540,6 +554,21 @@
 </node>
 </node>
 </node>
+<node CREATED="1355883010325" FOLDED="true" ID="ID_405401278" MODIFIED="1355899718789" TEXT="why not uuid?">
+<node CREATED="1355883156045" ID="ID_215017009" MODIFIED="1355883165828">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span http-equiv="content-type" style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal" content="text/html; charset=utf-8">UUID&#21547;&#20041;&#26159;&#36890;&#29992;&#21807;&#19968;&#35782;&#21035;&#30721; (Universally Unique Identifier)&#65292;&#36825; &#26159;&#19968;&#20010;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/37.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#36719;&#20214;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#24314;&#26500;&#30340;&#26631;&#20934;&#65292;&#20063;&#26159;&#34987;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/444964.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#24320;&#28304;&#36719;&#20214;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#22522;&#37329;&#20250; (Open Software Foundation, OSF) &#30340;&#32452;&#32455;&#24212;&#29992;&#22312;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/185350.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#20998;&#24067;&#24335;&#35745;&#31639;&#29615;&#22659;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span class="Apple-converted-space">&#160;</span><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">(Distributed Computing Environment, DCE) &#39046;&#22495;&#30340;&#19968;&#37096;&#20998;&#12290;</span></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node CREATED="1355402483888" ID="ID_1313879250" MODIFIED="1355402499847" TEXT="git &#x63d0;&#x4f9b;&#x4e86;&#x5f88;&#x591a;&#x65b9;&#x6cd5;&#x6765;&#x8bbf;&#x95ee; git object"/>
 <node CREATED="1355390288017" ID="ID_657528435" MODIFIED="1355390296757" TEXT="blob &#x5bf9;&#x8c61; &#x4fdd;&#x5b58;&#x8fd9;&#x6587;&#x4ef6;&#x7684;&#x5177;&#x4f53;&#x5185;&#x5bb9;"/>
 <node CREATED="1355390469921" ID="ID_1420243146" MODIFIED="1355390474934">
@@ -569,40 +598,102 @@
 <node CREATED="1355542589701" ID="ID_1573710730" MODIFIED="1355542624007" TEXT="sha1 &#x4e0d;&#x7528;&#x5199;&#x5168;,&#x53ea;&#x91c7;&#x7528;&#x5f00;&#x5934;&#x90e8;&#x5206;,4&#x4f4d;&#x4ee5;&#x4e0a;&#x5373;&#x53ef;"/>
 <node CREATED="1355542679684" ID="ID_1011414898" MODIFIED="1355542688218" TEXT="HEAD&#x4ee3;&#x8868;&#x7248;&#x672c;&#x54ed;&#x7684;&#x6700;&#x8fd1;&#x63d0;&#x4ea4;"/>
 <node CREATED="1355542692996" ID="ID_1818671487" MODIFIED="1355542755370" TEXT="&#x7b26;&#x53f7;^&#x53ef;&#x4ee5;&#x7528;&#x6765;&#x6307;&#x4ee3;&#x7236;&#x63d0;&#x4ea4; HEAD^&#x6307;&#x4ee3;&#x7248;&#x672c;&#x5e93;&#x7684;&#x7236;&#x63d0;&#x4ea4; HEAD^^&#x6307;&#x4ee3;HEAD^&#x7684;&#x7236;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355542765763" ID="ID_849183664" MODIFIED="1355542805900" TEXT="&#x5bf9;&#x4e8e;&#x4e00;&#x4e2a;&#x63d0;&#x4ea4;&#x6709;&#x591a;&#x4e2a;&#x7236;&#x63d0;&#x4ea4;&#xff0c;&#x53ef;&#x4ee5;&#x5728;^&#x540e;&#x9762;&#x8ddf;&#x6570;&#x5b57;&#x6307;&#x4ee3;HEAD^1==HEAD^,HEAD^^=HEAD^2"/>
+<node CREATED="1355542765763" ID="ID_849183664" MODIFIED="1355907508144">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#23545;&#20110;&#19968;&#20010;&#25552;&#20132;&#26377;&#22810;&#20010;&#29238;&#25552;&#20132;&#65292;&#21487;&#20197;&#22312;^&#21518;&#38754;&#36319;&#25968;&#23383;&#25351;&#20195;&#31532;&#20960;&#20010;&#29238;&#25552;&#20132;
+    </p>
+    <p>
+      &#20363;&#22914;
+    </p>
+    <p>
+      3c45 &#26377;&#19977;&#20010;parent
+    </p>
+    <p>
+      abca
+    </p>
+    <p>
+      abcb
+    </p>
+    <p>
+      abcc
+    </p>
+    <p>
+      &#37027;&#20040;
+    </p>
+    <p>
+      3c45^1 == abca
+    </p>
+    <p>
+      3c45^2 == abcb
+    </p>
+    <p>
+      3c45^3 == abcc
+    </p>
+    <p>
+      A^^3^2 &#34920;&#31034; A&#25552;&#20132;&#30340;&#31532;&#19968;&#20010;&#29238;&#25552;&#20132;&#30340;&#31532;&#19977;&#20010;&#29238;&#25552;&#20132;&#30340;&#31532;&#19977;&#20010;&#29238;&#25552;&#20132;
+    </p>
+    <p>
+      == A^1^3^2
+    </p>
+  </body>
+</html>
+</richcontent>
+<cloud/>
+<icon BUILTIN="yes"/>
+</node>
 <node CREATED="1355542817035" ID="ID_1157804486" MODIFIED="1355542858244" TEXT="&#x7b26;&#x53f7;~&lt;n&gt;&#x7528;&#x4e8e;&#x6307;&#x4ee3;&#x7956;&#x5148;&#x63d0;&#x4ea4; a2328a~5 == a2328a^^^^^"/>
 <node CREATED="1355542871659" ID="ID_1753957212" MODIFIED="1355542889021" TEXT="&#x63d0;&#x4ea4;&#x5bf9;&#x5e94;&#x7684;&#x6811;&#x5bf9;&#x8c61;a23bac2^{tree}"/>
 <node CREATED="1355542897266" ID="ID_1173477324" MODIFIED="1355542917452" TEXT="&#x63d0;&#x4ea4;&#x5bf9;&#x5e94;&#x7684;&#x6587;&#x4ef6;&#x5bf9;&#x8c61;a23bac2:/path/to/file"/>
 <node CREATED="1355542942258" ID="ID_1358835200" MODIFIED="1355542952763" TEXT="&#x6682;&#x5b58;&#x533a;&#x4e2d;&#x7684;&#x6587;&#x4ef6;&#x5bf9;&#x8c61;:/path/to/file"/>
 </node>
 </node>
-<node CREATED="1355384933773" ID="ID_1240723287" MODIFIED="1355474443624" POSITION="right" TEXT="git command">
-<node CREATED="1355385043716" ID="ID_801736069" MODIFIED="1355385045775" TEXT="git log">
+<node CREATED="1355384933773" ID="ID_1240723287" MODIFIED="1355903611927" POSITION="right" TEXT="git command">
+<node CREATED="1355385043716" FOLDED="true" ID="ID_801736069" MODIFIED="1355903625192" TEXT="git log">
 <node CREATED="1355385777835" ID="ID_1474017544" MODIFIED="1355385811157" TEXT="git log --oneline &#x8d85;&#x7cbe;&#x7b80;&#x6a21;&#x5f0f; &#x63d0;&#x4ea4;id&#x4ee5;7&#x4f4d;&#x663e;&#x793a;"/>
 <node CREATED="1355384940845" ID="ID_1145608350" MODIFIED="1355384977280" TEXT="git log --pretty=oneline &#x7cbe;&#x7b80;&#x8f93;&#x51fa;"/>
 <node CREATED="1355384978109" ID="ID_1852336269" MODIFIED="1355384994207" TEXT="git log --pretty=fuller &#x5b8c;&#x6574;&#x8f93;&#x51fa;"/>
 <node CREATED="1355389455202" ID="ID_1086300555" MODIFIED="1355389497950" TEXT="git log -l --pretty=raw &#x67e5;&#x770b;&#x65e5;&#x5fd7;&#x7684;&#x539f;&#x59cb;&#x8f93;&#x51fa;"/>
 <node CREATED="1355390501769" ID="ID_1019274532" MODIFIED="1355390518854" TEXT="git log --pretty=raw --graph &#x67e5;&#x770b;&#x65e5;&#x5fd7;&#x7684;&#x8ddf;&#x8e2a;&#x94fe;"/>
+<node CREATED="1355900505144" ID="ID_1830121698" MODIFIED="1355900524366" TEXT="--decorate &#x53ef;&#x4ee5;&#x5728;&#x63d0;&#x4ea4;&#x65e5;&#x5fd7;&#x4e2d;&#x663e;&#x793a;&#x5bf9;&#x5e94;&#x7684;&#x91cc;&#x7a0b;&#x7891;&#x3001;&#x5f15;&#x7528;"/>
 </node>
-<node CREATED="1355385052572" ID="ID_777126474" MODIFIED="1355542494557" TEXT="git status">
+<node CREATED="1355385052572" FOLDED="true" ID="ID_777126474" MODIFIED="1355903623418" TEXT="git status">
 <node CREATED="1355385057052" ID="ID_1072629532" MODIFIED="1355385064175" TEXT="git status -s &#x7cbe;&#x7b80;&#x8f93;&#x51fa;">
 <node CREATED="1355385257964" ID="ID_409543745" MODIFIED="1355385313943" TEXT="&#x7b2c;&#x4e00;&#x5217;M &#x7248;&#x672c;&#x5e93;&#x7684;&#x6587;&#x4ef6;&#x4e0e;&#x6682;&#x5b58;&#x533a;&#x7684;&#x6587;&#x4ef6;&#x76f8;&#x6bd4;&#x8f83;&#x6709;&#x6539;&#x52a8;"/>
 <node CREATED="1355385263004" ID="ID_865936245" MODIFIED="1355385340639" TEXT="&#x7b2c;&#x4e8c;&#x5217;M &#x5de5;&#x4f5c;&#x533a;&#x7684;&#x6587;&#x4ef6;&#x4e0e;&#x6682;&#x5b58;&#x533a;&#x76f8;&#x6bd4;&#x6709;&#x6539;&#x52a8;"/>
 </node>
 <node CREATED="1355390627249" ID="ID_1467873191" MODIFIED="1355390647511" TEXT="git status -s -b &#x7cbe;&#x7b80;&#x8f93;&#x51fa;&#x7684;&#x540c;&#x65f6;&#x8f93;&#x51fa;&#x5206;&#x652f;&#x540d;&#x79f0;"/>
+<node CREATED="1355901132512" ID="ID_830567894" MODIFIED="1355901153384" TEXT="git status --ignored -s &#x663e;&#x793a;&#x6240;&#x6709;&#x5ffd;&#x7565;&#x6587;&#x4ef6;"/>
 </node>
-<node CREATED="1355385608147" ID="ID_1564755047" MODIFIED="1355542492317" TEXT="git diff">
+<node CREATED="1355899079337" FOLDED="true" ID="ID_129700344" MODIFIED="1355903622538" TEXT="git add">
+<node CREATED="1355899083529" ID="ID_1098946265" MODIFIED="1355899090582" TEXT="git add -u &#x6807;&#x8bb0;&#x5feb;&#x901f;&#x5220;&#x9664;"/>
+<node CREATED="1355899606353" ID="ID_1936041405" MODIFIED="1355899627126" TEXT="git add -A &#x6267;&#x884c;&#x8be5;&#x547d;&#x4ee4;&#x4f1a;&#x5c06;&#x5de5;&#x4f5c;&#x533a;&#x6240;&#x6709;&#x6539;&#x52a8;&#x548c;&#x65b0;&#x589e;&#x6587;&#x4ef6;&#x6dfb;&#x52a0;&#x5230;&#x6682;&#x5b58;&#x533a;"/>
+<node CREATED="1355900722984" ID="ID_1848580326" MODIFIED="1355900735989" TEXT="git add -i &#x9009;&#x62e9;&#x6027;&#x6dfb;&#x52a0;(&#x4ea4;&#x4e92;&#x754c;&#x9762;)"/>
+<node CREATED="1355901238864" ID="ID_132487821" MODIFIED="1355901264452" TEXT="git add -f &#x5f3a;&#x5236;&#x6dfb;&#x52a0; &#x5ffd;&#x7565;.gitignore&#x6587;&#x4ef6;"/>
+</node>
+<node CREATED="1355899753081" ID="ID_1675188382" MODIFIED="1355899754352" TEXT="git mv">
+<node CREATED="1355899755313" ID="ID_1149520235" MODIFIED="1355899955182" TEXT="&#x79fb;&#x52a8;&#x6587;&#x4ef6; &#x7b49;&#x4ef7;&#x4e0e; git rm &amp; git add"/>
+</node>
+<node CREATED="1355385608147" FOLDED="true" ID="ID_1564755047" MODIFIED="1355899074837" TEXT="git diff">
 <node CREATED="1355385611907" ID="ID_93113630" MODIFIED="1355385623008" TEXT="git diff &#x5de5;&#x4f5c;&#x533a;&#x4e0e;&#x6682;&#x5b58;&#x533a;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;"/>
 <node CREATED="1355385623747" ID="ID_1247687249" MODIFIED="1355385633571" TEXT="git diff HEAD &#x5de5;&#x4f5c;&#x533a;&#x4e0e;&#x7248;&#x672c;&#x5e93;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;"/>
 <node CREATED="1355385634043" ID="ID_888835927" MODIFIED="1355385662525" TEXT="git diff --cached &#x6216;&#x8005; git diff --staged &#x6682;&#x5b58;&#x533a;&#x8ddf;&#x7248;&#x672c;&#x5e93;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;"/>
 </node>
-<node CREATED="1355385905298" ID="ID_19034572" MODIFIED="1355542490356" TEXT="git checkout">
+<node CREATED="1355385905298" FOLDED="true" ID="ID_19034572" MODIFIED="1355900231085" TEXT="git checkout">
+<node CREATED="1355886164664" ID="ID_1504142558" MODIFIED="1355886174702" TEXT="&#x6539;&#x53d8;HEAD&#x7684;&#x6307;&#x5411;">
+<icon BUILTIN="yes"/>
+</node>
+<node CREATED="1355887690202" ID="ID_1780100342" MODIFIED="1355887786466" TEXT="&#x9ed8;&#x8ba4;&#x503c;&#x662f;&#x6682;&#x5b58;&#x533a;,&#x4e00;&#x822c;&#x8986;&#x76d6;&#x5de5;&#x4f5c;&#x533a;"/>
 <node CREATED="1355385911698" ID="ID_108915084" MODIFIED="1355385935619" TEXT="git checkout -- *.txt &#x64a4;&#x9500;&#x67d0;&#x4e2a;&#x6587;&#x4ef6;&#x7684;&#x4fee;&#x6539;"/>
 </node>
 <node CREATED="1355388365965" ID="ID_1171511914" MODIFIED="1355542488842" TEXT="git clean">
 <node CREATED="1355388373989" ID="ID_818280901" MODIFIED="1355388385949" TEXT="git clean -fd &#x6e05;&#x9664;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x533a;&#x7684;&#x6539;&#x52a8;"/>
 </node>
-<node CREATED="1355389063371" ID="ID_708088200" MODIFIED="1355542487380" TEXT="git stash">
+<node CREATED="1355389063371" FOLDED="true" ID="ID_708088200" MODIFIED="1355899071046" TEXT="git stash">
 <node CREATED="1355389082683" ID="ID_1568243283" MODIFIED="1355389090854" TEXT="git stash &#x4fdd;&#x5b58;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x8fdb;&#x5ea6;"/>
 <node CREATED="1355659210684" ID="ID_1048466952" MODIFIED="1355753770242" TEXT="git stash save &quot;&#x6ce8;&#x91ca;&quot; &#x5982;&#x679c;&#x5199;&#x660e;&#x6ce8;&#x91ca;&#xff0c;&#x8fd9;&#x6837;&#x901a;&#x8fc7;&#x8fdb;&#x5ea6;&#x5217;&#x8868;&#x67e5;&#x770b;&#x7684;&#x65f6;&#x5019;&#x66f4;&#x80fd;&#x533a;&#x5206;&#x4fdd;&#x5b58;&#x7684;&#x8fdb;&#x5ea6;"/>
 <node CREATED="1355753801120" ID="ID_1628200928" MODIFIED="1355753890297" TEXT="&#x6bcf;&#x4e2a;&#x8fdb;&#x5ea6;&#x7684;&#x540d;&#x79f0;&#x90fd;&#x7c7b;&#x4f3c;stash@{num}&#x662f;&#x4e0d;&#x662f;&#x50cf;&#x6781;&#x4e86;reflog&#x7684;&#x65e5;&#x5fd7;&#xff1f; &#x5176;&#x5b9e;stash &#x5c31;&#x662f;&#x901a;&#x8fc7;&#x5f15;&#x7528;&#x548c;&#x5f15;&#x7528;&#x53d8;&#x66f4;reflog&#x5b9e;&#x73b0;&#x7684;"/>
@@ -644,8 +735,7 @@
       &#22240;&#20026;--index&#38500;&#20102;&#24674;&#22797;&#24037;&#20316;&#21306;&#30340;&#25991;&#20214;&#22806;&#36824;&#23581;&#35797;&#22238;&#22797;&#24037;&#20316;&#21306;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355757753622" ID="ID_1644744375" MODIFIED="1355758112274">
 <richcontent TYPE="NODE"><html>
@@ -672,8 +762,7 @@
       git stash --patch &#32467;&#26524;&#36824;&#26159;&#27809;&#26377;&#24046;&#24322;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1355753323916" ID="ID_521657543" MODIFIED="1355757016400">
 <richcontent TYPE="NODE"><html>
@@ -685,27 +774,54 @@
       &#20180;&#32454;&#30475;&#20070;&#65292;&#19981;&#25918;&#36807;&#27599;&#19968;&#20010;&#32454;&#33410;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
 </node>
-<node CREATED="1355389521410" ID="ID_1304687197" MODIFIED="1355542485582" TEXT="git cat-file">
+<node CREATED="1355389521410" FOLDED="true" ID="ID_1304687197" MODIFIED="1355899510781" TEXT="git cat-file">
 <node CREATED="1355389538946" ID="ID_1065495975" MODIFIED="1355389546607" TEXT="&#x7528;&#x4e8e;&#x7814;&#x7a76;git object id"/>
 <node CREATED="1355389547210" ID="ID_1945130643" MODIFIED="1355389575398" TEXT="git cat-file -t e2a3b &#x67e5;&#x770b;git&#x5bf9;&#x8c61;id&#x7c7b;&#x578b;"/>
 <node CREATED="1355389589754" ID="ID_436314776" MODIFIED="1355389605878" TEXT="git cat-file -p e23e2b &#x67e5;&#x770b;git&#x5bf9;&#x8c61;&#x5185;&#x5bb9;"/>
+<node CREATED="1355899477225" ID="ID_853912088" MODIFIED="1355899505030" TEXT="git cat-file HEAD^:welcome.txt &#x663e;&#x793a;&#x5386;&#x53f2;&#x4e2d;&#x67d0;&#x4e2a;&#x6587;&#x4ef6;&#x7684;&#x5185;&#x5bb9;"/>
 </node>
-<node CREATED="1355390687817" ID="ID_540419643" MODIFIED="1355390690949" TEXT="git branch">
+<node CREATED="1355899520433" ID="ID_850930039" MODIFIED="1355899523526" TEXT="git show">
+<node CREATED="1355899526449" ID="ID_165899786" MODIFIED="1355899535990" TEXT="git show HEAD^:welcome.txt"/>
+</node>
+<node CREATED="1355390687817" FOLDED="true" ID="ID_540419643" MODIFIED="1355899069284" TEXT="git branch">
 <node CREATED="1355390692705" ID="ID_895639606" MODIFIED="1355638278200" TEXT="git branch -v &#x663e;&#x793a;&#x5f53;&#x524d;&#x5206;&#x652f;"/>
 </node>
-<node CREATED="1355390965841" ID="ID_1870743327" MODIFIED="1355390969848" TEXT="git rev-parse">
+<node CREATED="1355390965841" ID="ID_1870743327" MODIFIED="1355903614963" TEXT="git rev-parse">
 <node CREATED="1355390972224" ID="ID_998253553" MODIFIED="1355390977314" TEXT="&#x663e;&#x793a;&#x5bf9;&#x5e94;&#x7684;&#x63d0;&#x4ea4;id"/>
 <node CREATED="1355390977816" ID="ID_1667592745" MODIFIED="1355390982346" TEXT="git rev-parse master"/>
 <node CREATED="1355390982776" ID="ID_917662597" MODIFIED="1355390986715" TEXT="git rev-parse HEAD"/>
 <node CREATED="1355390987129" ID="ID_1012802711" MODIFIED="1355391004696" TEXT="git rev-parse refs/heads/master"/>
+<node CREATED="1355903640084" ID="ID_1826506896" MODIFIED="1355903648567" TEXT="--git-dir &#x663e;&#x793a;&#x7248;&#x672c;&#x5e93;&#x7684;&#x4f4d;&#x7f6e;"/>
+<node CREATED="1355903672405" ID="ID_998018954" MODIFIED="1355903695478" TEXT="--show-cdup &#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x533a;&#x76ee;&#x5f55;&#x7684;&#x6df1;&#x5ea6;"/>
+<node CREATED="1355903733557" ID="ID_643509373" MODIFIED="1355903868640" TEXT="--symbolic --branches &#x663e;&#x793a;&#x5206;&#x652f;"/>
+<node CREATED="1355903851493" ID="ID_348463028" MODIFIED="1355903863343" TEXT="--symbolic --tags &#x663e;&#x793a;&#x91cc;&#x7a0b;&#x7891;"/>
+<node CREATED="1355903989333" ID="ID_874661416" MODIFIED="1355904004583" TEXT="--symbolic --glob=refs/* &#x663e;&#x793a;&#x6240;&#x6709;&#x5f15;&#x7528;"/>
+<node CREATED="1355904243381" ID="ID_1030787358" MODIFIED="1355904399527" TEXT="&#x663e;&#x793a;&#x5bf9;&#x8c61;&#x7684;sha1&#x503c; ">
+<node CREATED="1355904451380" ID="ID_829769923" MODIFIED="1355904466463" TEXT="&#x53ef;&#x4f20;HEAD"/>
+<node CREATED="1355904466988" ID="ID_903076449" MODIFIED="1355904469803" TEXT="&#x591a;&#x4e2a;&#x5bf9;&#x8c61;"/>
+<node CREATED="1355904471060" ID="ID_1858296133" MODIFIED="1355904476911" TEXT="git describe&#x7684;&#x8f93;&#x51fa;"/>
+<node CREATED="1355904479508" ID="ID_299135698" MODIFIED="1355904492360" TEXT="665a &#x7b49;sha1&#x524d;&#x51e0;&#x4f4d;"/>
+<node CREATED="1355905075788" ID="ID_1282133839" MODIFIED="1355905091847" TEXT="tag &#x91cc;&#x7a0b;&#x7891;&#x6307;&#x5411;&#x7684;&#x662f;&#x4e00;&#x4e2a;tag&#x5bf9;&#x8c61;&#xff0c;&#x800c;&#x975e;&#x63d0;&#x4ea4;"/>
+<node CREATED="1355907986032" ID="ID_478549066" MODIFIED="1355907990897" TEXT="HEAD^^2^3"/>
+<node CREATED="1355907991672" ID="ID_488911620" MODIFIED="1355908006494" TEXT=":/&quot;&#x6ce8;&#x91ca;&quot;  &#x901a;&#x8fc7;&#x6ce8;&#x91ca;&#x67e5;&#x8be2;&#x63d0;&#x4ea4;"/>
+<node CREATED="1355908007408" ID="ID_1260482555" MODIFIED="1355908077060" TEXT="HEAD^{tree} &#x663e;&#x793a;&#x6811;&#x91cc;&#x9762;&#x7684;&#x6587;&#x4ef6;"/>
+<node CREATED="1355908015760" ID="ID_1031767813" MODIFIED="1355908054205" TEXT=":Makefile &#x6682;&#x5b58;&#x533a;&#x4e2d;&#x67d0;&#x4e2a;&#x6587;&#x4ef6;&#x7684;"/>
+<node CREATED="1355908087000" ID="ID_313247460" MODIFIED="1355908098500" TEXT="HEAD@{0} master@{3}"/>
 </node>
-<node CREATED="1355542972962" ID="ID_1251750845" MODIFIED="1355542974971" TEXT="git reset">
+</node>
+<node CREATED="1355908108712" ID="ID_1160878838" MODIFIED="1355908120565" TEXT="git rev-list (&#x7248;&#x672c;&#x8303;&#x56f4;&#x8868;&#x793a;&#x6cd5;)">
+<node CREATED="1355908152280" ID="ID_1458788571" MODIFIED="1355908184190" TEXT="&#x4e00;&#x4e2a;&#x63d0;&#x4ea4;id&#x5b9e;&#x9645;&#x4e0a;&#x5c31;&#x53ef;&#x4ee5;&#x8868;&#x793a;&#x4e00;&#x4e2a;&#x7248;&#x672c;&#x5217;&#x8868;,&#x542b;&#x4e49;&#x662f;&#x8be5;&#x7248;&#x672c;&#x5f00;&#x59cb;&#x7684;&#x6240;&#x6709;&#x5386;&#x53f2;&#x63d0;&#x4ea4;"/>
+</node>
+<node CREATED="1355542972962" FOLDED="true" ID="ID_1251750845" MODIFIED="1355899067047" TEXT="git reset">
+<node CREATED="1355886183655" ID="ID_744751460" MODIFIED="1355886200881" TEXT="&#x6539;&#x53d8;&#x5f15;&#x7528;master&#x7684;&#x6307;&#x5411;">
+<icon BUILTIN="yes"/>
+</node>
+<node CREATED="1355887701955" ID="ID_1139860827" MODIFIED="1355887749649" TEXT="&#x9ed8;&#x8ba4;&#x503c;&#x662f;HEAD,&#x91cd;&#x7f6e;&#x4e00;&#x822c;&#x91cd;&#x7f6e;&#x6682;&#x5b58;&#x533a;"/>
 <node CREATED="1355542994154" ID="ID_1380547615" MODIFIED="1355543081406" TEXT="git reset --hard HEAD^ &#x4f7f;&#x7528;--hard&#x53c2;&#x6570;&#xff0c;&#x4f1a;&#x7834;&#x574f;&#x5de5;&#x4f5c;&#x533a;&#x672a;&#x63d0;&#x4ea4;&#x7684;&#x6539;&#x52a8;">
 <icon BUILTIN="messagebox_warning"/>
 </node>
@@ -819,7 +935,7 @@
 </node>
 <node CREATED="1355638014008" ID="ID_1148834318" MODIFIED="1355638049505" TEXT="git rest --hard HEAD^ &#x5f15;&#x7528;&#xff0c;&#x6682;&#x5b58;&#x533a;&#xff0c;&#x5de5;&#x4f5c;&#x533a;&#x5747;&#x4f1a;&#x56de;&#x9000;&#x4e00;&#x6b21;&#xff0c;&#x672a;&#x63d0;&#x4ea4;&#x7684;&#x66f4;&#x6539;&#x5168;&#x90e8;&#x4e22;&#x5931;!!!"/>
 </node>
-<node CREATED="1355543660213" ID="ID_1212630683" MODIFIED="1355543663847" TEXT="git reflog">
+<node CREATED="1355543660213" FOLDED="true" ID="ID_1212630683" MODIFIED="1355899072302" TEXT="git reflog">
 <node CREATED="1355543669533" ID="ID_1447072537" MODIFIED="1355543683011" TEXT="&#x633d;&#x6551;&#x9519;&#x8bef;&#x7684;reset">
 <icon BUILTIN="messagebox_warning"/>
 </node>
@@ -827,6 +943,85 @@
 <node CREATED="1355544032531" ID="ID_727943825" MODIFIED="1355544075821" TEXT="git reflog show master | head -5 &#x53cd;&#x5411;&#x67e5;&#x770b;master&#x65e5;&#x5fd7;"/>
 <node CREATED="1355544085347" ID="ID_232661751" MODIFIED="1355544098420" TEXT="git reset --hard master@{2} &#x91cd;&#x7f6e;"/>
 </node>
+<node CREATED="1355901573263" FOLDED="true" ID="ID_1626759638" MODIFIED="1355903629082" TEXT="git archive">
+<node CREATED="1355901667095" ID="ID_283335574" MODIFIED="1355901680862" TEXT="git archive -o latest.zip HEAd"/>
+<node CREATED="1355901688191" ID="ID_1875662878" MODIFIED="1355901707749" TEXT="git archive -o partial.tar HEAD src doc"/>
+<node CREATED="1355901746207" ID="ID_538154726" MODIFIED="1355901841946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#22522;&#20110;&#37324;&#31243;&#30865;v1.0&#24402;&#26723;,&#24182;&#19988;&#20026;&#24402;&#26723;&#20013;&#30340;&#25991;&#20214;&#28155;&#21152;&#30446;&#24405;&#21069;&#32512;1.0
+    </p>
+    <p>
+      git archive --format=tar --prefix=1.0/ v1.0 | gzip &gt; foo-1.0.tar.gz
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1355900844136" FOLDED="true" ID="ID_1149764915" MODIFIED="1355903630522" POSITION="right" TEXT="git &#x6587;&#x4ef6;&#x5ffd;&#x7565;">
+<node CREATED="1355901311767" ID="ID_823806047" MODIFIED="1355901316574" TEXT="&#x5171;&#x4eab;&#x5f0f;">
+<node CREATED="1355901048072" ID="ID_429578703" MODIFIED="1355901095739">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#22312;&#39033;&#30446;&#20219;&#24847;&#30446;&#24405;&#28155;&#21152;&#19968;&#20010;.gitignore&#25991;&#20214;
+    </p>
+    <p>
+      &#25991;&#20214;&#20869;&#23481;&#20026;&#35201;&#36807;&#28388;&#30340;&#25991;&#20214;&#30340;&#36890;&#37197;&#24335;
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1355901317112" ID="ID_1261355206" MODIFIED="1355901320862" TEXT="&#x72ec;&#x4eab;&#x5f0f;">
+<node CREATED="1355901357960" ID="ID_515582157" MODIFIED="1355901392518" TEXT="&#x9488;&#x5bf9;&#x5f53;&#x524d;&#x5de5;&#x7a0b; &#x8bbe;&#x7f6e;.git/info/exclude"/>
+<node CREATED="1355901364879" ID="ID_660843479" MODIFIED="1355901511294">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      &#38024;&#23545;&#25152;&#26377;&#26412;&#22320;&#24037;&#31243; core.excludesfile
+    </p>
+    <p>
+      git config --global --core.excludesfile /home/libin/.gitignore
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1355902345486" FOLDED="true" ID="ID_537955178" MODIFIED="1355903631538" POSITION="right" TEXT="git &#x56fe;&#x5f62;&#x5de5;&#x5177;">
+<node CREATED="1355902355550" ID="ID_269988429" MODIFIED="1355902357520" TEXT="gitk">
+<node CREATED="1355902366391" ID="ID_945601311" MODIFIED="1355902369776" TEXT="gitk --all"/>
+<node CREATED="1355902370342" ID="ID_1246200044" MODIFIED="1355902382527" TEXT="gitk --since=&quot;2 weeks ago&quot;"/>
+<node CREATED="1355902399254" ID="ID_1064705534" MODIFIED="1355902425240" TEXT="&#x663e;&#x793a;&#x67d0;&#x4e2a;&#x91cc;&#x7a0b;&#x7891;&#x4ee5;&#x6765;&#xff0c;&#x67d0;&#x4e9b;&#x76ee;&#x5f55;&#x7684;&#x63d0;&#x4ea4; gitk v1.0 dir1 dir2"/>
+<node CREATED="1355902439941" ID="ID_1068077783" MODIFIED="1355902446456" TEXT="&#x7eff;&#x8272;-master&#x5206;&#x652f;"/>
+<node CREATED="1355902467358" ID="ID_1053886193" MODIFIED="1355902471929" TEXT="&#x7070;&#x8272;-stash"/>
+<node CREATED="1355902472366" ID="ID_292017043" MODIFIED="1355902477473" TEXT="&#x9ec4;&#x8272;-&#x91cc;&#x7a0b;&#x7891;"/>
+<node CREATED="1355902586750" ID="ID_24704944" MODIFIED="1355902594168" TEXT="&#x53ea;&#x80fd;&#x7528;&#x6765;&#x6d4f;&#x89c8;"/>
+</node>
+<node CREATED="1355902579014" ID="ID_183682831" MODIFIED="1355902582199" TEXT="git gui">
+<node CREATED="1355902596694" ID="ID_501059394" MODIFIED="1355902600688" TEXT="&#x53ef;&#x7528;&#x6765;&#x63d0;&#x4ea4;"/>
+</node>
+<node CREATED="1355902700782" ID="ID_1398553684" MODIFIED="1355902702024" TEXT="gitg"/>
+</node>
+<node CREATED="1355886941972" ID="ID_1266730434" MODIFIED="1355886946504" POSITION="left" TEXT="english">
+<node CREATED="1355886992540" ID="ID_1444488103" MODIFIED="1355887004682" TEXT="incorporate-&#x5408;&#x5e76;&#x3001;&#x7ed3;&#x5408;"/>
+<node CREATED="1355887139603" ID="ID_1792589356" MODIFIED="1355887148100" TEXT="diverge from-&#x5206;&#x6b67;"/>
+<node CREATED="1355887218299" ID="ID_203101874" MODIFIED="1355887231532" TEXT="replay-&#x91cd;&#x64ad;&#x3001;&#x91cd;&#x653e;"/>
+<node CREATED="1355901630383" ID="ID_605360256" MODIFIED="1355901639478" TEXT="archive-&#x5f52;&#x6863;"/>
 </node>
 </node>
 </map>

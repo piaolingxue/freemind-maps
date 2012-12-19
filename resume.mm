@@ -3,7 +3,7 @@
 <node CREATED="1355821664857" ID="ID_390867391" MODIFIED="1355831904400" TEXT="resume">
 <node CREATED="1355831980680" ID="ID_382577444" MODIFIED="1355831985552" POSITION="right" TEXT="&#x4e2a;&#x4eba;&#x7b80;&#x5386;">
 <node CREATED="1355832378566" ID="ID_972063636" MODIFIED="1355832382510" TEXT="English">
-<node CREATED="1355831987480" FOLDED="true" ID="ID_335649766" MODIFIED="1355832277517" TEXT="&#x82f1;&#x6587;&#x81ea;&#x6211;&#x4ecb;&#x7ecd;">
+<node CREATED="1355831987480" FOLDED="true" ID="ID_335649766" MODIFIED="1355879966222" TEXT="&#x82f1;&#x6587;&#x81ea;&#x6211;&#x4ecb;&#x7ecd;">
 <node CREATED="1355832195007" ID="ID_910302557" MODIFIED="1355832201143">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -104,8 +104,7 @@
       I feel that my strongest asset is my ability to stick to things to get them done. I feel a real sense of accomplishment when I finish a job and it turns out just as I&#8217;d planned. I&#8217;ve set some high goals for myself. For example, I want to graduate with highest distinction. And even though I had a slow start in my freshman year, I made up for it by doing an honor&#8217;s thesis.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1355832447893" ID="ID_971815853" MODIFIED="1355832450790" TEXT="What is your greatest weakness?&#xff08;&#x4f60;&#x6700;&#x5927;&#x7684;&#x5f31;&#x70b9;&#x662f;&#x4ec0;&#x4e48;&#xff1f;&#xff09; ">
