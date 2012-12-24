@@ -1,19 +1,26 @@
-<map version="1.0.1">
-<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1355144480049" ID="ID_1054199605" MODIFIED="1355317817024" TEXT="Git 1.7.9.5">
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="0.9.0">
+<!-- This file is saved using a hacked version of FreeMind. visit: http://freemind-mmx.sourceforge.net -->
+<!-- Orignal FreeMind, can download from http://freemind.sourceforge.net -->
+<!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
+<node ID="ID_1054199605" 
+	TEXT="Git 1.7.9.5">
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1355318290341" FOLDED="true" ID="ID_1116462917" MODIFIED="1355902341079" POSITION="right" TEXT="history of version system">
-<font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
-<node CREATED="1355318498637" ID="ID_1103496071" MODIFIED="1355318532252" TEXT="diff/patch  Lunus 1991~2002">
-<node CREATED="1355318564668" ID="ID_1428996426" MODIFIED="1355318573201" TEXT="diff -u hello world &gt; diff.txt"/>
-<node CREATED="1355318722556" ID="ID_72360274" MODIFIED="1355319001702">
+<node FOLDED="true" ID="ID_1116462917" POSITION="right" 
+	TEXT="history of version system">
+<font NAME="文泉驿微米黑" SIZE="12"/>
+<node FOLDED="true" ID="ID_1103496071" 
+	TEXT="diff/patch  Lunus 1991~2002">
+<node ID="ID_1428996426" 
+	TEXT="diff -u hello world &gt; diff.txt"/>
+<node ID="ID_72360274">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      patch(diff &#x7684;&#x53cd;&#x5411;&#x64cd;&#x4f5c;)
+      patch(diff 的反向操作)
     </p>
     <p>
       cp hello world
@@ -25,179 +32,260 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355318412540" ID="ID_1340147090" MODIFIED="1355319102641" TEXT="1986~    cvs(Concurrent Version System),  c/s mode">
-<node CREATED="1355319210336" ID="ID_1508107235" MODIFIED="1355319390906" TEXT="first raise">
-<node CREATED="1355319206496" ID="ID_1162838540" MODIFIED="1355319209512" TEXT="commit log"/>
-<node CREATED="1355319412287" ID="ID_1370216915" MODIFIED="1355319414738" TEXT="check in"/>
-<node CREATED="1355319218928" ID="ID_1420620697" MODIFIED="1355319220960" TEXT="check out"/>
-<node CREATED="1355319223656" ID="ID_515383516" MODIFIED="1355319224688" TEXT="tag"/>
-<node CREATED="1355319225496" ID="ID_110628942" MODIFIED="1355319230824" TEXT="branch"/>
+<node FOLDED="true" ID="ID_1340147090" 
+	TEXT="1986~    cvs(Concurrent Version System),  c/s mode">
+<node FOLDED="true" ID="ID_1508107235" 
+	TEXT="first raise">
+<node ID="ID_1162838540" 
+	TEXT="commit log"/>
+<node ID="ID_1370216915" 
+	TEXT="check in"/>
+<node ID="ID_1420620697" 
+	TEXT="check out"/>
+<node ID="ID_515383516" 
+	TEXT="tag"/>
+<node ID="ID_110628942" 
+	TEXT="branch"/>
 </node>
-<node CREATED="1355319379759" ID="ID_1950700271" MODIFIED="1355319424185" TEXT="shortcomming">
-<node CREATED="1355319543086" ID="ID_543238648" MODIFIED="1355319596519" TEXT="RCS file &#x8d8a;&#x6765;&#x8d8a;&#x591a; &#x901f;&#x5ea6;&#x8d8a;&#x6765;&#x8d8a;&#x6162;"/>
-<node CREATED="1355319601365" ID="ID_1807967902" MODIFIED="1355319673538" TEXT="&#x5206;&#x652f;&#x91cc;&#x7a0b;&#x7891;&#x4e0d;&#x53ef;&#x89c1; &#x56e0;&#x4e3a;&#x4ed6;&#x4eec;&#x5206;&#x6563;&#x5728;&#x5404;&#x4e2a;RCS&#x6587;&#x4ef6;"/>
-<node CREATED="1355319674493" ID="ID_7500033" MODIFIED="1355319687433" TEXT="...."/>
+<node FOLDED="true" ID="ID_1950700271" 
+	TEXT="shortcomming">
+<node ID="ID_543238648" 
+	TEXT="RCS file 越来越多 速度越来越慢"/>
+<node ID="ID_1807967902" 
+	TEXT="分支里程碑不可见 因为他们分散在各个RCS文件"/>
+<node ID="ID_7500033" 
+	TEXT="...."/>
 </node>
 </node>
-<node CREATED="1355318472806" ID="ID_787825371" MODIFIED="1355320215474" TEXT="2000~ svn(Subversion)">
-<node CREATED="1355319937283" ID="ID_949906961" MODIFIED="1355319940540" TEXT="&#x539f;&#x7406;">
-<node CREATED="1355319949147" ID="ID_1413102049" MODIFIED="1355320195705">
+<node FOLDED="true" ID="ID_787825371" 
+	TEXT="2000~ svn(Subversion)">
+<node FOLDED="true" ID="ID_949906961" 
+	TEXT="原理">
+<node ID="ID_1413102049">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#x6bcf;&#x6b21;&#x63d0;&#x4ea4;&#x90fd;&#x4f1a;&#x5728;&#x670d;&#x52a1;&#x5668;&#x7aef;db/revs&#x548c;db/revsprops&#x76ee;&#x5f55;&#x4e0b;&#x5404;&#x521b;&#x5efa;&#x4e00;&#x4e2a;&#x4ee5;&#x987a;&#x5e8f;&#x6570;&#x5b57;&#x7f16;&#x53f7;&#x547d;&#x540d;&#x7684;&#x6587;&#x4ef6;&#xff0c;&#x5176;&#x4e2d;db/revs&#x4e0b;&#x7684;&#x6587;&#x4ef6;&#x8bb0;&#x5f55;&#x4e86;&#x4e0e;&#x4e0a;&#x4e00;&#x4e2a;&#x63d0;&#x4ea4;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;,&#x5728;db/revsprops&#x4e0b;&#x5219;&#x4fdd;&#x7559;&#x7740;&#x63d0;&#x4ea4;&#x65e5;&#x5fd7;&#x3001;&#x4f5c;&#x8005;&#x3001;&#x63d0;&#x4ea4;&#x65f6;&#x95f4;&#x7b49;&#x4fe1;&#x606f;
+      每次提交都会在服务器端db/revs和db/revsprops目录下各创建一个以顺序数字编号命名的文件，其中db/revs下的文件记录了与上一个提交之间的差异,在db/revsprops下则保留着提交日志、作者、提交时间等信息
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355320200426" ID="ID_955203587" MODIFIED="1355320200426" TEXT=""/>
+<node ID="ID_955203587" 
+	TEXT=""/>
 </node>
-<node CREATED="1355320242514" ID="ID_577120571" MODIFIED="1355320246106" TEXT="&#x7279;&#x8272;">
-<node CREATED="1355320249201" ID="ID_1221263258" MODIFIED="1355320387073">
+<node FOLDED="true" ID="ID_577120571" 
+	TEXT="特色">
+<node ID="ID_1221263258">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#x8f7b;&#x91cf;&#x7ea7;&#x62f7;&#x8d1d; &#x4f8b;&#x5982;&#xff0c;&#x5c06;&#x4e3b;trunk&#x4e0b;&#x7684;&#x6587;&#x4ef6;&#x62f7;&#x8d1d;&#x5230;branches/v1.x&#x4e0b;
+      轻量级拷贝 例如，将主trunk下的文件拷贝到branches/v1.x下
     </p>
     <p>
-      &#x53ea;&#x76f8;&#x5f53;&#x4e8e;&#x5728;db/props&#x4e0b;&#x7684;&#x53d8;&#x66f4;&#x96c6;&#x6587;&#x4ef6;&#x4e2d;&#x7528;&#x7279;&#x5b9a;&#x7684;&#x8bed;&#x6cd5;&#x505a;&#x4e86;&#x4e2a;&#x6807;&#x6ce8;&#xff0c;
+      只相当于在db/props下的变更集文件中用特定的语法做了个标注，
     </p>
     <p>
-      &#x65e0;&#x9700;&#x771f;&#x6b63;&#x7684;&#x6587;&#x4ef6;&#x62f7;&#x8d1d;
+      无需真正的文件拷贝
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355320389184" ID="ID_1925408536" MODIFIED="1355320445585">
+<node ID="ID_1925408536">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#x6388;&#x6743;&#x4e0a;&#x4e0d;&#x518d;&#x50cf;cvs&#x4f9d;&#x8d56;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&#x672c;&#x8eab;&#x5bf9;&#x76ee;&#x5f55;&#x7684;&#x6388;&#x6743;&#x673a;&#x5236;
+      授权上不再像cvs依赖操作系统本身对目录的授权机制
     </p>
     <p>
-      &#x800c;&#x662f;&#x91c7;&#x7528;&#x6388;&#x6743;&#x6587;&#x4ef6;&#x7684;&#x5f62;&#x5f0f;&#x5b9e;&#x73b0;<br/>
+      而是采用授权文件的形式实现<br/>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355320497671" ID="ID_81508300" MODIFIED="1355320586951">
+<node ID="ID_81508300">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#x521b;&#x4e3e;:.svn&#x76ee;&#x5f55;&#x4e0b;&#x4fdd;&#x7559;&#x4e86;&#x6bcf;&#x4e00;&#x4e2a;&#x6587;&#x4ef6;&#x5197;&#x4f59;&#x7684;&#x539f;&#x59cb;&#x62f7;&#x8d1d;
+      创举:.svn目录下保留了每一个文件冗余的原始拷贝
     </p>
     <p>
-      &#x90e8;&#x5206;&#x547d;&#x4ee4;&#x4e0d;&#x518d;&#x9700;&#x8981;&#x7f51;&#x7edc;&#x8fde;&#x63a5;&#xff0c;&#x4f8b;&#x5982;&#x6587;&#x4ef6;&#x4fee;&#x6539;&#x7684;&#x5dee;&#x5f02;&#x6bd4;&#x8f83;
+      部分命令不再需要网络连接，例如文件修改的差异比较
     </p>
     <p>
-      &#x4ee5;&#x53ca;&#x9519;&#x8bef;&#x66f4;&#x6539;&#x7684;&#x56de;&#x9000;
+      以及错误更改的回退
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1355320653207" ID="ID_55898527" MODIFIED="1355320670864" TEXT="Git Linus&apos;s second great work">
-<node CREATED="1355320776198" ID="ID_1870550043" MODIFIED="1355321972326" TEXT="the projects now use git">
-<node CREATED="1355320804749" ID="ID_1679719316" MODIFIED="1355320807107" TEXT="perl"/>
-<node CREATED="1355320811037" ID="ID_444274783" MODIFIED="1355320812679" TEXT="eclipse"/>
-<node CREATED="1355320815677" ID="ID_260624733" MODIFIED="1355320816927" TEXT="gnome"/>
-<node CREATED="1355320820118" ID="ID_1124244700" MODIFIED="1355320822200" TEXT="linux core"/>
-<node CREATED="1355320822645" ID="ID_1143937630" MODIFIED="1355320825904" TEXT="KDE"/>
-<node CREATED="1355320827557" ID="ID_1214259087" MODIFIED="1355320828384" TEXT="Qt"/>
-<node CREATED="1355320830125" ID="ID_1039843310" MODIFIED="1355320834400" TEXT="Ruby on Rails"/>
-<node CREATED="1355320836597" ID="ID_1632616492" MODIFIED="1355320838265" TEXT="Android"/>
-<node CREATED="1355320841814" ID="ID_52968171" MODIFIED="1355320843881" TEXT="Debian"/>
-<node CREATED="1355320845893" ID="ID_1076568571" MODIFIED="1355320847304" TEXT="X.org"/>
+<node FOLDED="true" ID="ID_55898527" 
+	TEXT="Git Linus&apos;s second great work">
+<node FOLDED="true" ID="ID_1870550043" 
+	TEXT="the projects now use git">
+<node ID="ID_1679719316" 
+	TEXT="perl"/>
+<node ID="ID_444274783" 
+	TEXT="eclipse"/>
+<node ID="ID_260624733" 
+	TEXT="gnome"/>
+<node ID="ID_1124244700" 
+	TEXT="linux core"/>
+<node ID="ID_1143937630" 
+	TEXT="KDE"/>
+<node ID="ID_1214259087" 
+	TEXT="Qt"/>
+<node ID="ID_1039843310" 
+	TEXT="Ruby on Rails"/>
+<node ID="ID_1632616492" 
+	TEXT="Android"/>
+<node ID="ID_52968171" 
+	TEXT="Debian"/>
+<node ID="ID_1076568571" 
+	TEXT="X.org"/>
 </node>
 </node>
 </node>
-<node CREATED="1355144732595" FOLDED="true" HGAP="87" ID="ID_1549322574" MODIFIED="1355902335931" POSITION="right" TEXT="why choose git?" VSHIFT="-151">
-<font NAME="&#x6587;&#x6cc9;&#x9a7f;&#x5fae;&#x7c73;&#x9ed1;" SIZE="12"/>
-<node CREATED="1355149049713" HGAP="44" ID="ID_119476811" MODIFIED="1355321697601" TEXT="&#x73b0;&#x573a;&#x7248;&#x672c;&#x63a7;&#x5236;" VSHIFT="-164">
-<node CREATED="1355321699224" ID="ID_1652919908" MODIFIED="1355321701586" TEXT="svn">
-<node CREATED="1355321717984" ID="ID_1078661053" MODIFIED="1355321744008" TEXT="svnadmin create /path/repos/project1"/>
-<node CREATED="1355321753928" ID="ID_1073009629" MODIFIED="1355321778041" TEXT="svn checkout file:///remote/repos/project1"/>
-<node CREATED="1355321781792" ID="ID_1055057153" MODIFIED="1355321785188" TEXT="svn add *"/>
-<node CREATED="1355321788751" ID="ID_436368680" MODIFIED="1355321806056" TEXT="svn ci -m &quot;initialized&quot;"/>
-<node CREATED="1355321812503" ID="ID_443386984" MODIFIED="1355321813829" TEXT="svn ci"/>
-<node CREATED="1355321816071" ID="ID_1717104401" MODIFIED="1355321922608" TEXT="svn diff -r1 &gt; hacks.patch &#x81f4;&#x547d;&#x7684;&#x7f3a;&#x9677;&#xff0c;&#x4e0d;&#x652f;&#x6301;&#x4e8c;&#x8fdb;&#x5236;&#x6587;&#x4ef6;">
+<node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
+	TEXT="why choose git?" VSHIFT="-151">
+<font NAME="文泉驿微米黑" SIZE="12"/>
+<node FOLDED="true" HGAP="44" ID="ID_119476811" 
+	TEXT="现场版本控制" VSHIFT="-164">
+<node FOLDED="true" ID="ID_1652919908" 
+	TEXT="svn">
+<node ID="ID_1078661053" 
+	TEXT="svnadmin create /path/repos/project1"/>
+<node ID="ID_1073009629" 
+	TEXT="svn checkout file:///remote/repos/project1"/>
+<node ID="ID_1055057153" 
+	TEXT="svn add *"/>
+<node ID="ID_436368680" 
+	TEXT="svn ci -m &quot;initialized&quot;"/>
+<node ID="ID_443386984" 
+	TEXT="svn ci"/>
+<node ID="ID_1717104401" 
+	TEXT="svn diff -r1 &gt; hacks.patch 致命的缺陷，不支持二进制文件">
 <icon BUILTIN="yes"/>
 </node>
 </node>
-<node CREATED="1355321703928" ID="ID_1626365262" MODIFIED="1355321704666" TEXT="git">
-<node CREATED="1355321984222" ID="ID_274690219" MODIFIED="1355321987264" TEXT="git init"/>
-<node CREATED="1355321998086" ID="ID_1697073714" MODIFIED="1355322005831" TEXT="git add -A"/>
-<node CREATED="1355322008646" ID="ID_855411839" MODIFIED="1355322016675" TEXT="git commit -m&quot;initialized&quot;"/>
-<node CREATED="1355322021430" ID="ID_1179143947" MODIFIED="1355322023751" TEXT="git tag v1"/>
-<node CREATED="1355322025878" ID="ID_1024172577" MODIFIED="1355322027936" TEXT="git commit -a"/>
-<node CREATED="1355322036334" ID="ID_173946260" MODIFIED="1355322048679" TEXT="git format-patch v1..HEAD"/>
-<node CREATED="1355322058989" ID="ID_934431250" MODIFIED="1355322070695" TEXT="git send-email *.patch"/>
+<node FOLDED="true" ID="ID_1626365262" 
+	TEXT="git">
+<node ID="ID_274690219" 
+	TEXT="git init"/>
+<node ID="ID_1697073714" 
+	TEXT="git add -A"/>
+<node ID="ID_855411839" 
+	TEXT="git commit -m&quot;initialized&quot;"/>
+<node ID="ID_1179143947" 
+	TEXT="git tag v1"/>
+<node ID="ID_1024172577" 
+	TEXT="git commit -a"/>
+<node ID="ID_173946260" 
+	TEXT="git format-patch v1..HEAD"/>
+<node ID="ID_934431250" 
+	TEXT="git send-email *.patch"/>
 </node>
 </node>
-<node CREATED="1355322183132" ID="ID_1338341597" MODIFIED="1355322636354" TEXT="&#x4e0d;&#x4f1a;&#x5f15;&#x5165;&#x8f85;&#x52a9;&#x76ee;&#x5f55;">
-<node CREATED="1355322198276" ID="ID_1530729171" MODIFIED="1355322236254" TEXT="svn">
-<node CREATED="1355322331715" ID="ID_857839936" MODIFIED="1355322344007" TEXT="&#x5de5;&#x4f5c;&#x533a;&#x6bcf;&#x4e2a;&#x5b50;&#x76ee;&#x5f55;&#x4e0b;&#x521b;&#x5efa;.svn&#x76ee;&#x5f55;"/>
-<node CREATED="1355322350899" ID="ID_1216312458" MODIFIED="1355322364686" TEXT=".svn&#x5b58;&#x653e;&#x6587;&#x4ef6;&#x7684;&#x539f;&#x59cb;&#x62f7;&#x8d1d;&#xff0c;&#x641c;&#x7d22;&#x91cf;&#x52a0;&#x5927;"/>
+<node FOLDED="true" ID="ID_1338341597" 
+	TEXT="不会引入辅助目录">
+<node FOLDED="true" ID="ID_1530729171" 
+	TEXT="svn">
+<node ID="ID_857839936" 
+	TEXT="工作区每个子目录下创建.svn目录"/>
+<node ID="ID_1216312458" 
+	TEXT=".svn存放文件的原始拷贝，搜索量加大"/>
 </node>
-<node CREATED="1355322237988" ID="ID_1285198621" MODIFIED="1355322239811" TEXT="cvs">
-<node CREATED="1355322309612" ID="ID_9191260" MODIFIED="1355322322630" TEXT="&#x8981;&#x5728;&#x5de5;&#x4f5c;&#x533a;&#x6bcf;&#x4e2a;&#x5b50;&#x76ee;&#x5f55;&#x4e0b;&#x521b;&#x5efa;cvs&#x76ee;&#x5f55;"/>
+<node FOLDED="true" ID="ID_1285198621" 
+	TEXT="cvs">
+<node ID="ID_9191260" 
+	TEXT="要在工作区每个子目录下创建cvs目录"/>
 </node>
-<node CREATED="1355322240468" ID="ID_1454478262" MODIFIED="1355322241352" TEXT="git">
-<node CREATED="1355322277412" ID="ID_741003646" MODIFIED="1355322287622" TEXT="&#x53ea;&#x5728;&#x9876;&#x7ea7;&#x76ee;&#x5f55;&#x521b;&#x5efa;&#x4e00;&#x4e2a;.git&#x76ee;&#x5f55;"/>
-<node CREATED="1355322288788" ID="ID_1939979442" MODIFIED="1355322296985" TEXT="&#x53ef;&#x4ee5;&#x7528;git grep &#x5ffd;&#x7565;&#x8fd9;&#x4e2a;&#x76ee;&#x5f55;"/>
-</node>
-</node>
-<node CREATED="1355322637722" ID="ID_1982908111" MODIFIED="1355322656525" TEXT="&#x91cd;&#x5199;&#x63d0;&#x4ea4;&#x8bf4;&#x660e;">
-<node CREATED="1355322659993" ID="ID_952682123" MODIFIED="1355322661713" TEXT="svn">
-<node CREATED="1355322680193" ID="ID_1079288190" MODIFIED="1355322691853" TEXT="admin &#x5f00;&#x542f;&#x5141;&#x8bb8;&#x4fee;&#x6539;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355322692665" ID="ID_1597059623" MODIFIED="1355322746761" TEXT="&#x91cd;&#x5199;&#x63d0;&#x4ea4;&#x547d;&#x4ee4;&#x590d;&#x6742; svn ps --revprop -r &lt;REV&gt; svn:log &quot;new message&quot;"/>
-</node>
-<node CREATED="1355322662169" ID="ID_838057014" MODIFIED="1355322662852" TEXT="git">
-<node CREATED="1355322782552" ID="ID_365428483" MODIFIED="1355322805341" TEXT="git commit --amend &#x4fee;&#x6539;&#x4e0a;&#x4e00;&#x6b21;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355322806168" ID="ID_1805328029" MODIFIED="1355322833972" TEXT="git rebase -i &lt;commit-id&gt; &#x4fee;&#x6539;&#x67d0;&#x4e2a;&#x5386;&#x53f2;&#x63d0;&#x4ea4;"/>
-</node>
-</node>
-<node CREATED="1355322872536" ID="ID_894857739" MODIFIED="1355322879171" TEXT="&#x60f3;&#x5403;&#x540e;&#x6094;&#x836f;">
-<node CREATED="1355322881584" ID="ID_863013810" MODIFIED="1355322882963" TEXT="svn">
-<node CREATED="1355322886176" ID="ID_1839861125" MODIFIED="1355322909147" TEXT="&#x5047;&#x5982;&#x4e0d;&#x5c0f;&#x5fc3;&#x8fc1;&#x5165;&#x4e00;&#x4e2a;4&#xff27;&#x7684;&#x865a;&#x62df;&#x673a;&#x6587;&#x4ef6;"/>
-<node CREATED="1355322959536" ID="ID_1980379805" MODIFIED="1355322972551" TEXT="&#x5220;&#x9664;&#x518d;&#x63d0;&#x4ea4;&#x89e3;&#x51b3;&#x4e0d;&#x4e86;&#x95ee;&#x9898;"/>
-</node>
-<node CREATED="1355322883720" ID="ID_1553511711" MODIFIED="1355322884508" TEXT="git">
-<node CREATED="1355323225406" ID="ID_1427217001" MODIFIED="1355323247553" TEXT="git rm --cached win7.img"/>
-<node CREATED="1355323251030" ID="ID_136799769" MODIFIED="1355323255618" TEXT="git commit --amend"/>
-<node CREATED="1355323289589" ID="ID_151147956" MODIFIED="1355323324118" TEXT="&#x4fee;&#x6539;&#x5386;&#x53f2;&#x63d0;&#x4ea4;&#xff0c;&#x9700;&#x8981;&#x53d8;&#x57fa;&#x64cd;&#x4f5c; git rebase -i &lt;commit-id&gt;"/>
+<node FOLDED="true" ID="ID_1454478262" 
+	TEXT="git">
+<node ID="ID_741003646" 
+	TEXT="只在顶级目录创建一个.git目录"/>
+<node ID="ID_1939979442" 
+	TEXT="可以用git grep 忽略这个目录"/>
 </node>
 </node>
-<node CREATED="1355323516284" ID="ID_1623178968" MODIFIED="1355323522624" TEXT="&#x66f4;&#x597d;&#x7684;&#x63d0;&#x4ea4;&#x5217;&#x8868;">
-<node CREATED="1355323524267" ID="ID_469023560" MODIFIED="1355323526821" TEXT="svn"/>
-<node CREATED="1355323527308" ID="ID_1176649903" MODIFIED="1355323528224" TEXT="git">
-<node CREATED="1355323540523" ID="ID_1318437014" MODIFIED="1355323563691" TEXT="git add &#x5c06;&#x4fee;&#x6539;&#x5185;&#x5bb9;&#x63d0;&#x4ea4;&#x5230;&#x6682;&#x5b58;&#x533a;"/>
-<node CREATED="1355323573795" ID="ID_599915197" MODIFIED="1355323585104" TEXT="git add -u &#x5c06;&#x6240;&#x6709;&#x4fee;&#x6539;&#x7684;&#x6587;&#x4ef6;&#x63d0;&#x4ea4;&#x5230;&#x6682;&#x5b58;&#x533a;"/>
-<node CREATED="1355323593643" ID="ID_484225103" MODIFIED="1355323607581" TEXT="git add -A &#x5c06;&#x672c;&#x5730;&#x5220;&#x9664;&#x6587;&#x4ef6;&#x548c;&#x65b0;&#x589e;&#x6587;&#x4ef6;&#x6dfb;&#x52a0;&#x5230;&#x6682;&#x5b58;&#x533a;"/>
-<node CREATED="1355323613491" ID="ID_1168242450" MODIFIED="1355323629840" TEXT="git add -p &#x5bf9;&#x4e00;&#x4e2a;&#x4fee;&#x6539;&#x7684;&#x6587;&#x4ef6;&#x5185;&#x90e8;&#x8fdb;&#x884c;&#x6709;&#x9009;&#x62e9;&#x7684;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355323641243" ID="ID_1192200377" MODIFIED="1355323652477" TEXT="git commit &#x4f1a;&#x5bf9;&#x6682;&#x5b58;&#x533a;&#x8fdb;&#x884c;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355323659235" ID="ID_1552010329" MODIFIED="1355323666543" TEXT="git support &#x64a4;&#x9500;&#x63d0;&#x4ea4;"/>
+<node FOLDED="true" ID="ID_1982908111" 
+	TEXT="重写提交说明">
+<node FOLDED="true" ID="ID_952682123" 
+	TEXT="svn">
+<node ID="ID_1079288190" 
+	TEXT="admin 开启允许修改提交"/>
+<node ID="ID_1597059623" 
+	TEXT="重写提交命令复杂 svn ps --revprop -r &lt;REV&gt; svn:log &quot;new message&quot;"/>
+</node>
+<node FOLDED="true" ID="ID_838057014" 
+	TEXT="git">
+<node ID="ID_365428483" 
+	TEXT="git commit --amend 修改上一次提交"/>
+<node ID="ID_1805328029" 
+	TEXT="git rebase -i &lt;commit-id&gt; 修改某个历史提交"/>
 </node>
 </node>
-<node CREATED="1355323700186" ID="ID_5648990" MODIFIED="1355323704023" TEXT="&#x5dee;&#x5f02;&#x6bd4;&#x8f83;">
-<node CREATED="1355323705810" ID="ID_756278391" MODIFIED="1355323713095" TEXT="&#x652f;&#x6301;&#x4e8c;&#x8fdb;&#x5236;&#x6bd4;&#x8f83;"/>
-<node CREATED="1355323713514" ID="ID_1603979771" MODIFIED="1355323756098" TEXT="&#x652f;&#x6301;&#x9010;&#x5b57;&#x7b26;&#x6bd4;&#x8f83; git diff --word-diff"/>
+<node FOLDED="true" ID="ID_894857739" 
+	TEXT="想吃后悔药">
+<node FOLDED="true" ID="ID_863013810" 
+	TEXT="svn">
+<node ID="ID_1839861125" 
+	TEXT="假如不小心迁入一个4Ｇ的虚拟机文件"/>
+<node ID="ID_1980379805" 
+	TEXT="删除再提交解决不了问题"/>
 </node>
-<node CREATED="1355323796930" ID="ID_1580094191" MODIFIED="1355325159117" TEXT="&#x5de5;&#x4f5c;&#x8fdb;&#x5ea6;&#x7684;&#x4fdd;&#x5b58;">
-<node CREATED="1355323849730" ID="ID_847637836" MODIFIED="1355324012161">
+<node FOLDED="true" ID="ID_1553511711" 
+	TEXT="git">
+<node ID="ID_1427217001" 
+	TEXT="git rm --cached win7.img"/>
+<node ID="ID_136799769" 
+	TEXT="git commit --amend"/>
+<node ID="ID_151147956" 
+	TEXT="修改历史提交，需要变基操作 git rebase -i &lt;commit-id&gt;"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1623178968" 
+	TEXT="更好的提交列表">
+<node ID="ID_469023560" 
+	TEXT="svn"/>
+<node FOLDED="true" ID="ID_1176649903" 
+	TEXT="git">
+<node ID="ID_1318437014" 
+	TEXT="git add 将修改内容提交到暂存区"/>
+<node ID="ID_599915197" 
+	TEXT="git add -u 将所有修改的文件提交到暂存区"/>
+<node ID="ID_484225103" 
+	TEXT="git add -A 将本地删除文件和新增文件添加到暂存区"/>
+<node ID="ID_1168242450" 
+	TEXT="git add -p 对一个修改的文件内部进行有选择的提交"/>
+<node ID="ID_1192200377" 
+	TEXT="git commit 会对暂存区进行提交"/>
+<node ID="ID_1552010329" 
+	TEXT="git support 撤销提交"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_5648990" 
+	TEXT="差异比较">
+<node ID="ID_756278391" 
+	TEXT="支持二进制比较"/>
+<node ID="ID_1603979771" 
+	TEXT="支持逐字符比较 git diff --word-diff"/>
+</node>
+<node FOLDED="true" ID="ID_1580094191" 
+	TEXT="工作进度的保存">
+<node ID="ID_847637836">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -218,7 +306,7 @@
       </li>
     </ol>
     <p>
-      &#x5728;&#x65b0;&#x7684;&#x5206;&#x652f;&#x5de5;&#x4f5c;&#x5b8c;&#xff0c;&#x518d;&#x5207;&#x56de;&#x5f53;&#x524d;&#x5206;&#x652f;
+      在新的分支工作完，再切回当前分支
     </p>
     <ol>
       <li>
@@ -231,10 +319,11 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355324015361" ID="ID_843411417" MODIFIED="1355324038798" TEXT="&#x5207;&#x5fcc;svn&#x7684;&#x8865;&#x4e01;&#x4e0d;&#x652f;&#x6301;&#x4e8c;&#x8fdb;&#x5236;&#x683c;&#x5f0f;">
+<node ID="ID_843411417" 
+	TEXT="切忌svn的补丁不支持二进制格式">
 <icon BUILTIN="yes"/>
 </node>
-<node CREATED="1355323851153" ID="ID_439290316" MODIFIED="1355325154143">
+<node ID="ID_439290316">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -245,14 +334,14 @@
     </p>
     <ol>
       <li>
-        git stash &#x4fdd;&#x5b58;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x8fdb;&#x5ea6;
+        git stash 保存当前工作进度
       </li>
       <li>
         git checkout &lt;new_branch&gt;
       </li>
     </ol>
     <p>
-      &#x5207;&#x56de;&#x5f53;&#x524d;&#x5206;&#x652f;
+      切回当前分支
     </p>
     <ol>
       <li>
@@ -267,25 +356,38 @@
 <icon BUILTIN="list"/>
 </node>
 </node>
-<node CREATED="1355324148991" ID="ID_954866365" MODIFIED="1355324164097" TEXT="commit">
-<node CREATED="1355324171031" ID="ID_1249421858" MODIFIED="1355324172581" TEXT="svn">
-<node CREATED="1355324192799" ID="ID_947297753" MODIFIED="1355324210450" TEXT="svn&#x662f;&#x96c6;&#x4e2d;&#x7248;&#x672c;&#x63a7;&#x5236;&#x7cfb;&#x7edf;"/>
-<node CREATED="1355324216943" ID="ID_1203763072" MODIFIED="1355324242018" TEXT="&#x5982;&#x679c;&#x56e0;&#x4e3a;&#x51fa;&#x5dee;&#x6216;&#x8005;&#x5728;&#x5bb6;&#x529e;&#x516c;&#x53ef;&#x80fd;&#x5c31;&#x65e0;&#x6cd5;&#x63d0;&#x4ea4;"/>
+<node FOLDED="true" ID="ID_954866365" 
+	TEXT="commit">
+<node FOLDED="true" ID="ID_1249421858" 
+	TEXT="svn">
+<node ID="ID_947297753" 
+	TEXT="svn是集中版本控制系统"/>
+<node ID="ID_1203763072" 
+	TEXT="如果因为出差或者在家办公可能就无法提交"/>
 </node>
-<node CREATED="1355324173007" ID="ID_1491030097" MODIFIED="1355324173658" TEXT="git">
-<node CREATED="1355324247071" ID="ID_937705404" MODIFIED="1355324263397" TEXT="git&#x5c5e;&#x4e8e;&#x5206;&#x5e03;&#x5f0f;&#x7248;&#x672c;&#x63a7;&#x5236;&#x7cfb;&#x7edf;&#xff0c;&#x4e0d;&#x5b58;&#x5728;&#x8fd9;&#x79cd;&#x95ee;&#x9898;"/>
-<node CREATED="1355324296158" ID="ID_214261557" MODIFIED="1355324305869" TEXT="&#x7528;git&#x64cd;&#x4f5c;svn&#x5e93;">
-<node CREATED="1355324320798" ID="ID_1341097135" MODIFIED="1355324336169" TEXT="git svn clone &lt;svn-repos&gt;"/>
-<node CREATED="1355324339990" ID="ID_1558656496" MODIFIED="1355324343418" TEXT="git ....."/>
-<node CREATED="1355324347390" ID="ID_868091710" MODIFIED="1355324409568" TEXT="&#x63d0;&#x4ea4;&#x65b9;&#x5f0f;:git svn fetch / git svn rebase / git svn dcommit"/>
+<node FOLDED="true" ID="ID_1491030097" 
+	TEXT="git">
+<node ID="ID_937705404" 
+	TEXT="git属于分布式版本控制系统，不存在这种问题"/>
+<node FOLDED="true" ID="ID_214261557" 
+	TEXT="用git操作svn库">
+<node ID="ID_1341097135" 
+	TEXT="git svn clone &lt;svn-repos&gt;"/>
+<node ID="ID_1558656496" 
+	TEXT="git ....."/>
+<node ID="ID_868091710" 
+	TEXT="提交方式:git svn fetch / git svn rebase / git svn dcommit"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1355322630298" FOLDED="true" ID="ID_1173205921" MODIFIED="1355882987552" POSITION="right" TEXT="install git">
-<node CREATED="1355324502629" ID="ID_1514136850" MODIFIED="1355324504399" TEXT="linux">
-<node CREATED="1355324505285" ID="ID_999160121" MODIFIED="1355324509855" TEXT="sudo apt-get install git-all"/>
-<node CREATED="1355324614692" ID="ID_920659054" MODIFIED="1355324670731">
+<node FOLDED="true" ID="ID_1173205921" POSITION="right" 
+	TEXT="install git">
+<node FOLDED="true" ID="ID_1514136850" 
+	TEXT="linux">
+<node ID="ID_999160121" 
+	TEXT="sudo apt-get install git-all"/>
+<node ID="ID_920659054">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -302,25 +404,41 @@
 </node>
 </node>
 </node>
-<node CREATED="1355378463419" FOLDED="true" ID="ID_1655824546" MODIFIED="1355971746305" POSITION="right" TEXT="github settings">
-<node CREATED="1355378593262" ID="ID_1714811720" MODIFIED="1355378597326" TEXT="enter https://github.com/"/>
-<node CREATED="1355378598637" ID="ID_173230394" MODIFIED="1355378608480" TEXT="create a account in https://github.com/"/>
-<node CREATED="1355378650325" ID="ID_597655477" MODIFIED="1355378701874" TEXT="github&#x7684;ssh&#x670d;&#x52a1;&#x652f;&#x6301;openssh&#x7684;&#x516c;&#x94a5;&#x8ba4;&#x8bc1;"/>
-<node CREATED="1355378715525" ID="ID_1238571355" MODIFIED="1355378745858" TEXT="ssh-kengen -t rsa -C &quot;piaolingxue305@gmail.com&quot; &#x521b;&#x5efa;&#x516c;&#x94a5;/&#x79c1;&#x94a5;&#x5bf9;"/>
-<node CREATED="1355378771580" ID="ID_260520428" MODIFIED="1355379398618" TEXT="github-&gt;settings-&gt;deploy  add deploy keys &#x5c06;~/.ssh/id_rsa.pub&#x5185;&#x5bb9;&#x62f7;&#x8d1d;&#x5230;&#x8fd9;&#x91cc;">
-<node CREATED="1355379403651" ID="ID_622023146" MODIFIED="1355379431089" TEXT="copy&#x65f6;&#x4e00;&#x5b9a;&#x4e0d;&#x8981;&#x5728;&#x5176;&#x4e2d;&#x63d2;&#x5165;&#x591a;&#x4f59;&#x7684;&#x6362;&#x884c;&#x7b26;&#x3001;&#x7a7a;&#x683c;&#x7b49;"/>
+<node FOLDED="true" ID="ID_1655824546" POSITION="right" 
+	TEXT="github settings">
+<node ID="ID_1714811720" 
+	TEXT="enter https://github.com/"/>
+<node ID="ID_173230394" 
+	TEXT="create a account in https://github.com/"/>
+<node ID="ID_597655477" 
+	TEXT="github的ssh服务支持openssh的公钥认证"/>
+<node ID="ID_1238571355" 
+	TEXT="ssh-kengen -t rsa -C &quot;piaolingxue305@gmail.com&quot; 创建公钥/私钥对"/>
+<node FOLDED="true" ID="ID_260520428" 
+	TEXT="github-&gt;settings-&gt;deploy  add deploy keys 将~/.ssh/id_rsa.pub内容拷贝到这里">
+<node ID="ID_622023146" 
+	TEXT="copy时一定不要在其中插入多余的换行符、空格等"/>
 </node>
-<node CREATED="1355379459907" ID="ID_1670440327" MODIFIED="1355379462974" TEXT="run ssh-add ~/.ssh/id_rsa"/>
-<node CREATED="1355379478227" ID="ID_540806109" MODIFIED="1355379499274" TEXT="ssh -T git@github.com &#x5982;&#x679c;&#x63d0;&#x793a;:Hi github! You&apos;ve successfully authenticated, but GitHub does not provide shell access.&#x8868;&#x793a;&#x6210;&#x529f;!!!"/>
-<node CREATED="1355379538771" ID="ID_1004071821" MODIFIED="1355379545170" TEXT="set user ">
-<node CREATED="1355379549355" ID="ID_1617844" MODIFIED="1355379560974" TEXT="git config --global user.name &quot;piaolingxue&quot;"/>
-<node CREATED="1355379567243" ID="ID_1201444858" MODIFIED="1355379586111" TEXT="git config --global user.email &quot;piaolingxue305@gmail.com&quot;"/>
+<node ID="ID_1670440327" 
+	TEXT="run ssh-add ~/.ssh/id_rsa"/>
+<node ID="ID_540806109" 
+	TEXT="ssh -T git@github.com 如果提示:Hi github! You&apos;ve successfully authenticated, but GitHub does not provide shell access.表示成功!!!"/>
+<node FOLDED="true" ID="ID_1004071821" 
+	TEXT="set user ">
+<node ID="ID_1617844" 
+	TEXT="git config --global user.name &quot;piaolingxue&quot;"/>
+<node ID="ID_1201444858" 
+	TEXT="git config --global user.email &quot;piaolingxue305@gmail.com&quot;"/>
 </node>
-<node CREATED="1355380241929" ID="ID_1515786817" MODIFIED="1355380336807" TEXT="create a repository in github like:freemind-maps"/>
-<node CREATED="1355380073978" ID="ID_1990673609" MODIFIED="1355380143485" TEXT="git remote add freemind git@github.com:piaolingxue/freemind-maps.git"/>
-<node CREATED="1355380260929" ID="ID_1914391523" MODIFIED="1355380365040" TEXT="&#x5728;&#x672c;&#x5730;&#x6267;&#x884c; git pull freemind"/>
-<node CREATED="1355380778945" ID="ID_864000473" MODIFIED="1355381392969" TEXT="Create a new repository on the command line">
-<node CREATED="1355380810649" ID="ID_774510305" MODIFIED="1355381339970">
+<node ID="ID_1515786817" 
+	TEXT="create a repository in github like:freemind-maps"/>
+<node ID="ID_1990673609" 
+	TEXT="git remote add freemind git@github.com:piaolingxue/freemind-maps.git"/>
+<node ID="ID_1914391523" 
+	TEXT="在本地执行 git pull freemind"/>
+<node FOLDED="true" ID="ID_864000473" 
+	TEXT="Create a new repository on the command line">
+<node ID="ID_774510305">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -348,8 +466,9 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355381396751" ID="ID_105176520" MODIFIED="1355381406455" TEXT="Push an existing repository from the command line">
-<node CREATED="1355381408182" ID="ID_994191622" MODIFIED="1355381426288">
+<node FOLDED="true" ID="ID_105176520" 
+	TEXT="Push an existing repository from the command line">
+<node ID="ID_994191622">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -366,44 +485,75 @@
 </node>
 </node>
 </node>
-<node CREATED="1355324953674" FOLDED="true" ID="ID_264982736" MODIFIED="1355971799845" POSITION="right" TEXT="git init">
-<node CREATED="1355324962682" ID="ID_1295128177" MODIFIED="1355324965633" TEXT="git --version"/>
-<node CREATED="1355385376555" ID="ID_1205631294" MODIFIED="1355385379805" TEXT="git init"/>
-<node CREATED="1355383114460" ID="ID_159349796" MODIFIED="1355383116474" TEXT="git config">
-<node CREATED="1355324974466" ID="ID_1396633791" MODIFIED="1355325119713" TEXT="git config --global user.name &quot;libin&quot;"/>
-<node CREATED="1355324993178" ID="ID_624821412" MODIFIED="1355325023424" TEXT="git config --global user.email piaolingxue305@gmail.com"/>
-<node CREATED="1355325031017" ID="ID_771079565" MODIFIED="1355325142377" TEXT="git alias">
-<node CREATED="1355325168072" ID="ID_1583890980" MODIFIED="1355325187501" TEXT="sudo git config --system alias.st status"/>
-<node CREATED="1355325190481" ID="ID_337097941" MODIFIED="1355325230206" TEXT="sudo git config --system alias.ci commit"/>
-<node CREATED="1355325199936" ID="ID_350349846" MODIFIED="1355325211431" TEXT="git config --global alias.st status"/>
-<node CREATED="1355325212064" ID="ID_1302859577" MODIFIED="1355325223711" TEXT="git config --global alias.ci commit"/>
-<node CREATED="1355971756541" ID="ID_670323395" MODIFIED="1355971795104" TEXT="git config --global alias.glog &quot;log --graph&quot;"/>
+<node FOLDED="true" ID="ID_264982736" POSITION="right" 
+	TEXT="git init">
+<node ID="ID_1295128177" 
+	TEXT="git --version"/>
+<node ID="ID_1205631294" 
+	TEXT="git init"/>
+<node FOLDED="true" ID="ID_159349796" 
+	TEXT="git config">
+<node ID="ID_1396633791" 
+	TEXT="git config --global user.name &quot;libin&quot;"/>
+<node ID="ID_624821412" 
+	TEXT="git config --global user.email piaolingxue305@gmail.com"/>
+<node FOLDED="true" ID="ID_771079565" 
+	TEXT="git alias">
+<node ID="ID_1583890980" 
+	TEXT="sudo git config --system alias.st status"/>
+<node ID="ID_337097941" 
+	TEXT="sudo git config --system alias.ci commit"/>
+<node ID="ID_350349846" 
+	TEXT="git config --global alias.st status"/>
+<node ID="ID_1302859577" 
+	TEXT="git config --global alias.ci commit"/>
+<node ID="ID_670323395" 
+	TEXT="git config --global alias.glog &quot;log --graph&quot;"/>
 </node>
-<node CREATED="1355325240960" ID="ID_1804139455" MODIFIED="1355325278487" TEXT="git config --global color.ui true &apos;git&#x547d;&#x4ee4;&#x8f93;&#x51fa;&#x5f00;&#x542f;&#x989c;&#x8272;&#x663e;&#x793a;"/>
-<node CREATED="1355383153761" ID="ID_876384240" MODIFIED="1355383184050" TEXT="edit git config file">
-<node CREATED="1355383187033" ID="ID_60544988" MODIFIED="1355383199059" TEXT="git config -e &#x5f53;&#x524d;&#x5de5;&#x7a0b;&#x914d;&#x7f6e;"/>
-<node CREATED="1355383199881" ID="ID_1613374389" MODIFIED="1355383209217" TEXT="git config --global -e &#x5f53;&#x524d;&#x7528;&#x6237;&#x914d;&#x7f6e;"/>
-<node CREATED="1355383210081" ID="ID_1197455476" MODIFIED="1355383224475" TEXT="sudo git config --system -e &#x7cfb;&#x7edf;&#x914d;&#x7f6e;"/>
-<node CREATED="1355383244169" ID="ID_1353395698" MODIFIED="1355383280578" TEXT="git &#x914d;&#x7f6e;&#x6587;&#x4ef6;=&gt;.git/config"/>
-<node CREATED="1355383315497" ID="ID_1775913044" MODIFIED="1355383320451" TEXT="&#x683c;&#x5f0f;:ini"/>
-<node CREATED="1355383333041" ID="ID_31768302" MODIFIED="1355383355990" TEXT="git config &lt;section&gt;.&lt;name&gt; &lt;value&gt;"/>
-<node CREATED="1355383386745" ID="ID_1765112998" MODIFIED="1355383461715" TEXT="git config -f test.ini a.b c &#x4fee;&#x6539;&#x6307;&#x5b9a;&#x914d;&#x7f6e;&#x6587;&#x4ef6;"/>
-<node CREATED="1355383480536" ID="ID_960240241" MODIFIED="1355383497403" TEXT="git config --unset --global user.name &#x5220;&#x9664;&#x914d;&#x7f6e;"/>
+<node ID="ID_1804139455" 
+	TEXT="git config --global color.ui true &apos;git命令输出开启颜色显示"/>
+<node FOLDED="true" ID="ID_876384240" 
+	TEXT="edit git config file">
+<node ID="ID_60544988" 
+	TEXT="git config -e 当前工程配置"/>
+<node ID="ID_1613374389" 
+	TEXT="git config --global -e 当前用户配置"/>
+<node ID="ID_1197455476" 
+	TEXT="sudo git config --system -e 系统配置"/>
+<node ID="ID_1353395698" 
+	TEXT="git 配置文件=&gt;.git/config"/>
+<node ID="ID_1775913044" 
+	TEXT="格式:ini"/>
+<node ID="ID_31768302" 
+	TEXT="git config &lt;section&gt;.&lt;name&gt; &lt;value&gt;"/>
+<node ID="ID_1765112998" 
+	TEXT="git config -f test.ini a.b c 修改指定配置文件"/>
+<node ID="ID_960240241" 
+	TEXT="git config --unset --global user.name 删除配置"/>
 </node>
 </node>
-<node CREATED="1355382927322" ID="ID_133823116" MODIFIED="1355382929816" TEXT=".git">
-<node CREATED="1355325296888" ID="ID_1123051519" MODIFIED="1355325336307" TEXT="git init &apos;git&#x7248;&#x672c;&#x5e93;&#x521d;&#x59cb;&#x5316; &#x9690;&#x85cf;&#x7684;.git&#x76ee;&#x5f55;&#xff0c;&#x5373;git&#x7684;&#x7248;&#x672c;&#x5e93;"/>
-<node CREATED="1355382823714" ID="ID_1804837632" MODIFIED="1355382844798" TEXT="git grep &quot;*&quot; &#x641c;&#x7d22;&#x5f53;&#x524d;&#x9879;&#x76ee;&#x7684;&#x6587;&#x4ef6;&#xff0c;&#x53ef;&#x4ee5;&#x8fc7;&#x6ee4;.git&#x76ee;&#x5f55;"/>
-<node CREATED="1355382954362" ID="ID_949284520" MODIFIED="1355382990778" TEXT="git rev-parse --git-dir &#x663e;&#x793a;&#x7248;&#x672c;&#x5e93;git&#x76ee;&#x5f55;&#x5730;&#x5740;"/>
-<node CREATED="1355383033761" ID="ID_934435724" MODIFIED="1355383057291" TEXT="git rev-parse --show-toplevel &#x663e;&#x793a;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x533a;&#x6839;&#x76ee;&#x5f55;"/>
-<node CREATED="1355383075865" ID="ID_141580740" MODIFIED="1355383082955" TEXT="git rev-parse --show-prefix"/>
-<node CREATED="1355383083409" ID="ID_886551727" MODIFIED="1355383090099" TEXT="git rev-parse --show-cdup"/>
+<node FOLDED="true" ID="ID_133823116" 
+	TEXT=".git">
+<node ID="ID_1123051519" 
+	TEXT="git init &apos;git版本库初始化 隐藏的.git目录，即git的版本库"/>
+<node ID="ID_1804837632" 
+	TEXT="git grep &quot;*&quot; 搜索当前项目的文件，可以过滤.git目录"/>
+<node ID="ID_949284520" 
+	TEXT="git rev-parse --git-dir 显示版本库git目录地址"/>
+<node ID="ID_934435724" 
+	TEXT="git rev-parse --show-toplevel 显示当前工作区根目录"/>
+<node ID="ID_141580740" 
+	TEXT="git rev-parse --show-prefix"/>
+<node ID="ID_886551727" 
+	TEXT="git rev-parse --show-cdup"/>
 </node>
 </node>
-<node CREATED="1355384054439" FOLDED="true" ID="ID_1039135738" MODIFIED="1356053632307" POSITION="right" TEXT="git stage(&#x6682;&#x5b58;&#x533a;)">
+<node FOLDED="true" ID="ID_1039135738" POSITION="right" 
+	TEXT="git stage(暂存区)">
 <cloud/>
-<node CREATED="1355386120634" FOLDED="true" ID="ID_1724943129" MODIFIED="1355882979368" TEXT="&#x4e00;&#x4e2a;&#x6709;&#x8da3;&#x7684;&#x5b9e;&#x9a8c;">
-<node CREATED="1355386153026" ID="ID_1083821544" MODIFIED="1355386439367">
+<node FOLDED="true" ID="ID_1724943129" 
+	TEXT="一个有趣的实验">
+<node ID="ID_1083821544">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -415,7 +565,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355386174370" ID="ID_475911257" MODIFIED="1355386559037">
+<node ID="ID_475911257">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -426,35 +576,39 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355386130306" FOLDED="true" ID="ID_1893558649" MODIFIED="1355752589914" TEXT="&#x7ed3;&#x8bba;">
-<node CREATED="1355386588705" ID="ID_38614365" MODIFIED="1355386604639" TEXT="&#x7ed3;&#x679c;&#x663e;&#x793a; &#x65f6;&#x95f4;&#x6233;&#x6539;&#x53d8;&#x4e86;!!!"/>
-<node CREATED="1355386943051" ID="ID_1963756346" MODIFIED="1355387136725">
+<node FOLDED="true" ID="ID_1893558649" 
+	TEXT="结论">
+<node ID="ID_38614365" 
+	TEXT="结果显示 时间戳改变了!!!"/>
+<node ID="ID_1963756346">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      git status &#x626b;&#x63cf;&#x5de5;&#x4f5c;&#x533a;&#x6587;&#x4ef6;&#x6539;&#x52a8;&#x60c5;&#x51b5;&#x65f6;&#xff0c;&#x5148;&#x6839;&#x636e;.git/index&#x8bb0;&#x5f55;&#x7684;(&#x7528;&#x4e8e;&#x8ddf;&#x8e2a;&#x6587;&#x4ef6;&#x6539;&#x52a8;&#x7684;)&#x65f6;&#x95f4;&#x6233;&#x3001;&#x957f;&#x5ea6;&#x7b49;&#x4fe1;&#x606f;&#x5224;&#x65ad;&#x5de5;&#x4f5c;&#x533a;&#x6587;&#x4ef6;&#x662f;&#x5426;&#x6539;&#x52a8;,&#x5982;&#x679c;&#x5de5;&#x4f5c;&#x533a;&#x7684;&#x65f6;&#x95f4;&#x6539;&#x53d8;&#x4e86;&#xff0c;&#x8bf4;&#x660e;&#x6587;&#x4ef6;&#x5185;&#x5bb9;&#x6539;&#x53d8;&#x4e86;&#xff0c;&#x9700;&#x8981;&#x6253;&#x5f00;&#x6587;&#x4ef6;&#xff0c;&#x8bfb;&#x53d6;&#x6587;&#x4ef6;&#x5185;&#x5bb9;&#xff0c;&#x4e0e;&#x66f4;&#x6539;&#x524d;&#x7684;&#x6587;&#x4ef6;&#x8fdb;&#x884c;&#x6bd4;&#x8f83;&#xff0c;&#x5224;&#x65ad;&#x6587;&#x4ef6;&#x662f;&#x5426;&#x88ab;&#x66f4;&#x6539;&#xff0c;&#x5982;&#x679c;&#x6ca1;&#x6709;&#x66f4;&#x6539;&#xff0c;&#x5219;&#x5c06;&#x65b0;&#x6587;&#x4ef6;&#x65b0;&#x7684;&#x65f6;&#x95f4;&#x6233;&#x8bb0;&#x5f55;&#x5230;.git/index&#x4e2d;&#x3002;
+      git status 扫描工作区文件改动情况时，先根据.git/index记录的(用于跟踪文件改动的)时间戳、长度等信息判断工作区文件是否改动,如果工作区的时间改变了，说明文件内容改变了，需要打开文件，读取文件内容，与更改前的文件进行比较，判断文件是否被更改，如果没有更改，则将新文件新的时间戳记录到.git/index中。
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355387139055" ID="ID_171057018" MODIFIED="1355387280580">
+<node FOLDED="true" ID="ID_171057018">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      .git/index &#x5b9e;&#x9645;&#x4e0a;&#x662f;&#x5305;&#x542b;&#x6587;&#x4ef6;&#x7d22;&#x5f15;&#x7684;&#x76ee;&#x5f55;&#x6811;&#xff0c;&#x50cf;&#x662f;&#x4e00;&#x4e2a;&#x865a;&#x62df;&#x7684;&#x5de5;&#x4f5c;&#x533a;&#xff0c;&#x5728;&#x8fd9;&#x4e2a;&#x865a;&#x62df;&#x7684;&#x5de5;&#x4f5c;&#x76ee;&#x5f55;&#x4e2d;&#x8bb0;&#x5f55;&#x4e86;&#x6587;&#x4ef6;&#x540d;&#x548c;&#x6587;&#x4ef6;&#x72b6;&#x6001;&#x4fe1;&#x606f;&#xff0c;&#x6587;&#x4ef6;&#x7684;&#x5185;&#x5bb9;&#x5e76;&#x6ca1;&#x6709;&#x5b58;&#x50a8;&#x5176;&#x4e2d;&#xff0c;&#x800c;&#x662f;&#x4fdd;&#x5b58;&#x5728;.git/objects&#x76ee;&#x5f55;&#x4e0b;&#xff0c;&#x6587;&#x4ef6;&#x7d22;&#x5f15;&#x5efa;&#x7acb;&#x4e86;&#x6587;&#x4ef6;&#x548c;&#x5bf9;&#x8c61;&#x5e93;&#x4e2d;&#x5bf9;&#x8c61;&#x5b9e;&#x4f53;&#x4e4b;&#x95f4;&#x7684;&#x5bf9;&#x5e94;&#x5173;&#x7cfb;
+      .git/index 实际上是包含文件索引的目录树，像是一个虚拟的工作区，在这个虚拟的工作目录中记录了文件名和文件状态信息，文件的内容并没有存储其中，而是保存在.git/objects目录下，文件索引建立了文件和对象库中对象实体之间的对应关系
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1355388090005" ID="ID_1115253811" MODIFIED="1355388103336" TEXT="&#x5728;&#x7248;&#x672c;&#x5e93;&#x4e2d;&#x6807;&#x8bb0;&#x4e3a;index&#x7684;&#x5373;&#x4e3a;&#x6682;&#x5b58;&#x533a;"/>
-<node CREATED="1355388116765" ID="ID_1306812763" MODIFIED="1355388134016" TEXT="HEAD&#x5b9e;&#x9645;&#x4e0a;&#x662f;&#x6307;&#x5411;master&#x7684;&#x4e00;&#x4e2a;&#x6e38;&#x6807;"/>
+<node ID="ID_1115253811" 
+	TEXT="在版本库中标记为index的即为暂存区"/>
+<node ID="ID_1306812763" 
+	TEXT="HEAD实际上是指向master的一个游标"/>
 </node>
-<node CREATED="1355387305535" ID="ID_1683834243" MODIFIED="1355387311627">
+<node ID="ID_1683834243">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -465,17 +619,20 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355389130619" ID="ID_215661575" MODIFIED="1355752585742" TEXT="&#x5de5;&#x4f5c;&#x533a;&#xff0c;&#x7248;&#x672c;&#x5e93;&#x3001;&#x6682;&#x5b58;&#x533a;&#x76ee;&#x5f55;&#x6d4f;&#x89c8;">
-<node CREATED="1355389149907" ID="ID_1841846005" MODIFIED="1355389182704" TEXT="git ls-tree -l HEAD &#x7248;&#x672c;&#x5e93;&#x76ee;&#x5f55;&#x6d4f;&#x89c8;"/>
-<node CREATED="1355389183467" ID="ID_155260269" MODIFIED="1355389207300" TEXT="git ls-files -s &#x6682;&#x5b58;&#x533a;&#x76ee;&#x5f55;&#x6d4f;&#x89c8;"/>
-<node CREATED="1355389232795" ID="ID_157499893" MODIFIED="1355389278973">
+<node FOLDED="true" ID="ID_215661575" 
+	TEXT="工作区，版本库、暂存区目录浏览">
+<node ID="ID_1841846005" 
+	TEXT="git ls-tree -l HEAD 版本库目录浏览"/>
+<node ID="ID_155260269" 
+	TEXT="git ls-files -s 暂存区目录浏览"/>
+<node ID="ID_157499893">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#x60f3;&#x5bf9;&#x6682;&#x5b58;&#x533a;&#x4f7f;&#x7528;ls-tree
+      想对暂存区使用ls-tree
     </p>
     <p>
       git write-tree | xargs git ls-tree -l -t -r
@@ -485,32 +642,42 @@
 </node>
 </node>
 </node>
-<node CREATED="1355389407499" FOLDED="true" ID="ID_1943084683" MODIFIED="1355971804667" POSITION="right" TEXT="git object">
-<node CREATED="1355389650258" FOLDED="true" ID="ID_766166107" MODIFIED="1355899733318" TEXT="&#x9b54;&#x5e7b;&#x6570;&#x5b57;SHA1&#x54c8;&#x5e0c;&#x503c;(40&#x4f4d;)">
-<node CREATED="1355400923439" ID="ID_1441776946" MODIFIED="1355400962753" TEXT="&#x54c8;&#x5e0c;&#x662f;&#x4e00;&#x79cd;&#x6570;&#x636e;&#x6458;&#x8981;&#x7b97;&#x6cd5;,&#x662f;&#x4fe1;&#x606f;&#x5b89;&#x5168;&#x9886;&#x57df;&#x91cd;&#x8981;&#x7684;&#x7406;&#x8bba;&#x57fa;&#x77f3;"/>
-<node CREATED="1355401080857" ID="ID_753144232" MODIFIED="1355401089860" TEXT="&#x6bd4;&#x8f83;&#x8457;&#x540d;&#x7684;&#x6458;&#x8981;&#x7b97;&#x6cd5;&#x5305;&#x62ec;">
-<node CREATED="1355401090632" ID="ID_1045494214" MODIFIED="1355401093508" TEXT="SHA1">
-<node CREATED="1355884294834" ID="ID_786461134" MODIFIED="1355884299475">
+<node FOLDED="true" ID="ID_1943084683" POSITION="right" 
+	TEXT="git object">
+<node FOLDED="true" ID="ID_766166107" 
+	TEXT="魔幻数字SHA1哈希值(40位)">
+<node ID="ID_1441776946" 
+	TEXT="哈希是一种数据摘要算法,是信息安全领域重要的理论基石"/>
+<node FOLDED="true" ID="ID_753144232" 
+	TEXT="比较著名的摘要算法包括">
+<node FOLDED="true" ID="ID_1045494214" 
+	TEXT="SHA1">
+<node ID="ID_786461134">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span http-equiv="content-type" style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal" content="text/html; charset=utf-8">&#23433;&#20840;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/273836.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#21704;&#24076;&#31639;&#27861;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#65288;Secure Hash Algorithm&#65289;&#20027;&#35201;&#36866;&#29992;&#20110;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/7626.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#25968;&#23383;&#31614;&#21517;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#26631;&#20934;&#65288;Digital Signature Standard DSS&#65289;&#37324;&#38754;&#23450;&#20041;&#30340;&#25968;&#23383;&#31614;&#21517;&#31639;&#27861;&#65288;Digital Signature Algorithm DSA&#65289;&#12290;&#23545;&#20110;&#38271;&#24230;&#23567;&#20110;2^64&#20301;&#30340;&#28040;&#24687;&#65292;SHA1&#20250;&#20135;&#29983;&#19968;&#20010;160&#20301;&#30340;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#28040;&#24687;&#25688;&#35201;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#12290;&#24403;&#25509;&#25910;&#21040;&#28040;&#24687;&#30340;&#26102;&#20505;&#65292;&#36825;&#20010;&#28040;&#24687;&#25688;&#35201;&#21487;&#20197;&#29992;&#26469;&#39564;&#35777;&#25968;&#25454;&#30340;&#23436;&#25972;&#24615;&#12290;&#22312;&#20256;&#36755;&#30340;&#36807;&#31243;&#20013;&#65292;&#25968;&#25454;&#24456;&#21487;&#33021;&#20250;&#21457;&#29983;&#21464;&#21270;&#65292;&#37027;&#20040;&#36825;&#26102;&#20505;&#23601;&#20250;&#20135;&#29983;&#19981;&#21516;&#30340;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#28040;&#24687;&#25688;&#35201;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#12290; SHA1&#26377;&#22914;&#19979;&#29305;&#24615;&#65306;&#19981;&#21487;&#20197;&#20174;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#28040;&#24687;&#25688;&#35201;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#20013;&#22797;&#21407;&#20449;&#24687;&#65307;&#20004;&#20010;&#19981;&#21516;&#30340;&#28040;&#24687;&#19981;&#20250;&#20135;&#29983;&#21516;&#26679;&#30340;&#28040;&#24687;&#25688;&#35201;&#12290;</span></font>
+      <font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span http-equiv="content-type" style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal" content="text/html; charset=utf-8">安全</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/273836.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>哈希算法</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">（Secure Hash Algorithm）主要适用于</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/7626.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>数字签名</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">标准（Digital Signature Standard DSS）里面定义的数字签名算法（Digital Signature Algorithm DSA）。对于长度小于2^64位的消息，SHA1会产生一个160位的</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>消息摘要</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">。当接收到消息的时候，这个消息摘要可以用来验证数据的完整性。在传输的过程中，数据很可能会发生变化，那么这时候就会产生不同的</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>消息摘要</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">。 SHA1有如下特性：不可以从</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 25px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/2396437.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>消息摘要</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 25px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">中复原信息；两个不同的消息不会产生同样的消息摘要。</span></font>
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355401093992" ID="ID_1193695588" MODIFIED="1355401096505" TEXT="MD5"/>
+<node ID="ID_1193695588" 
+	TEXT="MD5"/>
 </node>
-<node CREATED="1355401103120" ID="ID_738306139" MODIFIED="1355401123589" TEXT="linux&#x4e0b;&#x7684;sha1sum&#x53ef;&#x4ee5;&#x7528;&#x6765;&#x751f;&#x6210;sha1&#x6458;&#x8981;">
-<node CREATED="1355401130087" ID="ID_1546620396" MODIFIED="1355401139576" TEXT="printf &quot;Git&quot; | sha1sum"/>
+<node FOLDED="true" ID="ID_738306139" 
+	TEXT="linux下的sha1sum可以用来生成sha1摘要">
+<node ID="ID_1546620396" 
+	TEXT="printf &quot;Git&quot; | sha1sum"/>
 </node>
-<node CREATED="1355401310974" ID="ID_1596848272" MODIFIED="1355401336203" TEXT="git &#x4e2d;&#x5404;&#x79cd;sha1&#x54c8;&#x5e0c;&#x503c;&#x600e;&#x4e48;&#x8ba1;&#x7b97;&#x5462;?">
-<node CREATED="1355401983035" ID="ID_936927322" MODIFIED="1355401992656" TEXT="commit=&gt;(git cat-file commit HEAD|wc -c | xargs printf &quot;commit %d\000&quot;; git cat-file commit HEAD)|sha1sum "/>
-<node CREATED="1355402039403" ID="ID_1814518071" MODIFIED="1355402168554">
+<node FOLDED="true" ID="ID_1596848272" 
+	TEXT="git 中各种sha1哈希值怎么计算呢?">
+<node ID="ID_936927322" 
+	TEXT="commit=&gt;(git cat-file commit HEAD|wc -c | xargs printf &quot;commit %d\000&quot;; git cat-file commit HEAD)|sha1sum "/>
+<node ID="ID_1814518071">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -520,7 +687,7 @@
       content=&gt;
     </p>
     <p>
-      100644 blob fd3c069c1de4f4bc9b15940f490aeb48852f3c42&#xa0;&#xa0;&#xa0;&#xa0;welcome.txt
+      100644 blob fd3c069c1de4f4bc9b15940f490aeb48852f3c42    welcome.txt
     </p>
     <p>
       (git cat-file -p fd3c069|wc -c|xargs printf "blob %d\000"; git cat-file -p fd3c069)|sha1sum
@@ -528,7 +695,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355402393640" ID="ID_626097964" MODIFIED="1355402411784">
+<node ID="ID_626097964">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -547,30 +714,33 @@
       (git cat-file tree HEAD^{tree}|wc -c|xargs printf "tree %d\000"; git cat-file tree HEAD^{tree})|sha1sum
     </p>
     <p>
-      f58da9a820e3fd9d84ab2ca2f1b467ac265038f9&#xa0;&#xa0;-
+      f58da9a820e3fd9d84ab2ca2f1b467ac265038f9  -
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1355883010325" FOLDED="true" ID="ID_405401278" MODIFIED="1355899718789" TEXT="why not uuid?">
-<node CREATED="1355883156045" ID="ID_215017009" MODIFIED="1355883165828">
+<node FOLDED="true" ID="ID_405401278" 
+	TEXT="why not uuid?">
+<node ID="ID_215017009">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span http-equiv="content-type" style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal" content="text/html; charset=utf-8">UUID&#21547;&#20041;&#26159;&#36890;&#29992;&#21807;&#19968;&#35782;&#21035;&#30721; (Universally Unique Identifier)&#65292;&#36825; &#26159;&#19968;&#20010;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/37.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#36719;&#20214;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#24314;&#26500;&#30340;&#26631;&#20934;&#65292;&#20063;&#26159;&#34987;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/444964.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#24320;&#28304;&#36719;&#20214;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">&#22522;&#37329;&#20250; (Open Software Foundation, OSF) &#30340;&#32452;&#32455;&#24212;&#29992;&#22312;</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/185350.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><u>&#20998;&#24067;&#24335;&#35745;&#31639;&#29615;&#22659;</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, &#x5b8b;&#x4f53;, sans-serif"><span class="Apple-converted-space">&#160;</span><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, &#x5b8b;&#x4f53;, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">(Distributed Computing Environment, DCE) &#39046;&#22495;&#30340;&#19968;&#37096;&#20998;&#12290;</span></font>
+      <font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span http-equiv="content-type" style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal" content="text/html; charset=utf-8">UUID含义是通用唯一识别码 (Universally Unique Identifier)，这 是一个</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/37.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>软件</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">建构的标准，也是被</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/444964.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>开源软件</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">基金会 (Open Software Foundation, OSF) 的组织应用在</span></font><a style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 24px; text-decoration: underline; color: rgb(19, 110, 194); text-align: start; letter-spacing: normal; font-weight: normal" target="_blank" href="http://baike.baidu.com/view/185350.htm"><font color="rgb(19, 110, 194)" size="14px" face="arial, 宋体, sans-serif"><u>分布式计算环境</u></font></a><font color="rgb(0, 0, 0)" size="14px" face="arial, 宋体, sans-serif"><span class="Apple-converted-space"> </span><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); text-align: start; letter-spacing: normal; font-weight: normal">(Distributed Computing Environment, DCE) 领域的一部分。</span></font>
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355402483888" ID="ID_1313879250" MODIFIED="1355402499847" TEXT="git &#x63d0;&#x4f9b;&#x4e86;&#x5f88;&#x591a;&#x65b9;&#x6cd5;&#x6765;&#x8bbf;&#x95ee; git object"/>
-<node CREATED="1355390288017" ID="ID_657528435" MODIFIED="1355390296757" TEXT="blob &#x5bf9;&#x8c61; &#x4fdd;&#x5b58;&#x8fd9;&#x6587;&#x4ef6;&#x7684;&#x5177;&#x4f53;&#x5185;&#x5bb9;"/>
-<node CREATED="1355390469921" ID="ID_1420243146" MODIFIED="1355390474934">
+<node ID="ID_1313879250" 
+	TEXT="git 提供了很多方法来访问 git object"/>
+<node ID="ID_657528435" 
+	TEXT="blob 对象 保存这文件的具体内容"/>
+<node ID="ID_1420243146">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -580,7 +750,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355390823057" ID="ID_1420961717" MODIFIED="1355543109821" STYLE="fork">
+<node FOLDED="true" ID="ID_1420961717" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -589,28 +759,35 @@
     <img src="img/git%20version%20system%20structure.png"/>
   </body>
 </html></richcontent>
-<node CREATED="1355390872089" ID="ID_765782300" MODIFIED="1355543109821" TEXT="HEAD == refs/headers/master == master"/>
-<node CREATED="1355390917569" ID="ID_315457033" MODIFIED="1355543109821" TEXT="master &#x6307;&#x5411;&#x7684;&#x662f;&#x6700;&#x65b0;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355391046336" ID="ID_711519835" MODIFIED="1355543109821" TEXT="&#x7528;&#x4e00;&#x4e2a;&#x6587;&#x4ef6;&#x6307;&#x5411;&#x94fe;&#x63a5;&#x7684;&#x6700;&#x65b0;&#x63d0;&#x4ea4;&#xff0c;&#x8fd9;&#x6837;&#x5c31;&#x53ef;&#x4ee5;&#x8ddf;&#x8e2a;&#x6574;&#x4e2a;&#x63d0;&#x4ea4;"/>
+<node ID="ID_765782300" 
+	TEXT="HEAD == refs/headers/master == master"/>
+<node ID="ID_315457033" 
+	TEXT="master 指向的是最新提交"/>
+<node ID="ID_711519835" 
+	TEXT="用一个文件指向链接的最新提交，这样就可以跟踪整个提交"/>
 </node>
-<node CREATED="1355542572661" ID="ID_358092025" MODIFIED="1355542587889" TEXT="&#x8bbf;&#x95ee;git object&#x7684;&#x65b9;&#x6cd5;">
-<node CREATED="1355542589701" ID="ID_1573710730" MODIFIED="1355542624007" TEXT="sha1 &#x4e0d;&#x7528;&#x5199;&#x5168;,&#x53ea;&#x91c7;&#x7528;&#x5f00;&#x5934;&#x90e8;&#x5206;,4&#x4f4d;&#x4ee5;&#x4e0a;&#x5373;&#x53ef;"/>
-<node CREATED="1355542679684" ID="ID_1011414898" MODIFIED="1355542688218" TEXT="HEAD&#x4ee3;&#x8868;&#x7248;&#x672c;&#x54ed;&#x7684;&#x6700;&#x8fd1;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355542692996" ID="ID_1818671487" MODIFIED="1355542755370" TEXT="&#x7b26;&#x53f7;^&#x53ef;&#x4ee5;&#x7528;&#x6765;&#x6307;&#x4ee3;&#x7236;&#x63d0;&#x4ea4; HEAD^&#x6307;&#x4ee3;&#x7248;&#x672c;&#x5e93;&#x7684;&#x7236;&#x63d0;&#x4ea4; HEAD^^&#x6307;&#x4ee3;HEAD^&#x7684;&#x7236;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355542765763" ID="ID_849183664" MODIFIED="1355907508144">
+<node FOLDED="true" ID="ID_358092025" 
+	TEXT="访问git object的方法">
+<node ID="ID_1573710730" 
+	TEXT="sha1 不用写全,只采用开头部分,4位以上即可"/>
+<node ID="ID_1011414898" 
+	TEXT="HEAD代表版本哭的最近提交"/>
+<node ID="ID_1818671487" 
+	TEXT="符号^可以用来指代父提交 HEAD^指代版本库的父提交 HEAD^^指代HEAD^的父提交"/>
+<node ID="ID_849183664">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#23545;&#20110;&#19968;&#20010;&#25552;&#20132;&#26377;&#22810;&#20010;&#29238;&#25552;&#20132;&#65292;&#21487;&#20197;&#22312;^&#21518;&#38754;&#36319;&#25968;&#23383;&#25351;&#20195;&#31532;&#20960;&#20010;&#29238;&#25552;&#20132;
+      对于一个提交有多个父提交，可以在^后面跟数字指代第几个父提交
     </p>
     <p>
-      &#20363;&#22914;
+      例如
     </p>
     <p>
-      3c45 &#26377;&#19977;&#20010;parent
+      3c45 有三个parent
     </p>
     <p>
       abca
@@ -622,7 +799,7 @@
       abcc
     </p>
     <p>
-      &#37027;&#20040;
+      那么
     </p>
     <p>
       3c45^1 == abca
@@ -634,7 +811,7 @@
       3c45^3 == abcc
     </p>
     <p>
-      A^^3^2 &#34920;&#31034; A&#25552;&#20132;&#30340;&#31532;&#19968;&#20010;&#29238;&#25552;&#20132;&#30340;&#31532;&#19977;&#20010;&#29238;&#25552;&#20132;&#30340;&#31532;&#19977;&#20010;&#29238;&#25552;&#20132;
+      A^^3^2 表示 A提交的第一个父提交的第三个父提交的第三个父提交
     </p>
     <p>
       == A^1^3^2
@@ -644,66 +821,113 @@
 <cloud/>
 <icon BUILTIN="yes"/>
 </node>
-<node CREATED="1355542817035" ID="ID_1157804486" MODIFIED="1355542858244" TEXT="&#x7b26;&#x53f7;~&lt;n&gt;&#x7528;&#x4e8e;&#x6307;&#x4ee3;&#x7956;&#x5148;&#x63d0;&#x4ea4; a2328a~5 == a2328a^^^^^"/>
-<node CREATED="1355542871659" ID="ID_1753957212" MODIFIED="1355542889021" TEXT="&#x63d0;&#x4ea4;&#x5bf9;&#x5e94;&#x7684;&#x6811;&#x5bf9;&#x8c61;a23bac2^{tree}"/>
-<node CREATED="1355542897266" ID="ID_1173477324" MODIFIED="1355542917452" TEXT="&#x63d0;&#x4ea4;&#x5bf9;&#x5e94;&#x7684;&#x6587;&#x4ef6;&#x5bf9;&#x8c61;a23bac2:/path/to/file"/>
-<node CREATED="1355542942258" ID="ID_1358835200" MODIFIED="1355542952763" TEXT="&#x6682;&#x5b58;&#x533a;&#x4e2d;&#x7684;&#x6587;&#x4ef6;&#x5bf9;&#x8c61;:/path/to/file"/>
+<node ID="ID_1157804486" 
+	TEXT="符号~&lt;n&gt;用于指代祖先提交 a2328a~5 == a2328a^^^^^"/>
+<node ID="ID_1753957212" 
+	TEXT="提交对应的树对象a23bac2^{tree}"/>
+<node ID="ID_1173477324" 
+	TEXT="提交对应的文件对象a23bac2:/path/to/file"/>
+<node ID="ID_1358835200" 
+	TEXT="暂存区中的文件对象:/path/to/file"/>
 </node>
 </node>
-<node CREATED="1355384933773" ID="ID_1240723287" MODIFIED="1355903611927" POSITION="right" TEXT="git command">
-<node CREATED="1355385043716" ID="ID_801736069" MODIFIED="1355971732192" TEXT="git log">
-<node CREATED="1355385777835" ID="ID_1474017544" MODIFIED="1355385811157" TEXT="git log --oneline &#x8d85;&#x7cbe;&#x7b80;&#x6a21;&#x5f0f; &#x63d0;&#x4ea4;id&#x4ee5;7&#x4f4d;&#x663e;&#x793a;"/>
-<node CREATED="1355384940845" ID="ID_1145608350" MODIFIED="1355384977280" TEXT="git log --pretty=oneline &#x7cbe;&#x7b80;&#x8f93;&#x51fa;"/>
-<node CREATED="1355384978109" ID="ID_1852336269" MODIFIED="1355972045416" TEXT="git log --pretty=fuller &#x5b8c;&#x6574;&#x8f93;&#x51fa;,&#x4f1a;&#x540c;&#x65f6;&#x663e;&#x793a;&#x4f5c;&#x8005;&#x548c;&#x63d0;&#x4ea4;&#x8005;"/>
-<node CREATED="1355389455202" ID="ID_1086300555" MODIFIED="1355389497950" TEXT="git log -l --pretty=raw &#x67e5;&#x770b;&#x65e5;&#x5fd7;&#x7684;&#x539f;&#x59cb;&#x8f93;&#x51fa;"/>
-<node CREATED="1355390501769" ID="ID_1019274532" MODIFIED="1355390518854" TEXT="git log --pretty=raw --graph &#x67e5;&#x770b;&#x65e5;&#x5fd7;&#x7684;&#x8ddf;&#x8e2a;&#x94fe;"/>
-<node CREATED="1355900505144" ID="ID_1830121698" MODIFIED="1355900524366" TEXT="--decorate &#x53ef;&#x4ee5;&#x5728;&#x63d0;&#x4ea4;&#x65e5;&#x5fd7;&#x4e2d;&#x663e;&#x793a;&#x5bf9;&#x5e94;&#x7684;&#x91cc;&#x7a0b;&#x7891;&#x3001;&#x5f15;&#x7528;"/>
-<node CREATED="1355971736069" ID="ID_499382740" MODIFIED="1355971842592" TEXT="-n &#x663e;&#x793a;&#x6700;&#x8fd1;&#x51e0;&#x6761;&#x65e5;&#x5fd7; git log --oneline -3"/>
-<node CREATED="1355971858684" ID="ID_229436724" MODIFIED="1355971866744" TEXT="-p &#x663e;&#x793a;&#x65e5;&#x5fd7;&#x7684;&#x65f6;&#x5019;&#x540c;&#x65f6;&#x663e;&#x793a;&#x6539;&#x52a8;"/>
-<node CREATED="1355971887444" ID="ID_210148575" MODIFIED="1355971986848" TEXT="--stat &#x663e;&#x793a;&#x6bcf;&#x6b21;&#x63d0;&#x4ea4;&#x7684;&#x53d8;&#x66f4;&#x6982;&#x51b5;"/>
+<node FOLDED="true" ID="ID_1240723287" POSITION="right" 
+	TEXT="git command">
+<node FOLDED="true" ID="ID_801736069" 
+	TEXT="git log">
+<node ID="ID_1474017544" 
+	TEXT="git log --oneline 超精简模式 提交id以7位显示"/>
+<node ID="ID_1145608350" 
+	TEXT="git log --pretty=oneline 精简输出"/>
+<node ID="ID_1852336269" 
+	TEXT="git log --pretty=fuller 完整输出,会同时显示作者和提交者"/>
+<node ID="ID_1086300555" 
+	TEXT="git log -l --pretty=raw 查看日志的原始输出"/>
+<node ID="ID_1019274532" 
+	TEXT="git log --pretty=raw --graph 查看日志的跟踪链"/>
+<node ID="ID_1830121698" 
+	TEXT="--decorate 可以在提交日志中显示对应的里程碑、引用"/>
+<node ID="ID_499382740" 
+	TEXT="-n 显示最近几条日志 git log --oneline -3"/>
+<node ID="ID_229436724" 
+	TEXT="-p 显示日志的时候同时显示改动"/>
+<node ID="ID_210148575" 
+	TEXT="--stat 显示每次提交的变更概况"/>
 </node>
-<node CREATED="1355385052572" FOLDED="true" ID="ID_777126474" MODIFIED="1355903623418" TEXT="git status">
-<node CREATED="1355385057052" ID="ID_1072629532" MODIFIED="1355385064175" TEXT="git status -s &#x7cbe;&#x7b80;&#x8f93;&#x51fa;">
-<node CREATED="1355385257964" ID="ID_409543745" MODIFIED="1355385313943" TEXT="&#x7b2c;&#x4e00;&#x5217;M &#x7248;&#x672c;&#x5e93;&#x7684;&#x6587;&#x4ef6;&#x4e0e;&#x6682;&#x5b58;&#x533a;&#x7684;&#x6587;&#x4ef6;&#x76f8;&#x6bd4;&#x8f83;&#x6709;&#x6539;&#x52a8;"/>
-<node CREATED="1355385263004" ID="ID_865936245" MODIFIED="1355385340639" TEXT="&#x7b2c;&#x4e8c;&#x5217;M &#x5de5;&#x4f5c;&#x533a;&#x7684;&#x6587;&#x4ef6;&#x4e0e;&#x6682;&#x5b58;&#x533a;&#x76f8;&#x6bd4;&#x6709;&#x6539;&#x52a8;"/>
+<node FOLDED="true" ID="ID_777126474" 
+	TEXT="git status">
+<node FOLDED="true" ID="ID_1072629532" 
+	TEXT="git status -s 精简输出">
+<node ID="ID_409543745" 
+	TEXT="第一列M 版本库的文件与暂存区的文件相比较有改动"/>
+<node ID="ID_865936245" 
+	TEXT="第二列M 工作区的文件与暂存区相比有改动"/>
 </node>
-<node CREATED="1355390627249" ID="ID_1467873191" MODIFIED="1355390647511" TEXT="git status -s -b &#x7cbe;&#x7b80;&#x8f93;&#x51fa;&#x7684;&#x540c;&#x65f6;&#x8f93;&#x51fa;&#x5206;&#x652f;&#x540d;&#x79f0;"/>
-<node CREATED="1355901132512" ID="ID_830567894" MODIFIED="1355901153384" TEXT="git status --ignored -s &#x663e;&#x793a;&#x6240;&#x6709;&#x5ffd;&#x7565;&#x6587;&#x4ef6;"/>
+<node ID="ID_1467873191" 
+	TEXT="git status -s -b 精简输出的同时输出分支名称"/>
+<node ID="ID_830567894" 
+	TEXT="git status --ignored -s 显示所有忽略文件"/>
 </node>
-<node CREATED="1355899079337" FOLDED="true" ID="ID_129700344" MODIFIED="1355903622538" TEXT="git add">
-<node CREATED="1355899083529" ID="ID_1098946265" MODIFIED="1355899090582" TEXT="git add -u &#x6807;&#x8bb0;&#x5feb;&#x901f;&#x5220;&#x9664;"/>
-<node CREATED="1355899606353" ID="ID_1936041405" MODIFIED="1355899627126" TEXT="git add -A &#x6267;&#x884c;&#x8be5;&#x547d;&#x4ee4;&#x4f1a;&#x5c06;&#x5de5;&#x4f5c;&#x533a;&#x6240;&#x6709;&#x6539;&#x52a8;&#x548c;&#x65b0;&#x589e;&#x6587;&#x4ef6;&#x6dfb;&#x52a0;&#x5230;&#x6682;&#x5b58;&#x533a;"/>
-<node CREATED="1355900722984" ID="ID_1848580326" MODIFIED="1355900735989" TEXT="git add -i &#x9009;&#x62e9;&#x6027;&#x6dfb;&#x52a0;(&#x4ea4;&#x4e92;&#x754c;&#x9762;)"/>
-<node CREATED="1355901238864" ID="ID_132487821" MODIFIED="1355901264452" TEXT="git add -f &#x5f3a;&#x5236;&#x6dfb;&#x52a0; &#x5ffd;&#x7565;.gitignore&#x6587;&#x4ef6;"/>
+<node FOLDED="true" ID="ID_129700344" 
+	TEXT="git add">
+<node ID="ID_1098946265" 
+	TEXT="git add -u 标记快速删除"/>
+<node ID="ID_1936041405" 
+	TEXT="git add -A 执行该命令会将工作区所有改动和新增文件添加到暂存区"/>
+<node ID="ID_1848580326" 
+	TEXT="git add -i 选择性添加(交互界面)"/>
+<node ID="ID_132487821" 
+	TEXT="git add -f 强制添加 忽略.gitignore文件"/>
 </node>
-<node CREATED="1355899753081" ID="ID_1675188382" MODIFIED="1355899754352" TEXT="git mv">
-<node CREATED="1355899755313" ID="ID_1149520235" MODIFIED="1355899955182" TEXT="&#x79fb;&#x52a8;&#x6587;&#x4ef6; &#x7b49;&#x4ef7;&#x4e0e; git rm &amp; git add"/>
+<node FOLDED="true" ID="ID_1675188382" 
+	TEXT="git mv">
+<node ID="ID_1149520235" 
+	TEXT="移动文件 等价与 git rm &amp; git add  "/>
 </node>
-<node CREATED="1355385608147" ID="ID_1564755047" MODIFIED="1355972452873" TEXT="git diff">
-<node CREATED="1355385611907" ID="ID_93113630" MODIFIED="1355385623008" TEXT="git diff &#x5de5;&#x4f5c;&#x533a;&#x4e0e;&#x6682;&#x5b58;&#x533a;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;"/>
-<node CREATED="1355385623747" ID="ID_1247687249" MODIFIED="1355385633571" TEXT="git diff HEAD &#x5de5;&#x4f5c;&#x533a;&#x4e0e;&#x7248;&#x672c;&#x5e93;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;"/>
-<node CREATED="1355385634043" ID="ID_888835927" MODIFIED="1355385662525" TEXT="git diff --cached &#x6216;&#x8005; git diff --staged &#x6682;&#x5b58;&#x533a;&#x8ddf;&#x7248;&#x672c;&#x5e93;&#x4e4b;&#x95f4;&#x7684;&#x5dee;&#x5f02;"/>
-<node CREATED="1355972455546" ID="ID_986541382" MODIFIED="1355972470974" TEXT="--word-diff &#x9010;&#x8bcd;&#x6bd4;&#x8f83;"/>
+<node FOLDED="true" ID="ID_1564755047" 
+	TEXT="git diff">
+<node ID="ID_93113630" 
+	TEXT="git diff 工作区与暂存区之间的差异"/>
+<node ID="ID_1247687249" 
+	TEXT="git diff HEAD 工作区与版本库之间的差异"/>
+<node ID="ID_888835927" 
+	TEXT="git diff --cached 或者 git diff --staged 暂存区跟版本库之间的差异"/>
+<node ID="ID_986541382" 
+	TEXT="--word-diff 逐词比较"/>
 </node>
-<node CREATED="1355385905298" FOLDED="true" ID="ID_19034572" MODIFIED="1355900231085" TEXT="git checkout">
-<node CREATED="1355886164664" ID="ID_1504142558" MODIFIED="1355886174702" TEXT="&#x6539;&#x53d8;HEAD&#x7684;&#x6307;&#x5411;">
+<node FOLDED="true" ID="ID_19034572" 
+	TEXT="git checkout">
+<node ID="ID_1504142558" 
+	TEXT="改变HEAD的指向">
 <icon BUILTIN="yes"/>
 </node>
-<node CREATED="1355887690202" ID="ID_1780100342" MODIFIED="1355887786466" TEXT="&#x9ed8;&#x8ba4;&#x503c;&#x662f;&#x6682;&#x5b58;&#x533a;,&#x4e00;&#x822c;&#x8986;&#x76d6;&#x5de5;&#x4f5c;&#x533a;"/>
-<node CREATED="1355385911698" ID="ID_108915084" MODIFIED="1355385935619" TEXT="git checkout -- *.txt &#x64a4;&#x9500;&#x67d0;&#x4e2a;&#x6587;&#x4ef6;&#x7684;&#x4fee;&#x6539;"/>
+<node ID="ID_1780100342" 
+	TEXT="默认值是暂存区,一般覆盖工作区"/>
+<node ID="ID_108915084" 
+	TEXT="git checkout -- *.txt 撤销某个文件的修改"/>
 </node>
-<node CREATED="1355388365965" ID="ID_1171511914" MODIFIED="1355542488842" TEXT="git clean">
-<node CREATED="1355388373989" ID="ID_818280901" MODIFIED="1355388385949" TEXT="git clean -fd &#x6e05;&#x9664;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x533a;&#x7684;&#x6539;&#x52a8;"/>
+<node FOLDED="true" ID="ID_1171511914" 
+	TEXT="git clean">
+<node ID="ID_818280901" 
+	TEXT="git clean -fd 清除当前工作区的改动"/>
 </node>
-<node CREATED="1355389063371" FOLDED="true" ID="ID_708088200" MODIFIED="1355973774211" TEXT="git stash">
-<node CREATED="1355389082683" ID="ID_1568243283" MODIFIED="1355389090854" TEXT="git stash &#x4fdd;&#x5b58;&#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x8fdb;&#x5ea6;"/>
-<node CREATED="1355659210684" ID="ID_1048466952" MODIFIED="1355753770242" TEXT="git stash save &quot;&#x6ce8;&#x91ca;&quot; &#x5982;&#x679c;&#x5199;&#x660e;&#x6ce8;&#x91ca;&#xff0c;&#x8fd9;&#x6837;&#x901a;&#x8fc7;&#x8fdb;&#x5ea6;&#x5217;&#x8868;&#x67e5;&#x770b;&#x7684;&#x65f6;&#x5019;&#x66f4;&#x80fd;&#x533a;&#x5206;&#x4fdd;&#x5b58;&#x7684;&#x8fdb;&#x5ea6;"/>
-<node CREATED="1355753801120" ID="ID_1628200928" MODIFIED="1355753890297" TEXT="&#x6bcf;&#x4e2a;&#x8fdb;&#x5ea6;&#x7684;&#x540d;&#x79f0;&#x90fd;&#x7c7b;&#x4f3c;stash@{num}&#x662f;&#x4e0d;&#x662f;&#x50cf;&#x6781;&#x4e86;reflog&#x7684;&#x65e5;&#x5fd7;&#xff1f; &#x5176;&#x5b9e;stash &#x5c31;&#x662f;&#x901a;&#x8fc7;&#x5f15;&#x7528;&#x548c;&#x5f15;&#x7528;&#x53d8;&#x66f4;reflog&#x5b9e;&#x73b0;&#x7684;"/>
-<node CREATED="1355660022116" ID="ID_1125669922" MODIFIED="1355660037406" TEXT="git stash list &#x67e5;&#x770b;stash&#x5217;&#x8868;"/>
-<node CREATED="1355660038068" ID="ID_833134666" MODIFIED="1355660056262" TEXT="git stash apply stash@{1} &#x5e94;&#x7528;&#x67d0;&#x4e2a;&#x5de5;&#x4f5c;&#x8fdb;&#x5ea6;"/>
-<node CREATED="1355660059004" ID="ID_1196248096" MODIFIED="1355660068222" TEXT="git stash clear &#x6e05;&#x695a;&#x5de5;&#x4f5c;&#x8fdb;&#x5ea6;&#x4fdd;&#x5b58;&#x5217;&#x8868;"/>
-<node CREATED="1355752594454" ID="ID_541284857" MODIFIED="1355752602295" TEXT="&#x4e00;&#x4e2a;&#x5947;&#x602a;&#x7684;&#x95ee;&#x9898;">
-<node CREATED="1355752604225" ID="ID_1783162504" MODIFIED="1355756985189">
+<node FOLDED="true" ID="ID_708088200" 
+	TEXT="git stash">
+<node ID="ID_1568243283" 
+	TEXT="git stash 保存当前工作进度"/>
+<node ID="ID_1048466952" 
+	TEXT="git stash save &quot;注释&quot; 如果写明注释，这样通过进度列表查看的时候更能区分保存的进度"/>
+<node ID="ID_1628200928" 
+	TEXT="每个进度的名称都类似stash@{num}是不是像极了reflog的日志？ 其实stash 就是通过引用和引用变更reflog实现的"/>
+<node ID="ID_1125669922" 
+	TEXT="git stash list 查看stash列表"/>
+<node ID="ID_833134666" 
+	TEXT="git stash apply stash@{1} 应用某个工作进度"/>
+<node ID="ID_1196248096" 
+	TEXT="git stash clear 清楚工作进度保存列表"/>
+<node FOLDED="true" ID="ID_541284857" 
+	TEXT="一个奇怪的问题">
+<node ID="ID_1783162504">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -725,31 +949,31 @@
       git stash pop
     </p>
     <p>
-      &#21457;&#29616;&#23545;a.txt&#30340;&#20462;&#25913;&#20002;&#22833;&#20102;
+      发现对a.txt的修改丢失了
     </p>
     <p>
-      &#23454;&#38469;&#25171;&#24320;a.txt&#20250;&#21457;&#29616;&#20869;&#23481;&#24182;&#27809;&#26377;&#20002;&#22833;
+      实际打开a.txt会发现内容并没有丢失
     </p>
     <p>
-      &#22914;&#26524;&#24674;&#22797;&#36827;&#24230;&#29992;git stash pop --index&#23601;&#20250;&#21457;&#29616;&#36319;&#20445;&#23384;&#21069;&#29366;&#24577;&#19968;&#33268;&#20102;<br />
+      如果恢复进度用git stash pop --index就会发现跟保存前状态一致了<br/>
     </p>
     <p>
-      &#22240;&#20026;--index&#38500;&#20102;&#24674;&#22797;&#24037;&#20316;&#21306;&#30340;&#25991;&#20214;&#22806;&#36824;&#23581;&#35797;&#22238;&#22797;&#24037;&#20316;&#21306;
+      因为--index除了恢复工作区的文件外还尝试回复工作区
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355757753622" ID="ID_1644744375" MODIFIED="1355758112274">
+<node ID="ID_1644744375">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      git stash --patch&#21442;&#25968;&#30340;&#29702;&#35299;
+      git stash --patch参数的理解
     </p>
     <p>
-      --patch&#20250;&#26174;&#31034;&#24037;&#20316;&#21306;&#21644;HEAD&#30340;&#24046;&#24322;&#65292;&#36890;&#36807;&#23545;&#24046;&#24322;&#25991;&#20214;&#30340;&#32534;&#36753;&#20915;&#23450;&#26368;&#32456;&#22312;&#36827;&#24230;&#20013;&#35201;&#20445;&#23384;&#30340;&#24037;&#20316;&#21306;&#30340;&#20869;&#23481;&#65292;&#23454;&#38469;&#19978;&#36825;&#28857;&#23581;&#35797;&#30340;&#32467;&#26524;&#26159;&#65292;--patch&#21482;&#20250;&#26174;&#31034;&#29256;&#26412;&#24211;&#36861;&#36394;&#30340;&#25991;&#20214;&#22312;&#24037;&#20316;&#21306;&#21644;HEAD&#30340;&#24046;&#24322;!!!
+      --patch会显示工作区和HEAD的差异，通过对差异文件的编辑决定最终在进度中要保存的工作区的内容，实际上这点尝试的结果是，--patch只会显示版本库追踪的文件在工作区和HEAD的差异!!!
     </p>
     <p>
       echo a &gt; 1.txt
@@ -758,22 +982,22 @@
       git add .
     </p>
     <p>
-      &#27492;&#26102;&#36816;&#34892;git diff HEAD,&#20320;&#20250;&#21457;&#29616;&#23454;&#38469;&#19978;&#26377;&#24046;&#24322;&#65292;&#20294;&#26159;1.txt&#19981;&#20877;&#29256;&#26412;&#24211;&#36861;&#36394;&#33539;&#22260;&#65292;&#22240;&#27492;&#36816;&#34892;
+      此时运行git diff HEAD,你会发现实际上有差异，但是1.txt不再版本库追踪范围，因此运行
     </p>
     <p>
-      git stash --patch &#32467;&#26524;&#36824;&#26159;&#27809;&#26377;&#24046;&#24322;
+      git stash --patch 结果还是没有差异
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355753323916" ID="ID_521657543" MODIFIED="1355757016400">
+<node ID="ID_521657543">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#20180;&#32454;&#30475;&#20070;&#65292;&#19981;&#25918;&#36807;&#27599;&#19968;&#20010;&#32454;&#33410;
+      仔细看书，不放过每一个细节
     </p>
   </body>
 </html></richcontent>
@@ -781,57 +1005,96 @@
 </node>
 </node>
 </node>
-<node CREATED="1355389521410" FOLDED="true" ID="ID_1304687197" MODIFIED="1355899510781" TEXT="git cat-file">
-<node CREATED="1355389538946" ID="ID_1065495975" MODIFIED="1355389546607" TEXT="&#x7528;&#x4e8e;&#x7814;&#x7a76;git object id"/>
-<node CREATED="1355389547210" ID="ID_1945130643" MODIFIED="1355389575398" TEXT="git cat-file -t e2a3b &#x67e5;&#x770b;git&#x5bf9;&#x8c61;id&#x7c7b;&#x578b;"/>
-<node CREATED="1355389589754" ID="ID_436314776" MODIFIED="1355389605878" TEXT="git cat-file -p e23e2b &#x67e5;&#x770b;git&#x5bf9;&#x8c61;&#x5185;&#x5bb9;"/>
-<node CREATED="1355899477225" ID="ID_853912088" MODIFIED="1355899505030" TEXT="git cat-file HEAD^:welcome.txt &#x663e;&#x793a;&#x5386;&#x53f2;&#x4e2d;&#x67d0;&#x4e2a;&#x6587;&#x4ef6;&#x7684;&#x5185;&#x5bb9;"/>
+<node FOLDED="true" ID="ID_1304687197" 
+	TEXT="git cat-file">
+<node ID="ID_1065495975" 
+	TEXT="用于研究git object id"/>
+<node ID="ID_1945130643" 
+	TEXT="git cat-file -t e2a3b 查看git对象id类型"/>
+<node ID="ID_436314776" 
+	TEXT="git cat-file -p e23e2b 查看git对象内容"/>
+<node ID="ID_853912088" 
+	TEXT="git cat-file HEAD^:welcome.txt 显示历史中某个文件的内容"/>
 </node>
-<node CREATED="1355973780941" ID="ID_1912985135" MODIFIED="1355973783014" TEXT="git commit">
-<node CREATED="1355973784149" ID="ID_1905787747" MODIFIED="1355973791750" TEXT="git commit --amend &#x4fee;&#x6539;&#x4e0a;&#x6b21;&#x63d0;&#x4ea4;"/>
+<node FOLDED="true" ID="ID_1912985135" 
+	TEXT="git commit">
+<node ID="ID_1905787747" 
+	TEXT="git commit --amend 修改上次提交"/>
 </node>
-<node CREATED="1355899520433" ID="ID_850930039" MODIFIED="1355899523526" TEXT="git show">
-<node CREATED="1355899526449" ID="ID_165899786" MODIFIED="1355899535990" TEXT="git show HEAD^:welcome.txt"/>
-<node CREATED="1355972083251" ID="ID_1196012761" MODIFIED="1355972101832" TEXT="git show D --stat &#x663e;&#x793a;&#x67d0;&#x4e00;&#x5206;&#x652f;&#x7684;&#x63d0;&#x4ea4;"/>
+<node FOLDED="true" ID="ID_850930039" 
+	TEXT="git show">
+<node ID="ID_165899786" 
+	TEXT="git show HEAD^:welcome.txt"/>
+<node ID="ID_1196012761" 
+	TEXT="git show D --stat 显示某一分支的提交"/>
 </node>
-<node CREATED="1355390687817" FOLDED="true" ID="ID_540419643" MODIFIED="1355899069284" TEXT="git branch">
-<node CREATED="1355390692705" ID="ID_895639606" MODIFIED="1355638278200" TEXT="git branch -v &#x663e;&#x793a;&#x5f53;&#x524d;&#x5206;&#x652f;"/>
+<node FOLDED="true" ID="ID_540419643" 
+	TEXT="git branch">
+<node ID="ID_895639606" 
+	TEXT="git branch -v 显示当前分支"/>
 </node>
-<node CREATED="1355390965841" FOLDED="true" ID="ID_1870743327" MODIFIED="1355973776725" TEXT="git rev-parse">
-<node CREATED="1355390972224" ID="ID_998253553" MODIFIED="1355390977314" TEXT="&#x663e;&#x793a;&#x5bf9;&#x5e94;&#x7684;&#x63d0;&#x4ea4;id"/>
-<node CREATED="1355390977816" ID="ID_1667592745" MODIFIED="1355390982346" TEXT="git rev-parse master"/>
-<node CREATED="1355390982776" ID="ID_917662597" MODIFIED="1355390986715" TEXT="git rev-parse HEAD"/>
-<node CREATED="1355390987129" ID="ID_1012802711" MODIFIED="1355391004696" TEXT="git rev-parse refs/heads/master"/>
-<node CREATED="1355903640084" ID="ID_1826506896" MODIFIED="1355903648567" TEXT="--git-dir &#x663e;&#x793a;&#x7248;&#x672c;&#x5e93;&#x7684;&#x4f4d;&#x7f6e;"/>
-<node CREATED="1355903672405" ID="ID_998018954" MODIFIED="1355903695478" TEXT="--show-cdup &#x5f53;&#x524d;&#x5de5;&#x4f5c;&#x533a;&#x76ee;&#x5f55;&#x7684;&#x6df1;&#x5ea6;"/>
-<node CREATED="1355903733557" ID="ID_643509373" MODIFIED="1355903868640" TEXT="--symbolic --branches &#x663e;&#x793a;&#x5206;&#x652f;"/>
-<node CREATED="1355903851493" ID="ID_348463028" MODIFIED="1355903863343" TEXT="--symbolic --tags &#x663e;&#x793a;&#x91cc;&#x7a0b;&#x7891;"/>
-<node CREATED="1355903989333" ID="ID_874661416" MODIFIED="1355904004583" TEXT="--symbolic --glob=refs/* &#x663e;&#x793a;&#x6240;&#x6709;&#x5f15;&#x7528;"/>
-<node CREATED="1355904243381" ID="ID_1030787358" MODIFIED="1355904399527" TEXT="&#x663e;&#x793a;&#x5bf9;&#x8c61;&#x7684;sha1&#x503c; ">
-<node CREATED="1355904451380" ID="ID_829769923" MODIFIED="1355904466463" TEXT="&#x53ef;&#x4f20;HEAD"/>
-<node CREATED="1355904466988" ID="ID_903076449" MODIFIED="1355904469803" TEXT="&#x591a;&#x4e2a;&#x5bf9;&#x8c61;"/>
-<node CREATED="1355904471060" ID="ID_1858296133" MODIFIED="1355904476911" TEXT="git describe&#x7684;&#x8f93;&#x51fa;"/>
-<node CREATED="1355904479508" ID="ID_299135698" MODIFIED="1355904492360" TEXT="665a &#x7b49;sha1&#x524d;&#x51e0;&#x4f4d;"/>
-<node CREATED="1355905075788" ID="ID_1282133839" MODIFIED="1355905091847" TEXT="tag &#x91cc;&#x7a0b;&#x7891;&#x6307;&#x5411;&#x7684;&#x662f;&#x4e00;&#x4e2a;tag&#x5bf9;&#x8c61;&#xff0c;&#x800c;&#x975e;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355907986032" ID="ID_478549066" MODIFIED="1355907990897" TEXT="HEAD^^2^3"/>
-<node CREATED="1355907991672" ID="ID_488911620" MODIFIED="1355908006494" TEXT=":/&quot;&#x6ce8;&#x91ca;&quot;  &#x901a;&#x8fc7;&#x6ce8;&#x91ca;&#x67e5;&#x8be2;&#x63d0;&#x4ea4;"/>
-<node CREATED="1355908007408" ID="ID_1260482555" MODIFIED="1355908077060" TEXT="HEAD^{tree} &#x663e;&#x793a;&#x6811;&#x91cc;&#x9762;&#x7684;&#x6587;&#x4ef6;"/>
-<node CREATED="1355908015760" ID="ID_1031767813" MODIFIED="1355908054205" TEXT=":Makefile &#x6682;&#x5b58;&#x533a;&#x4e2d;&#x67d0;&#x4e2a;&#x6587;&#x4ef6;&#x7684;"/>
-<node CREATED="1355908087000" ID="ID_313247460" MODIFIED="1355908098500" TEXT="HEAD@{0} master@{3}"/>
+<node FOLDED="true" ID="ID_1870743327" 
+	TEXT="git rev-parse">
+<node ID="ID_998253553" 
+	TEXT="显示对应的提交id"/>
+<node ID="ID_1667592745" 
+	TEXT="git rev-parse master"/>
+<node ID="ID_917662597" 
+	TEXT="git rev-parse HEAD"/>
+<node ID="ID_1012802711" 
+	TEXT="git rev-parse refs/heads/master"/>
+<node ID="ID_1826506896" 
+	TEXT="--git-dir 显示版本库的位置"/>
+<node ID="ID_998018954" 
+	TEXT="--show-cdup 当前工作区目录的深度"/>
+<node ID="ID_643509373" 
+	TEXT="--symbolic --branches 显示分支"/>
+<node ID="ID_348463028" 
+	TEXT="--symbolic --tags 显示里程碑"/>
+<node ID="ID_874661416" 
+	TEXT="--symbolic --glob=refs/* 显示所有引用"/>
+<node FOLDED="true" ID="ID_1030787358" 
+	TEXT="显示对象的sha1值 ">
+<node ID="ID_829769923" 
+	TEXT="可传HEAD"/>
+<node ID="ID_903076449" 
+	TEXT="多个对象"/>
+<node ID="ID_1858296133" 
+	TEXT="git describe的输出"/>
+<node ID="ID_299135698" 
+	TEXT="665a 等sha1前几位"/>
+<node ID="ID_1282133839" 
+	TEXT="tag 里程碑指向的是一个tag对象，而非提交"/>
+<node ID="ID_478549066" 
+	TEXT="HEAD^^2^3"/>
+<node ID="ID_488911620" 
+	TEXT=":/&quot;注释&quot;  通过注释查询提交"/>
+<node ID="ID_1260482555" 
+	TEXT="HEAD^{tree} 显示树里面的文件"/>
+<node ID="ID_1031767813" 
+	TEXT=":Makefile 暂存区中某个文件的"/>
+<node ID="ID_313247460" 
+	TEXT="HEAD@{0} master@{3}"/>
 </node>
 </node>
-<node CREATED="1355908108712" ID="ID_1160878838" MODIFIED="1355908120565" TEXT="git rev-list (&#x7248;&#x672c;&#x8303;&#x56f4;&#x8868;&#x793a;&#x6cd5;)">
-<node CREATED="1355908152280" ID="ID_1458788571" MODIFIED="1355908184190" TEXT="&#x4e00;&#x4e2a;&#x63d0;&#x4ea4;id&#x5b9e;&#x9645;&#x4e0a;&#x5c31;&#x53ef;&#x4ee5;&#x8868;&#x793a;&#x4e00;&#x4e2a;&#x7248;&#x672c;&#x5217;&#x8868;,&#x542b;&#x4e49;&#x662f;&#x8be5;&#x7248;&#x672c;&#x5f00;&#x59cb;&#x7684;&#x6240;&#x6709;&#x5386;&#x53f2;&#x63d0;&#x4ea4;"/>
+<node FOLDED="true" ID="ID_1160878838" 
+	TEXT="git rev-list (版本范围表示法)">
+<node ID="ID_1458788571" 
+	TEXT="一个提交id实际上就可以表示一个版本列表,含义是该版本开始的所有历史提交"/>
 </node>
-<node CREATED="1355542972962" FOLDED="true" ID="ID_1251750845" MODIFIED="1355899067047" TEXT="git reset">
-<node CREATED="1355886183655" ID="ID_744751460" MODIFIED="1355886200881" TEXT="&#x6539;&#x53d8;&#x5f15;&#x7528;master&#x7684;&#x6307;&#x5411;">
+<node FOLDED="true" ID="ID_1251750845" 
+	TEXT="git reset">
+<node ID="ID_744751460" 
+	TEXT="改变引用master的指向">
 <icon BUILTIN="yes"/>
 </node>
-<node CREATED="1355887701955" ID="ID_1139860827" MODIFIED="1355887749649" TEXT="&#x9ed8;&#x8ba4;&#x503c;&#x662f;HEAD,&#x91cd;&#x7f6e;&#x4e00;&#x822c;&#x91cd;&#x7f6e;&#x6682;&#x5b58;&#x533a;"/>
-<node CREATED="1355542994154" ID="ID_1380547615" MODIFIED="1355543081406" TEXT="git reset --hard HEAD^ &#x4f7f;&#x7528;--hard&#x53c2;&#x6570;&#xff0c;&#x4f1a;&#x7834;&#x574f;&#x5de5;&#x4f5c;&#x533a;&#x672a;&#x63d0;&#x4ea4;&#x7684;&#x6539;&#x52a8;">
+<node ID="ID_1139860827" 
+	TEXT="默认值是HEAD,重置一般重置暂存区"/>
+<node ID="ID_1380547615" 
+	TEXT="git reset --hard HEAD^ 使用--hard参数，会破坏工作区未提交的改动">
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1355637726892" ID="ID_823156953" MODIFIED="1355637860423">
+<node ID="ID_823156953">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -847,21 +1110,21 @@
       git reset -- filename
     </p>
     <p>
-      &#29992;HEAD&#25351;&#21521;&#30340;&#30446;&#24405;&#26641;&#37325;&#32622;&#26242;&#23384;&#21306;
+      用HEAD指向的目录树重置暂存区
     </p>
     <p>
-      &#24037;&#20316;&#21306;&#19981;&#25913;&#21464;!!!
+      工作区不改变!!!
     </p>
     <p>
-      &#25110;&#32773;&#29305;&#23450;&#25991;&#20214;&#37325;&#32622;&#26242;&#23384;&#21306;
+      或者特定文件重置暂存区
     </p>
     <p>
-      &#31561;&#21516;&#19982;&#28155;&#21152;--mixed&#21442;&#25968;&#65292;git reset --mixed HEAD
+      等同与添加--mixed参数，git reset --mixed HEAD
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355637931433" ID="ID_1144986983" MODIFIED="1355637966823">
+<node ID="ID_1144986983">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -874,92 +1137,101 @@
       git reset --mixed HEAD^
     </p>
     <p>
-      &#24341;&#29992;&#21644;&#26242;&#23384;&#21306;&#22343;&#22238;&#36864;&#19968;&#27425;<br />
+      引用和暂存区均回退一次<br/>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355637972336" ID="ID_830711642" MODIFIED="1355658528176">
+<node ID="ID_830711642">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      git reset --soft HEAD^ &#24341;&#29992;&#22238;&#36864;&#19968;&#27425;&#65292;
+      git reset --soft HEAD^ 引用回退一次，
     </p>
     <p>
-      &#26242;&#23384;&#21306;&#65292;&#24037;&#20316;&#21306;&#19981;&#25913;&#21464;,&#25152;&#35859;&#19981;&#25913;&#21464;&#23454;&#38469;&#19978;&#26159;&#30456;&#23545;&#20110;&#25552;&#20132;&#21069;&#30340;&#29366;&#24577;&#19981;&#25913;&#21464;
+      暂存区，工作区不改变,所谓不改变实际上是相对于提交前的状态不改变
     </p>
     <p>
-      &#20363;&#22914;:
+      例如:
     </p>
     <p>
-      git ci -m&quot;add one&quot;
+      git ci -m"add one"
     </p>
     <p>
-      git ci -m&quot;add two&quot;
+      git ci -m"add two"
     </p>
     <p>
       git add .
     </p>
     <p>
-      git ci -m &quot;add three&quot;
+      git ci -m "add three"
     </p>
     <p>
-      &#27492;&#26102;&#36816;&#34892; git reset --soft HEAD^
+      此时运行 git reset --soft HEAD^
     </p>
     <p>
-      &#30456;&#24403;&#19982;&#24674;&#22797;&#21040;&#25552;&#20132;&#20043;&#21069;&#30340;&#29366;&#24577;
+      相当与恢复到提交之前的状态
     </p>
     <p>
-      &#27492;&#26102;index &#20026;add three&#29366;&#24577;
+      此时index 为add three状态
     </p>
     <p>
-      &#35813;&#21629;&#20196;&#24120;&#29992;&#19982;&#22810;&#20154;&#21327;&#20316;&#30340;&#26102;&#20505;&#65292;&#25105;&#20204;&#32463;&#24120;&#35201;&#23558;&#33258;&#24049;&#30340;&#20462;&#25913;&#25171;&#25104;patch&#32473;&#21035;&#20154;&#65292;&#20294;&#26159;&#20462;&#25913;&#20195;&#30721;&#36807;&#31243;&#20013;&#65292;&#25105;&#20204;&#21487;&#33021;&#36827;&#34892;&#20102;&#22810;&#27425;&#25552;&#20132;&#65292;&#22914;&#20309;&#29983;&#25104;&#26368;&#21021;&#29366;&#24577;&#21040;&#26368;&#32456;&#29366;&#24577;&#30340;patch&#21602;&#65311;
+      该命令常用与多人协作的时候，我们经常要将自己的修改打成patch给别人，但是修改代码过程中，我们可能进行了多次提交，如何生成最初状态到最终状态的patch呢？
     </p>
     <p>
-      &#20363;&#22914;&#65292;&#20998;&#25903;&#21464;&#26356;&#22914;&#19979;
+      例如，分支变更如下
     </p>
     <p>
       a-&gt;b-&gt;c
     </p>
     <p>
-      &#20462;&#25913;&#21069;&#26159;a,&#26368;&#32456;&#29366;&#24577;&#26159;c
+      修改前是a,最终状态是c
     </p>
     <p>
       git reset --soft a
     </p>
     <p>
-      &#27492;&#26102;HEAD&#24674;&#22797;&#21040;A&#29366;&#24577;
+      此时HEAD恢复到A状态
     </p>
     <p>
-      &#20294;&#26159;&#24037;&#20316;&#21306;&#21644;&#26242;&#23384;&#21306;&#30340;&#29366;&#24577;&#36824;&#26159;c&#29366;&#24577;&#30340;&#65292;&#27492;&#26102;&#36827;&#34892;&#19968;&#27425;patch&#21363;&#21487;
+      但是工作区和暂存区的状态还是c状态的，此时进行一次patch即可
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355638014008" ID="ID_1148834318" MODIFIED="1355638049505" TEXT="git rest --hard HEAD^ &#x5f15;&#x7528;&#xff0c;&#x6682;&#x5b58;&#x533a;&#xff0c;&#x5de5;&#x4f5c;&#x533a;&#x5747;&#x4f1a;&#x56de;&#x9000;&#x4e00;&#x6b21;&#xff0c;&#x672a;&#x63d0;&#x4ea4;&#x7684;&#x66f4;&#x6539;&#x5168;&#x90e8;&#x4e22;&#x5931;!!!"/>
+<node ID="ID_1148834318" 
+	TEXT="git rest --hard HEAD^ 引用，暂存区，工作区均会回退一次，未提交的更改全部丢失!!!"/>
 </node>
-<node CREATED="1355543660213" FOLDED="true" ID="ID_1212630683" MODIFIED="1355899072302" TEXT="git reflog">
-<node CREATED="1355543669533" ID="ID_1447072537" MODIFIED="1355543683011" TEXT="&#x633d;&#x6551;&#x9519;&#x8bef;&#x7684;reset">
+<node FOLDED="true" ID="ID_1212630683" 
+	TEXT="git reflog">
+<node ID="ID_1447072537" 
+	TEXT="挽救错误的reset">
 <icon BUILTIN="messagebox_warning"/>
 </node>
-<node CREATED="1355543734757" ID="ID_1055212148" MODIFIED="1355543751022" TEXT=".git/logs/refs/heads/master"/>
-<node CREATED="1355544032531" ID="ID_727943825" MODIFIED="1355544075821" TEXT="git reflog show master | head -5 &#x53cd;&#x5411;&#x67e5;&#x770b;master&#x65e5;&#x5fd7;"/>
-<node CREATED="1355544085347" ID="ID_232661751" MODIFIED="1355544098420" TEXT="git reset --hard master@{2} &#x91cd;&#x7f6e;"/>
+<node ID="ID_1055212148" 
+	TEXT=".git/logs/refs/heads/master"/>
+<node ID="ID_727943825" 
+	TEXT="git reflog show master | head -5 反向查看master日志"/>
+<node ID="ID_232661751" 
+	TEXT="git reset --hard master@{2} 重置"/>
 </node>
-<node CREATED="1355901573263" FOLDED="true" ID="ID_1626759638" MODIFIED="1355903629082" TEXT="git archive">
-<node CREATED="1355901667095" ID="ID_283335574" MODIFIED="1355901680862" TEXT="git archive -o latest.zip HEAd"/>
-<node CREATED="1355901688191" ID="ID_1875662878" MODIFIED="1355901707749" TEXT="git archive -o partial.tar HEAD src doc"/>
-<node CREATED="1355901746207" ID="ID_538154726" MODIFIED="1355901841946">
+<node FOLDED="true" ID="ID_1626759638" 
+	TEXT="git archive">
+<node ID="ID_283335574" 
+	TEXT="git archive -o latest.zip HEAd"/>
+<node ID="ID_1875662878" 
+	TEXT="git archive -o partial.tar HEAD src doc"/>
+<node ID="ID_538154726">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#22522;&#20110;&#37324;&#31243;&#30865;v1.0&#24402;&#26723;,&#24182;&#19988;&#20026;&#24402;&#26723;&#20013;&#30340;&#25991;&#20214;&#28155;&#21152;&#30446;&#24405;&#21069;&#32512;1.0
+      基于里程碑v1.0归档,并且为归档中的文件添加目录前缀1.0
     </p>
     <p>
       git archive --format=tar --prefix=1.0/ v1.0 | gzip &gt; foo-1.0.tar.gz
@@ -968,39 +1240,46 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355972530482" ID="ID_1349515405" MODIFIED="1355972583774" TEXT="git blame(&#x6587;&#x4ef6;&#x8ffd;&#x6eaf;)">
-<node CREATED="1355972588522" ID="ID_34935048" MODIFIED="1355972612775" TEXT="&#x5f53;&#x53d1;&#x73b0;Bug&#x7684;&#x65f6;&#x5019;&#xff0c;&#x53ef;&#x4ee5;&#x7528;&#x6765;&#x8ffd;&#x8e2a;&#x5230;&#x5e95;&#x662f;&#x8c01;&#x5728;&#x67d0;&#x4e2a;&#x63d0;&#x4ea4;&#x5f15;&#x5165;&#x7684;bug"/>
-<node CREATED="1355972622162" ID="ID_1201850606" MODIFIED="1355972637254" TEXT="&#x60f3;&#x67e5;&#x770b;&#x67d0;&#x51e0;&#x884c; &#x53ef;&#x4ee5;&#x7528;-L n,m"/>
+<node FOLDED="true" ID="ID_1349515405" 
+	TEXT="git blame(文件追溯)">
+<node ID="ID_34935048" 
+	TEXT="当发现Bug的时候，可以用来追踪到底是谁在某个提交引入的bug"/>
+<node ID="ID_1201850606" 
+	TEXT="想查看某几行 可以用-L n,m"/>
 </node>
 </node>
-<node CREATED="1355900844136" FOLDED="true" ID="ID_1149764915" MODIFIED="1355903630522" POSITION="right" TEXT="git &#x6587;&#x4ef6;&#x5ffd;&#x7565;">
-<node CREATED="1355901311767" ID="ID_823806047" MODIFIED="1355901316574" TEXT="&#x5171;&#x4eab;&#x5f0f;">
-<node CREATED="1355901048072" ID="ID_429578703" MODIFIED="1355901095739">
+<node FOLDED="true" ID="ID_1149764915" POSITION="right" 
+	TEXT="git 文件忽略">
+<node FOLDED="true" ID="ID_823806047" 
+	TEXT="共享式">
+<node ID="ID_429578703">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#22312;&#39033;&#30446;&#20219;&#24847;&#30446;&#24405;&#28155;&#21152;&#19968;&#20010;.gitignore&#25991;&#20214;
+      在项目任意目录添加一个.gitignore文件
     </p>
     <p>
-      &#25991;&#20214;&#20869;&#23481;&#20026;&#35201;&#36807;&#28388;&#30340;&#25991;&#20214;&#30340;&#36890;&#37197;&#24335;
+      文件内容为要过滤的文件的通配式
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355901317112" ID="ID_1261355206" MODIFIED="1355901320862" TEXT="&#x72ec;&#x4eab;&#x5f0f;">
-<node CREATED="1355901357960" ID="ID_515582157" MODIFIED="1355901392518" TEXT="&#x9488;&#x5bf9;&#x5f53;&#x524d;&#x5de5;&#x7a0b; &#x8bbe;&#x7f6e;.git/info/exclude"/>
-<node CREATED="1355901364879" ID="ID_660843479" MODIFIED="1355901511294">
+<node FOLDED="true" ID="ID_1261355206" 
+	TEXT="独享式">
+<node ID="ID_515582157" 
+	TEXT="针对当前工程 设置.git/info/exclude"/>
+<node ID="ID_660843479">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#38024;&#23545;&#25152;&#26377;&#26412;&#22320;&#24037;&#31243; core.excludesfile
+      针对所有本地工程 core.excludesfile
     </p>
     <p>
       git config --global --core.excludesfile /home/libin/.gitignore
@@ -1010,27 +1289,45 @@
 </node>
 </node>
 </node>
-<node CREATED="1355902345486" ID="ID_537955178" MODIFIED="1355924843572" POSITION="right" TEXT="git &#x56fe;&#x5f62;&#x5de5;&#x5177;">
-<node CREATED="1355902355550" ID="ID_269988429" MODIFIED="1355902357520" TEXT="gitk">
-<node CREATED="1355902366391" ID="ID_945601311" MODIFIED="1355902369776" TEXT="gitk --all"/>
-<node CREATED="1355902370342" ID="ID_1246200044" MODIFIED="1355902382527" TEXT="gitk --since=&quot;2 weeks ago&quot;"/>
-<node CREATED="1355902399254" ID="ID_1064705534" MODIFIED="1355902425240" TEXT="&#x663e;&#x793a;&#x67d0;&#x4e2a;&#x91cc;&#x7a0b;&#x7891;&#x4ee5;&#x6765;&#xff0c;&#x67d0;&#x4e9b;&#x76ee;&#x5f55;&#x7684;&#x63d0;&#x4ea4; gitk v1.0 dir1 dir2"/>
-<node CREATED="1355902439941" ID="ID_1068077783" MODIFIED="1355902446456" TEXT="&#x7eff;&#x8272;-master&#x5206;&#x652f;"/>
-<node CREATED="1355902467358" ID="ID_1053886193" MODIFIED="1355902471929" TEXT="&#x7070;&#x8272;-stash"/>
-<node CREATED="1355902472366" ID="ID_292017043" MODIFIED="1355902477473" TEXT="&#x9ec4;&#x8272;-&#x91cc;&#x7a0b;&#x7891;"/>
-<node CREATED="1355902586750" ID="ID_24704944" MODIFIED="1355902594168" TEXT="&#x53ea;&#x80fd;&#x7528;&#x6765;&#x6d4f;&#x89c8;"/>
+<node FOLDED="true" ID="ID_537955178" POSITION="right" 
+	TEXT="git 图形工具">
+<node FOLDED="true" ID="ID_269988429" 
+	TEXT="gitk">
+<node ID="ID_945601311" 
+	TEXT="gitk --all"/>
+<node ID="ID_1246200044" 
+	TEXT="gitk --since=&quot;2 weeks ago&quot;"/>
+<node ID="ID_1064705534" 
+	TEXT="显示某个里程碑以来，某些目录的提交 gitk v1.0 dir1 dir2"/>
+<node ID="ID_1068077783" 
+	TEXT="绿色-master分支"/>
+<node ID="ID_1053886193" 
+	TEXT="灰色-stash"/>
+<node ID="ID_292017043" 
+	TEXT="黄色-里程碑"/>
+<node ID="ID_24704944" 
+	TEXT="只能用来浏览"/>
 </node>
-<node CREATED="1355902579014" ID="ID_183682831" MODIFIED="1355902582199" TEXT="git gui">
-<node CREATED="1355902596694" ID="ID_501059394" MODIFIED="1355902600688" TEXT="&#x53ef;&#x7528;&#x6765;&#x63d0;&#x4ea4;"/>
+<node FOLDED="true" ID="ID_183682831" 
+	TEXT="git gui">
+<node ID="ID_501059394" 
+	TEXT="可用来提交"/>
 </node>
-<node CREATED="1355902700782" ID="ID_1398553684" MODIFIED="1355902702024" TEXT="gitg"/>
+<node ID="ID_1398553684" 
+	TEXT="gitg"/>
 </node>
-<node CREATED="1355886941972" ID="ID_1266730434" MODIFIED="1355886946504" POSITION="left" TEXT="english">
-<node CREATED="1355886992540" ID="ID_1444488103" MODIFIED="1355887004682" TEXT="incorporate-&#x5408;&#x5e76;&#x3001;&#x7ed3;&#x5408;"/>
-<node CREATED="1355887139603" ID="ID_1792589356" MODIFIED="1355887148100" TEXT="diverge from-&#x5206;&#x6b67;"/>
-<node CREATED="1355887218299" ID="ID_203101874" MODIFIED="1355887231532" TEXT="replay-&#x91cd;&#x64ad;&#x3001;&#x91cd;&#x653e;"/>
-<node CREATED="1355901630383" ID="ID_605360256" MODIFIED="1355901639478" TEXT="archive-&#x5f52;&#x6863;"/>
-<node CREATED="1355974041940" ID="ID_1049612378" MODIFIED="1355974046453" TEXT="amend - &#x4fee;&#x6b63;"/>
+<node FOLDED="true" ID="ID_1266730434" POSITION="left" 
+	TEXT="english">
+<node ID="ID_1444488103" 
+	TEXT="incorporate-合并、结合"/>
+<node ID="ID_1792589356" 
+	TEXT="diverge from-分歧"/>
+<node ID="ID_203101874" 
+	TEXT="replay-重播、重放"/>
+<node ID="ID_605360256" 
+	TEXT="archive-归档"/>
+<node ID="ID_1049612378" 
+	TEXT="amend - 修正"/>
 </node>
 </node>
 </map>

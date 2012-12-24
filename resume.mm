@@ -1,10 +1,17 @@
-<map version="1.0.1">
-<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1355821664857" ID="ID_390867391" MODIFIED="1355831904400" TEXT="resume">
-<node CREATED="1355831980680" ID="ID_382577444" MODIFIED="1355831985552" POSITION="right" TEXT="&#x4e2a;&#x4eba;&#x7b80;&#x5386;">
-<node CREATED="1355832378566" ID="ID_972063636" MODIFIED="1355832382510" TEXT="English">
-<node CREATED="1355831987480" FOLDED="true" ID="ID_335649766" MODIFIED="1355879966222" TEXT="&#x82f1;&#x6587;&#x81ea;&#x6211;&#x4ecb;&#x7ecd;">
-<node CREATED="1355832195007" ID="ID_910302557" MODIFIED="1355832201143">
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="0.9.0">
+<!-- This file is saved using a hacked version of FreeMind. visit: http://freemind-mmx.sourceforge.net -->
+<!-- Orignal FreeMind, can download from http://freemind.sourceforge.net -->
+<!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
+<node ID="ID_390867391" 
+	TEXT="resume">
+<node FOLDED="true" ID="ID_382577444" POSITION="right" 
+	TEXT="个人简历">
+<node FOLDED="true" ID="ID_972063636" 
+	TEXT="English">
+<node FOLDED="true" ID="ID_335649766" 
+	TEXT="英文自我介绍">
+<node ID="ID_910302557">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -41,24 +48,24 @@
       I think I'm a good team player and I'm a person of great honesty to others. Also I am able to work under great pressure.
     </p>
     <p>
-      That&#8217;s all. Thank you for giving me the chance.
+      That’s all. Thank you for giving me the chance.
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355832230679" ID="ID_97660116" MODIFIED="1355832234653">
+<node ID="ID_97660116">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Good morning. I am glad to be here for this interview. First let me introduce myself. My name is ***, 24. I come from ******,the capital of *******Province. I graduated from the ******* department of *****University in July ,2001.In the past two years I have been preparing for the postgraduate examination while I have been teaching *****in NO.****middle School and I was a head-teacher of a class in junior grade two.Now all my hard work has got a result since I have a chance to be interview by you . I am open-minded ,quick in thought and very fond of history.In my spare time,I have broad interests like many other youngsters.I like reading books, especially those about *******.Frequently I exchange with other people by making comments in the forum on line.In addition ,during my college years,I was once a Net-bar technician.So, I have a comparatively good command of network application.I am able to operate the computer well.I am skillful in searching for information in Internet.I am a football fan for years.Italian team is my favorite.Anyway,I feel great pity for our country&#8217;s team. I always believe that one will easily lag behind unless he keeps on learning .Of course, if I am given a chance to study ****** in this famous University,I will stare no effort to master a good command of advance ******.
+      Good morning. I am glad to be here for this interview. First let me introduce myself. My name is ***, 24. I come from ******,the capital of *******Province. I graduated from the ******* department of *****University in July ,2001.In the past two years I have been preparing for the postgraduate examination while I have been teaching *****in NO.****middle School and I was a head-teacher of a class in junior grade two.Now all my hard work has got a result since I have a chance to be interview by you . I am open-minded ,quick in thought and very fond of history.In my spare time,I have broad interests like many other youngsters.I like reading books, especially those about *******.Frequently I exchange with other people by making comments in the forum on line.In addition ,during my college years,I was once a Net-bar technician.So, I have a comparatively good command of network application.I am able to operate the computer well.I am skillful in searching for information in Internet.I am a football fan for years.Italian team is my favorite.Anyway,I feel great pity for our country’s team. I always believe that one will easily lag behind unless he keeps on learning .Of course, if I am given a chance to study ****** in this famous University,I will stare no effort to master a good command of advance ******.
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355832244655" ID="ID_196625309" MODIFIED="1355832252908">
+<node ID="ID_196625309">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -76,7 +83,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1355832261751" ID="ID_1777246056" MODIFIED="1355832268753">
+<node ID="ID_1777246056">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -89,116 +96,178 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355832386806" FOLDED="true" ID="ID_592547319" MODIFIED="1355832724932" TEXT="&#x5176;&#x4ed6;&#x95ee;&#x9898;">
-<node CREATED="1355832395317" ID="ID_706034880" MODIFIED="1355832397374" TEXT="What is your greatest strength?&#xff08;&#x4f60;&#x6700;&#x7a81;&#x51fa;&#x7684;&#x4f18;&#x70b9;&#x662f;&#x4ec0;&#x4e48;&#xff1f;&#xff09;">
-<node CREATED="1355832410725" ID="ID_314957654" MODIFIED="1355832436542">
+<node FOLDED="true" ID="ID_592547319" 
+	TEXT="其他问题">
+<node FOLDED="true" ID="ID_706034880" 
+	TEXT="What is your greatest strength?（你最突出的优点是什么？）">
+<node ID="ID_314957654">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#36825;&#26159;&#24456;&#22810;&#38754;&#35797;&#32771;&#23448;&#21916;&#27426;&#38382;&#30340;&#19968;&#20010;&#38382;&#39064;&#65292;&#36825;&#26159;&#20320;&#23637;&#31034;&#33258;&#24049;&#30340;&#26368;&#20339;&#26426;&#20250;&#65292;&#19981;&#35201;&#21561;&#22040;&#33258;&#24049;&#25110;&#36807;&#20110;&#33258;&#36127;&#65292;&#20294;&#35201;&#35753;&#38599;&#20027;&#30693;&#36947;&#20320;&#30456;&#20449;&#33258;&#24049;&#65292;&#20320;&#30693;&#36947;&#33258;&#24049;&#30340;&#20248;&#28857;&#12290;&#22914;&#21487;&#31572;&#65306;&#8220;&#25105;&#35748;&#20026;&#25105;&#26368;&#22823;&#30340;&#20248;&#28857;&#26159;&#33021;&#22815;&#25191;&#30528;&#22320;&#23613;&#21147;&#25226;&#20107;&#24773;&#21150;&#22909;&#12290;&#24403;&#20570;&#23436;&#19968;&#20214;&#24037;&#20316;&#32780;&#20854;&#25104;&#26524;&#21448;&#27491;&#21512;&#25105;&#30340;&#39044;&#24819;&#26102;&#65292;&#25105;&#20250;&#26377;&#19968;&#31181;&#30495;&#27491;&#30340;&#25104;&#23601;&#24863;&#12290;&#25105;&#32473;&#33258;&#24049;&#23450;&#20102;&#19968;&#20123;&#39640;&#30446;&#26631;&#12290;&#27604;&#22914;&#35828;&#65292;&#25105;&#35201;&#25104;&#20026;&#20986;&#33394;&#30340;&#27605;&#19994;&#29983;&#12290;&#23613;&#31649;&#22312;&#22823;&#23398;&#19968;&#24180;&#32423;&#26102;&#25105;&#21551;&#21160;&#24930;&#20102;&#20123;&#65292;&#20294;&#26368;&#32456;&#25105;&#20197;&#20248;&#31561;&#35770;&#25991;&#23436;&#25104;&#20102;&#23398;&#19994;&#12290;&#8221;
+      这是很多面试考官喜欢问的一个问题，这是你展示自己的最佳机会，不要吹嘘自己或过于自负，但要让雇主知道你相信自己，你知道自己的优点。如可答：“我认为我最大的优点是能够执着地尽力把事情办好。当做完一件工作而其成果又正合我的预想时，我会有一种真正的成就感。我给自己定了一些高目标。比如说，我要成为出色的毕业生。尽管在大学一年级时我启动慢了些，但最终我以优等论文完成了学业。”
     </p>
     <p>
-      I feel that my strongest asset is my ability to stick to things to get them done. I feel a real sense of accomplishment when I finish a job and it turns out just as I&#8217;d planned. I&#8217;ve set some high goals for myself. For example, I want to graduate with highest distinction. And even though I had a slow start in my freshman year, I made up for it by doing an honor&#8217;s thesis.
+      I feel that my strongest asset is my ability to stick to things to get them done. I feel a real sense of accomplishment when I finish a job and it turns out just as I’d planned. I’ve set some high goals for myself. For example, I want to graduate with highest distinction. And even though I had a slow start in my freshman year, I made up for it by doing an honor’s thesis.
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355832447893" ID="ID_971815853" MODIFIED="1355832450790" TEXT="What is your greatest weakness?&#xff08;&#x4f60;&#x6700;&#x5927;&#x7684;&#x5f31;&#x70b9;&#x662f;&#x4ec0;&#x4e48;&#xff1f;&#xff09; ">
-<node CREATED="1355832458781" ID="ID_1456659777" MODIFIED="1355832462642" TEXT="&#x4f60;&#x4e0d;&#x5e94;&#x8be5;&#x8bf4;&#x4f60;&#x6ca1;&#x6709;&#x4efb;&#x4f55;&#x5f31;&#x70b9;&#xff0c;&#x4ee5;&#x6b64;&#x6765;&#x56de;&#x907f;&#x8fd9;&#x4e2a;&#x95ee;&#x9898;&#x3002;&#x6bcf;&#x4e2a;&#x4eba;&#x90fd;&#x6709;&#x5f31;&#x70b9;&#xff0c;&#x6700;&#x4f73;&#x7b56;&#x7565;&#x662f;&#x627f;&#x8ba4;&#x4f60;&#x7684;&#x5f31;&#x70b9;&#xff0c;&#x4f46;&#x540c;&#x65f6;&#x8868;&#x660e;&#x4f60;&#x5728;&#x4e88;&#x4ee5;&#x6539;&#x8fdb;&#xff0c;&#x5e76;&#x6709;&#x514b;&#x670d;&#x5f31;&#x70b9;&#x7684;&#x8ba1;&#x5212;&#x3002;&#x53ef;&#x80fd;&#x7684;&#x8bdd;&#xff0c;&#x4f60;&#x53ef;&#x8bf4;&#x51fa;&#x4e00;&#x9879;&#x53ef;&#x80fd;&#x4f1a;&#x7ed9;&#x516c;&#x53f8;&#x5e26;&#x6765;&#x597d;&#x5904;&#x7684;&#x5f31;&#x70b9;&#xff0c;&#x5982;&#x53ef;&#x8bf4;&#xff1a;&#x201c;&#x6211;&#x662f;&#x4e00;&#x4e2a;&#x5b8c;&#x7f8e;&#x4e3b;&#x4e49;&#x8005;&#x3002;&#x5de5;&#x4f5c;&#x505a;&#x5f97;&#x4e0d;&#x6f02;&#x4eae;&#xff0c;&#x6211;&#x662f;&#x4e0d;&#x4f1a;&#x6492;&#x624b;&#x7684;&#x3002;&#x201d; I&apos;m such a perfectionist that I will not stop until a job is well done. "/>
+<node FOLDED="true" ID="ID_971815853" 
+	TEXT="What is your greatest weakness?（你最大的弱点是什么？） ">
+<node ID="ID_1456659777" 
+	TEXT="你不应该说你没有任何弱点，以此来回避这个问题。每个人都有弱点，最佳策略是承认你的弱点，但同时表明你在予以改进，并有克服弱点的计划。可能的话，你可说出一项可能会给公司带来好处的弱点，如可说：“我是一个完美主义者。工作做得不漂亮，我是不会撒手的。” I&apos;m such a perfectionist that I will not stop until a job is well done. "/>
 </node>
-<node CREATED="1355832483141" ID="ID_1160320039" MODIFIED="1355832484598" TEXT="what is your major&#xff1f;">
-<node CREATED="1355832501093" ID="ID_456132549" MODIFIED="1355832578165" TEXT="My major is Computer Science And Technology,I like it very much!"/>
+<node FOLDED="true" ID="ID_1160320039" 
+	TEXT="what is your major？">
+<node ID="ID_456132549" 
+	TEXT="My major is Computer Science And Technology,I like it very much!"/>
 </node>
-<node CREATED="1355832667915" ID="ID_1178163326" MODIFIED="1355832669181" TEXT="Which university are you attending">
-<node CREATED="1355832670796" ID="ID_1416826042" MODIFIED="1355832685941" TEXT="Suzhou University Of Science And Technology"/>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1355822076286" ID="ID_1165837059" MODIFIED="1355822080541" POSITION="right" TEXT="&#x5927;&#x89c4;&#x6a21;&#x6570;&#x636e;&#x5206;&#x6790;"/>
-<node CREATED="1355967226830" ID="ID_1813637264" MODIFIED="1355967231999" POSITION="right" TEXT="&#x611f;&#x5174;&#x8da3;&#x7684;&#x804c;&#x4f4d;">
-<node CREATED="1355967211441" ID="ID_789086937" MODIFIED="1355967217128" TEXT="&#x7814;&#x53d1;&#x7c7b;&#x804c;&#x4f4d;">
-<node CREATED="1355967239160" ID="ID_789474263" MODIFIED="1355967241055" TEXT="&#x7b97;&#x6cd5;"/>
-<node CREATED="1355967241406" ID="ID_483579522" MODIFIED="1355967245758" TEXT="&#x6570;&#x636e;&#x6316;&#x6398;"/>
-<node CREATED="1355989738570" ID="ID_1267731204" MODIFIED="1355989741215" TEXT="&#x4e91;&#x8ba1;&#x7b97;"/>
+<node FOLDED="true" ID="ID_1178163326" 
+	TEXT="Which university are you attending">
+<node ID="ID_1416826042" 
+	TEXT="Suzhou University Of Science And Technology"/>
 </node>
 </node>
-<node CREATED="1355967562486" ID="ID_472394711" MODIFIED="1355967567271" POSITION="right" TEXT="&#x9879;&#x76ee;&#x7ecf;&#x9a8c;">
-<node CREATED="1355967568503" ID="ID_1622886592" MODIFIED="1355968425333" TEXT="Web&#x4fe1;&#x606f;&#x91c7;&#x96c6;&#x5e73;&#x53f0;">
-<node CREATED="1355967614181" ID="ID_272168437" MODIFIED="1355968447365" TEXT="&#x5305;&#x62ec;&#x591a;&#x79cd;&#x4fe1;&#x606f;&#x62bd;&#x53d6;&#x7b97;&#x6cd5;">
-<node CREATED="1355967648189" ID="ID_1642486018" MODIFIED="1355967695302" TEXT="&#x8d44;&#x8baf;&#x5168;&#x81ea;&#x52a8;&#x62bd;&#x53d6;"/>
-<node CREATED="1355967696213" ID="ID_712975153" MODIFIED="1355968460388" TEXT="xsl-&#x6a21;&#x677f;&#x9875;&#x5b9a;&#x5236;&#x62bd;&#x53d6;">
+</node>
+</node>
+<node ID="ID_1165837059" POSITION="right" 
+	TEXT="大规模数据分析"/>
+<node FOLDED="true" ID="ID_1813637264" POSITION="right" 
+	TEXT="感兴趣的职位">
+<node FOLDED="true" ID="ID_789086937" 
+	TEXT="研发类职位">
+<node ID="ID_789474263" 
+	TEXT="算法 "/>
+<node ID="ID_483579522" 
+	TEXT="数据挖掘"/>
+<node ID="ID_1267731204" 
+	TEXT="云计算"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_472394711" POSITION="right" 
+	TEXT="项目经验">
+<node FOLDED="true" ID="ID_1622886592" 
+	TEXT="Web信息采集平台">
+<node FOLDED="true" ID="ID_272168437" 
+	TEXT="包括多种信息抽取算法">
+<node ID="ID_1642486018" 
+	TEXT="资讯全自动抽取"/>
+<node ID="ID_712975153" 
+	TEXT="xsl-模板页定制抽取">
 <icon BUILTIN="bookmark"/>
 </node>
-<node CREATED="1355967720637" ID="ID_1388117809" MODIFIED="1355967728717" TEXT="js-&#x5b9a;&#x5236;&#x62bd;&#x53d6;"/>
-<node CREATED="1355967712037" ID="ID_1153200530" MODIFIED="1355968512865" TEXT="&#x4fe1;&#x606f;&#x5757;&#x8bc6;&#x522b;&#x62bd;&#x53d6;"/>
+<node ID="ID_1388117809" 
+	TEXT="js-定制抽取"/>
+<node ID="ID_1153200530" 
+	TEXT="信息块识别抽取"/>
 </node>
-<node CREATED="1355967749021" ID="ID_1802844114" MODIFIED="1355967789069" TEXT="&#x62bd;&#x53d6;&#x7b97;&#x6cd5;&#x53ef;&#x6269;&#x5c55;"/>
-<node CREATED="1355967813989" ID="ID_1070530239" MODIFIED="1355967830654" TEXT="&#x652f;&#x6301;&#x591a;&#x79cd;&#x6570;&#x636e;&#x5e93;&#x5b58;&#x50a8;"/>
+<node ID="ID_1802844114" 
+	TEXT="抽取算法可扩展"/>
+<node ID="ID_1070530239" 
+	TEXT="支持多种数据库存储"/>
 </node>
-<node CREATED="1355967846981" ID="ID_579927482" MODIFIED="1355968414965" TEXT="&#x5feb;&#x901f;-&#x591a;&#x5c42;&#x6b21;Web&#x6293;&#x53d6;&#x6846;&#x67b6;">
-<node CREATED="1355967863829" ID="ID_1139584874" MODIFIED="1355968604093" TEXT="&#x6bcf;&#x4e2a;&#x7f51;&#x7ad9;&#x53ea;&#x9700;&#x7b80;&#x5355;&#x7684;&#x7528;groovy&#x811a;&#x672c;&#x5b9a;&#x5236;&#x4e00;&#x5957;&#x6293;&#x53d6;&#x73af;"/>
-<node CREATED="1355967887061" ID="ID_1067602145" MODIFIED="1355968620126" TEXT="&#x7279;&#x70b9;">
-<node CREATED="1355968621140" ID="ID_1846880606" MODIFIED="1355968629094" TEXT="&#x6293;&#x53d6;&#x5468;&#x671f;&#x77ed;"/>
-<node CREATED="1355968630675" ID="ID_560355417" MODIFIED="1355968637420" TEXT="&#x6ca1;&#x6709;&#x5783;&#x573e;&#x94fe;&#x63a5;"/>
-<node CREATED="1355968640659" ID="ID_773474577" MODIFIED="1355968671239" TEXT="&#x6bcf;&#x4e2a;&#x94fe;&#x63a5;&#x7684;&#x5c5e;&#x6027;&#x53ef;&#x4ee5;&#x7075;&#x6d3b;&#x5b9a;&#x5236;&#xff0c;&#x6bd4;&#x5982;:&#x67d0;&#x4e9b;&#x94fe;&#x63a5;&#x8868;&#x793a;&#x4ea7;&#x54c1;&#xff0c;&#x67d0;&#x4e9b;&#x8868;&#x793a;&#x8d44;&#x8baf;&#xff0c;&#x6216;&#x4ea7;&#x54c1;&#x5217;&#x8868;"/>
+<node FOLDED="true" ID="ID_579927482" 
+	TEXT="快速-多层次Web抓取框架">
+<node ID="ID_1139584874" 
+	TEXT="每个网站只需简单的用groovy脚本定制一套抓取环"/>
+<node FOLDED="true" ID="ID_1067602145" 
+	TEXT="特点">
+<node ID="ID_1846880606" 
+	TEXT="抓取周期短"/>
+<node ID="ID_560355417" 
+	TEXT="没有垃圾链接"/>
+<node ID="ID_773474577" 
+	TEXT="每个链接的属性可以灵活定制，比如:某些链接表示产品，某些表示资讯，或产品列表"/>
 </node>
 </node>
-<node CREATED="1355968786051" ID="ID_572479586" MODIFIED="1355968789469" TEXT="&#x5206;&#x7c7b;&#x7b97;&#x6cd5;">
-<node CREATED="1355968803563" ID="ID_1303461160" MODIFIED="1355968811669" TEXT="&#x5305;&#x62ec;&#x591a;&#x79cd;&#x5206;&#x7c7b;&#x7b97;&#x6cd5;">
-<node CREATED="1355968812627" ID="ID_455048508" MODIFIED="1355968817765" TEXT="&#x5bfc;&#x822a;&#x680f;&#x5b9a;&#x5236;"/>
-<node CREATED="1355968818203" ID="ID_1916663451" MODIFIED="1355968830038" TEXT="&#x7279;&#x5f81;&#x8bcd;&#x5206;&#x7c7b;"/>
-<node CREATED="1355968832995" ID="ID_380114753" MODIFIED="1355968838173" TEXT="&#x8d1d;&#x53f6;&#x65af;&#x5206;&#x7c7b;">
-<node CREATED="1355968851715" ID="ID_1290053956" MODIFIED="1355968861237" TEXT="mahout &#x6734;&#x7d20;&#x8d1d;&#x53f6;&#x65af;"/>
+<node FOLDED="true" ID="ID_572479586" 
+	TEXT="分类算法">
+<node FOLDED="true" ID="ID_1303461160" 
+	TEXT="包括多种分类算法">
+<node ID="ID_455048508" 
+	TEXT="导航栏定制"/>
+<node ID="ID_1916663451" 
+	TEXT="特征词分类"/>
+<node FOLDED="true" ID="ID_380114753" 
+	TEXT="贝叶斯分类">
+<node ID="ID_1290053956" 
+	TEXT="mahout 朴素贝叶斯"/>
 </node>
-<node CREATED="1355968839539" ID="ID_409303245" MODIFIED="1355968849094" TEXT="url pattern &#x5b9a;&#x5236;&#x5206;&#x7c7b;"/>
+<node ID="ID_409303245" 
+	TEXT="url pattern 定制分类"/>
 </node>
-<node CREATED="1355970387920" ID="ID_853657331" MODIFIED="1355970402924" TEXT="&#x5206;&#x7c7b;&#x7b97;&#x6cd5;&#x53ef;&#x6269;&#x5145;"/>
+<node ID="ID_853657331" 
+	TEXT="分类算法可扩充"/>
 </node>
-<node CREATED="1355968699155" ID="ID_1204421230" MODIFIED="1355968709181" TEXT="&#x4ea7;&#x54c1;&#x540d;&#x79f0;&#x805a;&#x7c7b;&#x7b97;&#x6cd5;"/>
+<node ID="ID_1204421230" 
+	TEXT="产品名称聚类算法"/>
 </node>
-<node CREATED="1355989314842" ID="ID_282012425" MODIFIED="1355989321475" POSITION="right" TEXT="&#x4e3a;&#x4ec0;&#x4e48;&#x9009;&#x62e9;&#x79bb;&#x804c;?">
-<node CREATED="1355989377082" ID="ID_194410933" MODIFIED="1355989571091" TEXT="&#x516c;&#x53f8;&#x53d1;&#x5c55;&#x592a;&#x7f13;&#x6162;"/>
-<node CREATED="1355989575058" ID="ID_791047358" MODIFIED="1355989604484" TEXT="&#x6211;&#x5e0c;&#x671b;&#x5bfb;&#x6c42;&#x4e00;&#x4e2a;&#x66f4;&#x6709;&#x6311;&#x6218;&#x7684;&#x73af;&#x5883;,&#x66f4;&#x5927;&#x7684;&#x5e73;&#x53f0;"/>
+<node FOLDED="true" ID="ID_282012425" POSITION="right" 
+	TEXT="为什么选择离职?">
+<node ID="ID_194410933" 
+	TEXT="公司发展太缓慢"/>
+<node ID="ID_791047358" 
+	TEXT="我希望寻求一个更有挑战的环境,更大的平台"/>
 </node>
-<node CREATED="1355822092486" ID="ID_1523186489" MODIFIED="1355822141421" POSITION="right" TEXT="&#x5927;&#x578b;&#x5206;&#x5e03;&#x5f0f;&#x4e91;&#x8ba1;&#x7b97;&#x5f00;&#x53d1;&#x7ecf;&#x9a8c;"/>
-<node CREATED="1355822113350" ID="ID_1145626659" MODIFIED="1355822116165" POSITION="right" TEXT="&#x641c;&#x7d22;&#x5f15;&#x64ce;"/>
-<node CREATED="1355822237957" ID="ID_1797066321" MODIFIED="1355822243366" POSITION="left" TEXT="&#x4e00;&#x70b9;&#x611f;&#x60f3;">
-<node CREATED="1355822249141" ID="ID_1733097230" MODIFIED="1355822282172">
+<node ID="ID_1523186489" POSITION="right" 
+	TEXT="大型分布式云计算开发经验"/>
+<node ID="ID_1145626659" POSITION="right" 
+	TEXT="搜索引擎"/>
+<node FOLDED="true" ID="ID_1797066321" POSITION="left" 
+	TEXT="一点感想">
+<node ID="ID_1733097230">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      &#21457;&#29616;&#24456;&#22810;&#32844;&#20301;&#37117;&#19981;&#36866;&#21512;&#33258;&#24049;,why?
+      发现很多职位都不适合自己,why?
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1355831910811" ID="ID_775887864" MODIFIED="1355831923176" POSITION="left" TEXT="HP&#x62db;&#x8058;&#x7684;&#x5de5;&#x4f5c;">
-<node CREATED="1355831931529" ID="ID_1229466508" MODIFIED="1355831933098" TEXT="SD"/>
-<node CREATED="1355831933737" ID="ID_364427723" MODIFIED="1355831936142" TEXT="BW"/>
-<node CREATED="1355831938810" ID="ID_44020806" MODIFIED="1355831939401" TEXT="MM"/>
-<node CREATED="1355831943105" ID="ID_1478275292" MODIFIED="1355831944832" TEXT="ABAP"/>
-<node CREATED="1355832012872" ID="ID_1495927512" MODIFIED="1355832015063" TEXT="WWIS"/>
-<node CREATED="1355832029952" ID="ID_1817608924" MODIFIED="1355832031825" TEXT="MS BI"/>
-<node CREATED="1355832034560" ID="ID_676257901" MODIFIED="1355832035432" TEXT="BO"/>
-<node CREATED="1355832037112" ID="ID_1633054536" MODIFIED="1355832038015" TEXT="BI"/>
-<node CREATED="1355832040064" ID="ID_697382660" MODIFIED="1355832041368" TEXT="Java"/>
-<node CREATED="1355832067272" ID="ID_1026460105" MODIFIED="1355832068313" TEXT=".net"/>
-<node CREATED="1355832071720" ID="ID_891523003" MODIFIED="1355832074464" TEXT="Linux C++"/>
-<node CREATED="1355832076496" ID="ID_1730698942" MODIFIED="1355832078967" TEXT="Linux Script"/>
-<node CREATED="1355832080960" ID="ID_1393593390" MODIFIED="1355832083112" TEXT="Linux Admin"/>
-<node CREATED="1355832085320" ID="ID_1685643649" MODIFIED="1355832091915" TEXT="ITI Perl"/>
-<node CREATED="1355832093888" ID="ID_334447535" MODIFIED="1355832095840" TEXT="OLAP"/>
-<node CREATED="1355832103831" ID="ID_1740108161" MODIFIED="1355832132656" TEXT="Agile Project Management"/>
+<node FOLDED="true" ID="ID_775887864" POSITION="left" 
+	TEXT="HP招聘的工作">
+<node ID="ID_1229466508" 
+	TEXT="SD"/>
+<node ID="ID_364427723" 
+	TEXT="BW"/>
+<node ID="ID_44020806" 
+	TEXT="MM"/>
+<node ID="ID_1478275292" 
+	TEXT="ABAP"/>
+<node ID="ID_1495927512" 
+	TEXT="WWIS"/>
+<node ID="ID_1817608924" 
+	TEXT="MS BI"/>
+<node ID="ID_676257901" 
+	TEXT="BO"/>
+<node ID="ID_1633054536" 
+	TEXT="BI"/>
+<node ID="ID_697382660" 
+	TEXT="Java"/>
+<node ID="ID_1026460105" 
+	TEXT=".net"/>
+<node ID="ID_891523003" 
+	TEXT="Linux C++"/>
+<node ID="ID_1730698942" 
+	TEXT="Linux Script"/>
+<node ID="ID_1393593390" 
+	TEXT="Linux Admin"/>
+<node ID="ID_1685643649" 
+	TEXT="ITI Perl"/>
+<node ID="ID_334447535" 
+	TEXT="OLAP"/>
+<node ID="ID_1740108161" 
+	TEXT="Agile Project Management"/>
 </node>
-<node CREATED="1355989308771" ID="ID_1917234784" MODIFIED="1355989308771" POSITION="left" TEXT=""/>
+<node ID="ID_1917234784" POSITION="left" 
+	TEXT=""/>
 </node>
 </map>
