@@ -14,13 +14,18 @@
 <node FOLDED="true" ID="ID_794586754" 
 	TEXT="xml文档类型 DTD">
 <node ID="ID_607574884" 
-	TEXT="用于定义文档结构，文档元素属性"/>
+	TEXT="含义:用于定义文档结构，文档元素属性"/>
 <node ID="ID_31138601" 
-	TEXT="root element"/>
+	TEXT="root element">
+<icon BUILTIN="full-1"/>
+</node>
 <node ID="ID_1402453580" 
-	TEXT="DTD"/>
+	TEXT="DTD">
+<icon BUILTIN="full-2"/>
+</node>
 <node ID="ID_1260383002" 
 	TEXT="public(optional) &amp; system identifiers">
+<icon BUILTIN="full-3"/>
 <icon BUILTIN="help"/>
 </node>
 <node ID="ID_1951423952" 
@@ -69,29 +74,28 @@
 </node>
 <node FOLDED="true" ID="ID_1998711579" POSITION="left" 
 	TEXT="install how to">
-<node ID="ID_1741244674" 
-	TEXT="1.0"/>
-<node ID="ID_1990166390" 
-	TEXT="2.0"/>
+<node ID="ID_1741244674" LINK="http://docbook.org/xml/5.0/docbook-5.0.zip" 
+	TEXT="1.0 download scheme "/>
+<node ID="ID_1990166390" LINK="http://downloads.sourceforge.net/project/docbook/docbook-xsl/1.78.0/docbook-xsl-1.78.0.tar.bz2?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fdocbook%2Ffiles%2Fdocbook-xsl%2F1.78.0%2F&amp;ts=1356521794&amp;use_mirror=jaist" 
+	TEXT="2.0 download docbook xsl &amp; unpack /home/libin/docbook/"/>
 <node ID="ID_1314605958" 
-	TEXT="3.0"/>
+	TEXT="3.0 sudo apt-get install xsltproc : for convert xml to html"/>
+<node ID="ID_1410773025" 
+	TEXT="4.0 "/>
 </node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
 	TEXT="tool chain">
-<node FOLDED="true" ID="ID_38868030" 
-	TEXT="emacs nxml-mode http://www.thaiopensource.com/nxml-mode/">
-<node ID="ID_1460480262" 
-	TEXT="download:http://www.thaiopensource.com/download/"/>
-<node ID="ID_46249019" 
-	TEXT="introduce:http://www.emacswiki.org/NxmlMode"/>
+<node FOLDED="true" ID="ID_38868030" LINK="http://www.thaiopensource.com/nxml-mode/" 
+	TEXT="emacs nxml-mode ">
+<node ID="ID_1460480262" LINK="http://www.thaiopensource.com/download/" 
+	TEXT="download address"/>
+<node ID="ID_46249019" LINK="http://www.emacswiki.org/NxmlMode" 
+	TEXT="introduce address"/>
 </node>
 <node ID="ID_1024403371" 
 	TEXT="oXygen"/>
 </node>
-<node FOLDED="true" ID="ID_1967242962" POSITION="left" 
-	TEXT="RELAX NG">
-<node ID="ID_835682876" 
-	TEXT="http://www.relaxng.org/"/>
-</node>
+<node ID="ID_1967242962" LINK="http://www.relaxng.org/" POSITION="left" 
+	TEXT="RELAX NG"/>
 </node>
 </map>
