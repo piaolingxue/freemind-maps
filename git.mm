@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -482,6 +482,63 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1003989912" 
+	TEXT="multi github repos">
+<node ID="ID_682602868" 
+	TEXT="ssh-keygen -t rsa -C &quot;390973341@qq.com&quot;"/>
+<node ID="ID_727967735" 
+	TEXT="ssh-add ~/.ssh/emacs_rsa"/>
+<node ID="ID_1105502864" 
+	TEXT="github-settings-deploy&gt;add deploy keys"/>
+<node FOLDED="true" ID="ID_1340446861" 
+	TEXT="vi ~/.ssh/config">
+<node ID="ID_886170167">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">Host</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif"> piaolingxue</font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">.</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">github</font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">.</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">com </font>
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">HostName</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif"> github</font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">.</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">com </font>
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">PreferredAuthentications</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">  publickey </font>
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">IdentityFile</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif"> </font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">~</font><font color="rgb(0, 136, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">/.ssh/id</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">_rsa </font>
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">Host</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif"> matrix-007</font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">.</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">github</font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">.</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">com </font>
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">HostName</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif"> github</font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">.</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">com </font>
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">PreferredAuthentications</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">  publickey </font>
+    </p>
+    <p>
+      <font color="rgb(102, 0, 102)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">IdentityFile</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif"> </font><font color="rgb(102, 102, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">~</font><font color="rgb(0, 136, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">/.ssh/config</font><font color="rgb(0, 0, 0)" size="4" face="Courier New, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, monospace, serif">_rsa</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_491829405" 
+	TEXT="config remote repos">
+<node ID="ID_1317262903" 
+	TEXT="git remote add origin git@matrix-007.github.com:matrix-007/.emacs.d.git"/>
+<node ID="ID_899802485" 
+	TEXT="将git@github.com改成matrix-007.github.com这样才会用对应的key登录"/>
 </node>
 </node>
 </node>
