@@ -20,7 +20,7 @@
 <icon BUILTIN="full-1"/>
 </node>
 <node ID="ID_1402453580" 
-	TEXT="DTD">
+	TEXT="DTD(Document Type Definition) 规定语法语义">
 <icon BUILTIN="full-2"/>
 </node>
 <node ID="ID_1260383002" 
@@ -38,7 +38,7 @@
 <node ID="ID_983568046" 
 	TEXT="logical divisions:"/>
 <node FOLDED="true" ID="ID_81360798" 
-	TEXT="catalog">
+	TEXT="catalog 实体解析目录(Entity Resolution Catalog)">
 <node ID="ID_470507230">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -56,6 +56,8 @@
 </node>
 </node>
 </node>
+<node ID="ID_1667564760" 
+	TEXT="xsl 规定样式"/>
 </node>
 <node ID="ID_316852761" POSITION="right" 
 	TEXT="validate"/>
@@ -78,20 +80,30 @@
 	TEXT="1.0 download scheme "/>
 <node ID="ID_1990166390" LINK="http://downloads.sourceforge.net/project/docbook/docbook-xsl/1.78.0/docbook-xsl-1.78.0.tar.bz2?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fdocbook%2Ffiles%2Fdocbook-xsl%2F1.78.0%2F&amp;ts=1356521794&amp;use_mirror=jaist" 
 	TEXT="2.0 download docbook xsl &amp; unpack /home/libin/docbook/"/>
-<node ID="ID_1314605958" 
-	TEXT="3.0 sudo apt-get install xsltproc : for convert xml to html"/>
-<node ID="ID_1410773025" 
-	TEXT="4.0 "/>
+<node FOLDED="true" ID="ID_1314605958" 
+	TEXT="3.0 transform xml by xsl">
+<node FOLDED="true" ID="ID_1778838320" 
+	TEXT="xslproc">
+<node ID="ID_1219233374" 
+	TEXT="apt-get install"/>
+<node ID="ID_875319071" 
+	TEXT="xslproc test.xsl source.xml "/>
+</node>
+<node FOLDED="true" ID="ID_1861809764" 
+	TEXT="saxon">
+<node ID="ID_809379931" 
+	TEXT="saxon 6.0 不支持 xsl 1.1"/>
+<node ID="ID_866143851" 
+	TEXT="saxon 9.4 HE 开源 支持 xsl1.1"/>
+<node ID="ID_706419162" 
+	TEXT="java -classpath saxon.jar net.sf.saxon.Transform -xsl:test.xsl -s:source.xml -o:output.xml"/>
+</node>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
 	TEXT="tool chain">
-<node FOLDED="true" ID="ID_38868030" LINK="http://www.thaiopensource.com/nxml-mode/" 
-	TEXT="emacs nxml-mode ">
-<node ID="ID_1460480262" LINK="http://www.thaiopensource.com/download/" 
-	TEXT="download address"/>
-<node ID="ID_46249019" LINK="http://www.emacswiki.org/NxmlMode" 
-	TEXT="introduce address"/>
-</node>
+<node ID="ID_1895912914" LINK="emacs-nxml-mode.mm" 
+	TEXT="emacs nxml-mode "/>
 <node ID="ID_1024403371" 
 	TEXT="oXygen"/>
 </node>
