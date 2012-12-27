@@ -80,24 +80,76 @@
 	TEXT="1.0 download scheme "/>
 <node ID="ID_1990166390" LINK="http://downloads.sourceforge.net/project/docbook/docbook-xsl/1.78.0/docbook-xsl-1.78.0.tar.bz2?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fdocbook%2Ffiles%2Fdocbook-xsl%2F1.78.0%2F&amp;ts=1356521794&amp;use_mirror=jaist" 
 	TEXT="2.0 download docbook xsl &amp; unpack /home/libin/docbook/"/>
+<node FOLDED="true" ID="ID_983044096" 
+	TEXT="3.0 iso entity sets">
+<node ID="ID_604712187" LINK="http://www.w3.org/2003/entities/" 
+	TEXT="introduce"/>
+<node ID="ID_1076647330" LINK="http://www.w3.org/2003/entities/2007/w3centities-f.ent" 
+	TEXT="download"/>
+<node FOLDED="true" ID="ID_301402088" 
+	TEXT="install">
+<node ID="ID_1519332118" 
+	TEXT="copy it to ~/docbook/docbook-5.0"/>
+<node ID="ID_866763234" 
+	TEXT="add to catalog"/>
+</node>
+</node>
 <node FOLDED="true" ID="ID_1314605958" 
-	TEXT="3.0 transform xml by xsl">
-<node FOLDED="true" ID="ID_1778838320" 
+	TEXT="4.0 transform xml by xsl">
+<node FOLDED="true" ID="ID_1778838320" LINK="http://xmlsoft.org/XSLT/xsltproc2.html" 
 	TEXT="xslproc">
 <node ID="ID_1219233374" 
 	TEXT="apt-get install"/>
 <node ID="ID_875319071" 
 	TEXT="xslproc test.xsl source.xml "/>
+<node ID="ID_1352276756" 
+	TEXT="需要配置环境变量:SGML_CATALOG_FILES"/>
 </node>
-<node FOLDED="true" ID="ID_1861809764" 
+<node FOLDED="true" ID="ID_1861809764" LINK="http://saxon.sourceforge.net/" 
 	TEXT="saxon">
 <node ID="ID_809379931" 
-	TEXT="saxon 6.0 不支持 xsl 1.1"/>
+	TEXT="saxon 6.0 不支持 xsl 2.0"/>
 <node ID="ID_866143851" 
-	TEXT="saxon 9.4 HE 开源 支持 xsl1.1"/>
+	TEXT="saxon 9.4 HE 开源 支持 xsl 1.0 - 3.0 但是 1.0支持效果不如xslproc"/>
 <node ID="ID_706419162" 
 	TEXT="java -classpath saxon.jar net.sf.saxon.Transform -xsl:test.xsl -s:source.xml -o:output.xml"/>
 </node>
+</node>
+<node FOLDED="true" ID="ID_1781395091" 
+	TEXT="5.0 export">
+<node FOLDED="true" ID="ID_162080927" 
+	TEXT="htm (xslproc or saxon)">
+<node ID="ID_304394494" 
+	TEXT="xslproc (*.xml &gt; *.html)"/>
+</node>
+<node FOLDED="true" ID="ID_1739578231" 
+	TEXT="pdf (xslproc and fop)">
+<node ID="ID_1959003122" 
+	TEXT="xslproc (*.xml -&gt; *.fo)"/>
+<node FOLDED="true" ID="ID_250608975" 
+	TEXT="fop (*.fo -&gt; *.pdf)">
+<node ID="ID_1571681179" LINK="http://xmlgraphics.apache.org/fop/" 
+	TEXT="official"/>
+<node ID="ID_741719972" LINK="http://www.apache.org/dyn/closer.cgi/xmlgraphics/fop" 
+	TEXT="download"/>
+<node ID="ID_1000094640" 
+	TEXT="install$ ant all"/>
+<node ID="ID_88193929" LINK="http://xmlgraphics.apache.org/fop/1.1/configuration.html" 
+	TEXT="config"/>
+<node FOLDED="true" ID="ID_570468221" 
+	TEXT="chinese">
+<icon BUILTIN="help"/>
+<node ID="ID_853281968" LINK="http://blog.donews.com/limodou/archive/2004/04/01/9917.aspx" 
+	TEXT="limodou"/>
+<node ID="ID_1247732022" LINK="http://www.javaranch.com/journal/200409/CreatingMultipleLanguagePDFusingApacheFOP.html" 
+	TEXT="Create Multiple Language PDF"/>
+</node>
+</node>
+</node>
+<node ID="ID_1440370523" 
+	TEXT="java help"/>
+<node ID="ID_1851985797" 
+	TEXT="epub"/>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
@@ -109,5 +161,14 @@
 </node>
 <node ID="ID_1967242962" LINK="http://www.relaxng.org/" POSITION="left" 
 	TEXT="RELAX NG"/>
+<node FOLDED="true" ID="ID_873338569" POSITION="right" 
+	TEXT="资料">
+<node ID="ID_913694268" LINK="http://www.sagehill.net/docbookxsl/index.ht" 
+	TEXT="docbook xsl guide">
+<icon BUILTIN="bookmark"/>
+</node>
+<node ID="ID_753612921" LINK="http://blog.sina.com.cn/s/blog_6a4c492f0100oopw.html" 
+	TEXT="采用docbook编写研发文档"/>
+</node>
 </node>
 </map>
