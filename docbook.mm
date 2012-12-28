@@ -254,8 +254,7 @@
       in <b>figures</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node FOLDED="true" ID="ID_1176643465" 
@@ -640,8 +639,7 @@
       section,set,setindex,and toc
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -775,11 +773,15 @@
 	TEXT="miscellaneous:[&apos;mɪsə&apos;lenɪəs]杂项">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
+<node ID="ID_1725396743" 
+	TEXT="affiliation:[əˌfɪliˈeɪʃn]附属"/>
+<node ID="ID_1025466646" 
+	TEXT="cite:引用"/>
 </node>
 <node FOLDED="true" ID="ID_873338569" POSITION="right" 
 	TEXT="资料">
-<node ID="ID_913694268" LINK="http://www.sagehill.net/docbookxsl/index.ht" 
-	TEXT="docbook xsl guide">
+<node ID="ID_913694268" LINK="http://www.sagehill.net/docbookxsl/index.html" 
+	TEXT="DocBook XSL: The Complete Guide">
 <icon BUILTIN="bookmark"/>
 </node>
 <node ID="ID_753612921" LINK="http://blog.sina.com.cn/s/blog_6a4c492f0100oopw.html" 
@@ -794,6 +796,33 @@
 	TEXT="使用docbook编写日常项目文档"/>
 <node ID="ID_95748373" LINK="http://www.xmlmind.com/xmleditor/" 
 	TEXT="docbook 编辑器 xmlmind"/>
+<node ID="ID_41093544" LINK="http://xmlsoft.org/XSLT/xsltproc.html" 
+	TEXT="xsltproc 参数介绍"/>
+<node ID="ID_1379221468" LINK="http://www.vogella.com/articles/DocBook/article.html" 
+	TEXT="Lars Vogel 的 DocBook教程">
+<icon BUILTIN="bookmark"/>
+</node>
+<node ID="ID_159700361" LINK="http://geant4.web.cern.ch/geant4/workAreaUserDocKA/AuthorsInstruction/IntroDocBook.html" 
+	TEXT="IntroDocBook"/>
+</node>
+<node FOLDED="true" ID="ID_1687714347" POSITION="right" 
+	TEXT="FAQ">
+<node ID="ID_1650278953">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1.0 . <b>Q</b>:'http://www.w3.org/2001/XInclude' encountered in article, but no template matches
+    </p>
+    <p>
+      <b>Answer</b>:xsltproc --xinclude,Process the input document using the Xinclude specification. More details on this can be found in the Xinclude specification:<font color="rgb(0, 0, 0)" size="medium" face="Times New Roman"><span class="Apple-converted-space"> </span></font>http://www.w3.org/TR/xinclude/
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </map>
