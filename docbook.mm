@@ -788,6 +788,12 @@
 	TEXT="play with docbook 5.0"/>
 <node ID="ID_447479329" LINK="http://easwy.com/blog/archives/a-simple-docbook-5-example/" 
 	TEXT="一个docbook5.0的例子"/>
+<node ID="ID_514623440" LINK="http://www.djes.ilc.edu.tw/reading-hope/libF01.htm" 
+	TEXT=" 图书结构"/>
+<node ID="ID_115181180" LINK="http://michael.nona.name/archives/106/" 
+	TEXT="使用docbook编写日常项目文档"/>
+<node ID="ID_95748373" LINK="http://www.xmlmind.com/xmleditor/" 
+	TEXT="docbook 编辑器 xmlmind"/>
 </node>
 </node>
 </map>
