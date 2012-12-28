@@ -4,7 +4,7 @@
 <!-- Orignal FreeMind, can download from http://freemind.sourceforge.net -->
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
 <node ID="ID_284415163" 
-	TEXT="docbook how to">
+	TEXT="docbook 5.0 how to">
 <node FOLDED="true" ID="ID_1893404138" POSITION="right" 
 	TEXT="create">
 <node FOLDED="true" ID="ID_530842273" 
@@ -58,21 +58,619 @@
 </node>
 <node ID="ID_1667564760" 
 	TEXT="xsl 规定样式"/>
+<node ID="ID_1223303936" 
+	TEXT="article"/>
+<node ID="ID_1243280389" 
+	TEXT="book"/>
 </node>
-<node ID="ID_316852761" POSITION="right" 
-	TEXT="validate"/>
+<node FOLDED="true" ID="ID_930935840" POSITION="right" 
+	TEXT="逻辑分割">
+<node ID="ID_236611810" 
+	TEXT="Sets(系列)"/>
+<node FOLDED="true" ID="ID_1112248393" 
+	TEXT="Books(书籍)">
+<node ID="ID_414219371" 
+	TEXT="Dedication (献辞)"/>
+<node ID="ID_793608732" 
+	TEXT="Navigational Components (导航组件)"/>
+<node FOLDED="true" ID="ID_1549154916" 
+	TEXT="Divisions(册,卷)">
+<node FOLDED="true" ID="ID_1439608780" 
+	TEXT="parts(篇)">
+<node ID="ID_1978410299" 
+	TEXT="compontents(组件)"/>
+</node>
+<node FOLDED="true" ID="ID_1235717294" 
+	TEXT="references(引用)">
+<node ID="ID_1702407363" 
+	TEXT="refentry(refer entry)"/>
+</node>
+</node>
+<node ID="ID_1660656760" 
+	TEXT="Chapter(章)"/>
+</node>
+<node FOLDED="true" ID="ID_1928121879" 
+	TEXT="Compontents(组件)">
+<node ID="ID_1191182935" 
+	TEXT="preface(前言,序)"/>
+<node ID="ID_859934399" 
+	TEXT="chapter(章)"/>
+<node ID="ID_860841272" 
+	TEXT="appendix(附录)"/>
+<node ID="ID_491237809" 
+	TEXT="glossary(术语)"/>
+<node ID="ID_1765853814" 
+	TEXT="bibliography(书目)"/>
+</node>
+<node FOLDED="true" ID="ID_612895268" 
+	TEXT="Sections(节)">
+<node ID="ID_898514436" 
+	TEXT="sect1,sect2,sect3...sect5"/>
+<node ID="ID_1870980479" 
+	TEXT="section:can depth;numbered"/>
+<node ID="ID_1603308085" 
+	TEXT="simplesect:a terminal sections,can not in table content"/>
+<node ID="ID_136604372" 
+	TEXT="bridgehead:section title"/>
+<node ID="ID_1244817620" 
+	TEXT="refsect1..refsect3:in refentry(ref entry)"/>
+<node ID="ID_1815752406" 
+	TEXT="refsection like section"/>
+<node ID="ID_499571591" 
+	TEXT="glossdiv,bibiodiv,indexdiv"/>
+</node>
+<node FOLDED="true" ID="ID_1381023352" 
+	TEXT="meta information">
+<node ID="ID_1170589015" 
+	TEXT="is designed to contain bibliographic information &#xa;about the content(author,version,publisher and so on)"/>
+<node FOLDED="true" ID="ID_280764407" 
+	TEXT="info">
+<node ID="ID_955494156" 
+	TEXT="title"/>
+<node ID="ID_371746152" 
+	TEXT="titleabbrev"/>
+<node ID="ID_44844177" 
+	TEXT="subtitle"/>
+<node ID="ID_1388059014" 
+	TEXT="abstract"/>
+<node ID="ID_62419305" 
+	TEXT="address"/>
+<node ID="ID_1278089232" 
+	TEXT="annotation"/>
+<node ID="ID_1579036687" 
+	TEXT="artpagenums"/>
+<node ID="ID_896237744" 
+	TEXT="author"/>
+<node ID="ID_455621473" 
+	TEXT="authorgraph"/>
+<node ID="ID_1770199060" 
+	TEXT="and so on"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_159491184" 
+	TEXT="Block Elements(paragraph-level)">
+<node ID="ID_109667980" 
+	TEXT="block:like paragraphs,lists.sidebars,tables,block quotations"/>
+<node ID="ID_1624686073" 
+	TEXT="inline:cross-references,filenames,commands,options,subscripts...)"/>
+<node ID="ID_1385764961" 
+	TEXT="block vs inline like (div vs span)"/>
+<node FOLDED="true" ID="ID_1517169972" 
+	TEXT="Lists">
+<node ID="ID_1177300594" 
+	TEXT="calloutlist(插图编号列表)"/>
+<node ID="ID_11859103" 
+	TEXT="bibliolist"/>
+<node ID="ID_758991946" 
+	TEXT="glosslist"/>
+<node ID="ID_390676407" 
+	TEXT="itemizedlist"/>
+<node ID="ID_1879463607" 
+	TEXT="orderedlist"/>
+<node ID="ID_122170819" 
+	TEXT="segmentedlist"/>
+<node ID="ID_78098486" 
+	TEXT="simplelist"/>
+<node ID="ID_1325846932" 
+	TEXT="variablelist"/>
+</node>
+<node FOLDED="true" ID="ID_1064650482" 
+	TEXT="Admonitions(警告)">
+<node ID="ID_1334272734" 
+	TEXT="caution">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1823167269" 
+	TEXT="important">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_43029513" 
+	TEXT="note">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_382530653" 
+	TEXT="tip">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_181525234" 
+	TEXT="warming">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node ID="ID_913576333" 
+	TEXT="Line-specific environments"/>
+<node FOLDED="true" ID="ID_52988742" 
+	TEXT="Examples,figures,and tables">
+<node ID="ID_1159638818" 
+	TEXT="example"/>
+<node ID="ID_333543926" 
+	TEXT="informationexample"/>
+<node ID="ID_659873334" 
+	TEXT="figure"/>
+<node ID="ID_366614890" 
+	TEXT="informationfigure"/>
+<node ID="ID_1120493164" 
+	TEXT="table"/>
+<node ID="ID_886350062" 
+	TEXT="informationtable"/>
+</node>
+<node FOLDED="true" ID="ID_415012662" 
+	TEXT="Paragraphs">
+<node ID="ID_731703397" 
+	TEXT="para">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1236248992" 
+	TEXT="simpara">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1388389797" 
+	TEXT=""/>
+</node>
+<node FOLDED="true" ID="ID_1981191117" 
+	TEXT="Equations:公式">
+<node ID="ID_1261657778" 
+	TEXT="equation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1208591484" 
+	TEXT="informationquation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_643666585" 
+	TEXT="inlinequation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1140791051" 
+	TEXT="Graphics and media">
+<node ID="ID_1792342605">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      in <b>figures</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node FOLDED="true" ID="ID_1176643465" 
+	TEXT="media objects">
+<node ID="ID_271465350" 
+	TEXT="audioobject">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_320932495" 
+	TEXT="imageobject">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1966678354" 
+	TEXT="imageobjectco">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_492043693" 
+	TEXT="videoobject">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_400216205" 
+	TEXT="textobject">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_321921587" 
+	TEXT="Questions and anster">
+<node FOLDED="true" ID="ID_1171986653" 
+	TEXT="qandaset">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node ID="ID_1941027329" 
+	TEXT="question">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_662745889" 
+	TEXT="answer">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1893670895" 
+	TEXT="Procedures and tasks">
+<node FOLDED="true" ID="ID_1948853967" 
+	TEXT="procedure">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node ID="ID_800163537" 
+	TEXT="step">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1222915017" 
+	TEXT="task">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node ID="ID_736085901" 
+	TEXT="procedure">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1275221895" 
+	TEXT="tasksummary">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1934251629" 
+	TEXT="taskprerequisites">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_364146659" 
+	TEXT="example">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_931170373" 
+	TEXT="taskrelated">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_204203555" 
+	TEXT="Synopses(梗概,对照表)">
+<node FOLDED="true" ID="ID_213410750" 
+	TEXT="cmdsynopsis">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node ID="ID_695974355" 
+	TEXT="arg">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_486611933" 
+	TEXT="command">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_298027782" 
+	TEXT="group">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_341336282" 
+	TEXT="funcsynopsis">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node FOLDED="true" ID="ID_1045464740" 
+	TEXT="funcprototypes">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node ID="ID_252532008" 
+	TEXT="modifier">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1927223198" 
+	TEXT="funcdef">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_486688814" 
+	TEXT="paramdef">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1077554199" 
+	TEXT="varargs">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_707484413" 
+	TEXT="void">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_670086520" 
+	TEXT="classsynopsis">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node ID="ID_1968141037" 
+	TEXT="ooclass"/>
+<node ID="ID_1073866157" 
+	TEXT="ooexception"/>
+<node ID="ID_569242519" 
+	TEXT="oointerface"/>
+<node ID="ID_885612766" 
+	TEXT="construcorsynopsis"/>
+<node ID="ID_108020410" 
+	TEXT="destructorsynopsis"/>
+<node ID="ID_1501085489" 
+	TEXT="fieldsynopsis"/>
+<node ID="ID_461760672" 
+	TEXT="methodsynopsis"/>
+<node ID="ID_401430375" 
+	TEXT="classynopsisinfo"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1367855466" 
+	TEXT="Miscellaneous(杂项)">
+<node ID="ID_486597688" 
+	TEXT="blockquote">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_769175567" 
+	TEXT="epigraph">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1599198952" 
+	TEXT="msgset">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1900892193" 
+	TEXT="sidebar">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_787486108" 
+	TEXT="Inline Elements">
+<node FOLDED="true" ID="ID_1970147565" 
+	TEXT="Traditional publishing inlines">
+<node ID="ID_1680690" 
+	TEXT="abbrev">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_494522989" 
+	TEXT="acronym">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1708665951" 
+	TEXT="emphasis">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1642320642" 
+	TEXT="footnote">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_447689376" 
+	TEXT="phrase">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1190046275" 
+	TEXT="qutote">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1434843483" 
+	TEXT="trademark">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1081529802" 
+	TEXT="Cross-references">
+<node ID="ID_1272502881" 
+	TEXT="anchor">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1822956676" 
+	TEXT="citation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1317357241" 
+	TEXT="citerefentry">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1067040995" 
+	TEXT="citetitle">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_600024435" 
+	TEXT="firstterm">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1875532790" 
+	TEXT="glossterm">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1435747859" 
+	TEXT="link">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_834290625" 
+	TEXT="olink">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_334397705" 
+	TEXT="xref">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1909891624" 
+	TEXT="Markup">
+<node ID="ID_106973723" 
+	TEXT="foreighphrase">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1119419635" 
+	TEXT="wordasword">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1081968380" 
+	TEXT="computeroutput">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_52707207" 
+	TEXT="literal">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1380036860" 
+	TEXT="markup">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_66902783" 
+	TEXT="prompt">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_941312652" 
+	TEXT="replaceable">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_181207682" 
+	TEXT="tag">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_386964431" 
+	TEXT="userinput">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_302690243" 
+	TEXT="Mathematics">
+<node ID="ID_1247444673" 
+	TEXT="inlineequation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1543351016" 
+	TEXT="mathphrase">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_21124219" 
+	TEXT="subscript">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1682658677" 
+	TEXT="superscript">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node ID="ID_518190268" 
+	TEXT="User interfaces"/>
+<node ID="ID_242063589" 
+	TEXT="Programming languages and constructs"/>
+<node FOLDED="true" ID="ID_519562494" 
+	TEXT="Operating systems">
+<node ID="ID_1289449674" 
+	TEXT="application">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_357627383" 
+	TEXT="envar">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1745207661" 
+	TEXT="command">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_745341181" 
+	TEXT="filename">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1257718906" 
+	TEXT="msgtext">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1683546319" 
+	TEXT="General purpose">
+<node ID="ID_787341337" 
+	TEXT="application">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1148274043" 
+	TEXT="database">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_24850922" 
+	TEXT="email">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_396608814" 
+	TEXT="filename">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1148268567" 
+	TEXT="hardware">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1972497112" 
+	TEXT="literal">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_783782682" 
+	TEXT="option">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1060991316" 
+	TEXT="optional">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1410181534" 
+	TEXT="root element">
+<node ID="ID_1644005665" 
+	TEXT="only elements with an info element can be root element"/>
+<node ID="ID_1949130981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      like:acknowledgements,appendix,article,
+    </p>
+    <p>
+      bibliography,book,chapter,colophon,dedication,
+    </p>
+    <p>
+      glossary,index,para,part,preface,
+    </p>
+    <p>
+      refentry,reference,refsect1,refsect2,refsect3
+    </p>
+    <p>
+      refsection,sect1,sect2,sect3,sect4,sect5,
+    </p>
+    <p>
+      section,set,setindex,and toc
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_316852761" POSITION="right" 
+	TEXT="validate">
+<node ID="ID_697499427" 
+	TEXT="DTD validate not nessary &amp; RELAX NG, schema validate must"/>
+<node ID="ID_1151802360" 
+	TEXT="use some tools help you validate emacs-nXML-mode"/>
+<node ID="ID_1463813621" 
+	TEXT=""/>
+</node>
 <node ID="ID_1110744582" POSITION="right" 
 	TEXT="publish"/>
 <node ID="ID_957525449" POSITION="right" 
 	TEXT="customize"/>
 <node FOLDED="true" ID="ID_1210715096" POSITION="left" 
 	TEXT="适用于">
+<node ID="ID_406877534" 
+	TEXT=" journey articles"/>
 <node ID="ID_1279619845" 
-	TEXT="书籍"/>
+	TEXT="书籍(books)"/>
 <node ID="ID_752902463" 
-	TEXT="论文"/>
+	TEXT="论文(white papers)"/>
 <node ID="ID_446967451" 
-	TEXT="especially 技术文档"/>
+	TEXT="especially 技术文档(techineque notes)"/>
+<node ID="ID_1874911625" 
+	TEXT="reference page"/>
 </node>
 <node FOLDED="true" ID="ID_1998711579" POSITION="left" 
 	TEXT="install how to">
@@ -161,6 +759,23 @@
 </node>
 <node ID="ID_1967242962" LINK="http://www.relaxng.org/" POSITION="left" 
 	TEXT="RELAX NG"/>
+<node FOLDED="true" ID="ID_268848788" POSITION="left" 
+	TEXT="english">
+<node ID="ID_606765498" 
+	TEXT="nest:嵌套"/>
+<node ID="ID_264749695" 
+	TEXT="bibliographis:[bɪblɪə&apos;græfɪk]  书目"/>
+<node ID="ID_1785659241" 
+	TEXT="callout:[kɔl&apos;aut]插图编号"/>
+<node ID="ID_1798593984" 
+	TEXT="admonation:[,ædmə&apos;nɪʃən]警告"/>
+<node ID="ID_1065847416" 
+	TEXT="Synopses:[si&apos;nɔpsi:z] 梗概,对照表"/>
+<node ID="ID_1961396461" 
+	TEXT="miscellaneous:[&apos;mɪsə&apos;lenɪəs]杂项">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
 <node FOLDED="true" ID="ID_873338569" POSITION="right" 
 	TEXT="资料">
 <node ID="ID_913694268" LINK="http://www.sagehill.net/docbookxsl/index.ht" 
@@ -169,6 +784,10 @@
 </node>
 <node ID="ID_753612921" LINK="http://blog.sina.com.cn/s/blog_6a4c492f0100oopw.html" 
 	TEXT="采用docbook编写研发文档"/>
+<node ID="ID_1914856969" LINK="http://www.cuddletech.com/blog/pivot/entry.php?id=509" 
+	TEXT="play with docbook 5.0"/>
+<node ID="ID_447479329" LINK="http://easwy.com/blog/archives/a-simple-docbook-5-example/" 
+	TEXT="一个docbook5.0的例子"/>
 </node>
 </node>
 </map>

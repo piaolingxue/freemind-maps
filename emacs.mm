@@ -5,7 +5,9 @@
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
 <node ID="ID_924539993" 
 	TEXT="emacs">
-<node ID="ID_1063448085" POSITION="right" 
-	TEXT=""/>
+<node ID="ID_1063448085" LINK="emacs-nxml-mode.mm" POSITION="right" 
+	TEXT="nxml-mode"/>
+<node ID="ID_51362527" LINK="emacs-template.mm" POSITION="right" 
+	TEXT="emacs-template"/>
 </node>
 </map>
