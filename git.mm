@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -528,8 +528,7 @@
       <font size="3">IdentityFile    ~/.ssh/config_rsa </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
@@ -1385,6 +1384,23 @@
 	TEXT="archive-归档"/>
 <node ID="ID_1049612378" 
 	TEXT="amend - 修正"/>
+</node>
+<node FOLDED="true" ID="ID_1913780552" POSITION="left" 
+	TEXT="资料">
+<node FOLDED="true" ID="ID_1282935207" 
+	TEXT="一个图">
+<node ID="ID_247248663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="img/TsDYW.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 </map>

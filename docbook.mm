@@ -804,6 +804,10 @@
 </node>
 <node ID="ID_159700361" LINK="http://geant4.web.cern.ch/geant4/workAreaUserDocKA/AuthorsInstruction/IntroDocBook.html" 
 	TEXT="IntroDocBook"/>
+<node ID="ID_1781621525" LINK="http://blog.csdn.net/tanghw/article/details/6854323#t9" 
+	TEXT="Doc book 5 快速起步教程">
+<icon BUILTIN="bookmark"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1687714347" POSITION="right" 
 	TEXT="FAQ">
@@ -820,8 +824,7 @@
       <b>Answer</b>:xsltproc --xinclude,Process the input document using the Xinclude specification. More details on this can be found in the Xinclude specification:<font color="rgb(0, 0, 0)" size="medium" face="Times New Roman"><span class="Apple-converted-space"> </span></font>http://www.w3.org/TR/xinclude/
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
