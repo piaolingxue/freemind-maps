@@ -703,8 +703,10 @@
 </node>
 <node FOLDED="true" ID="ID_1861809764" LINK="http://saxon.sourceforge.net/" 
 	TEXT="saxon">
+<node ID="ID_1169883440" LINK="http://www.sagehill.net/docbookxsl/InstallingAProcessor.html#InstallSaxon" 
+	TEXT="Install Saxon"/>
 <node ID="ID_809379931" 
-	TEXT="saxon 6.0 不支持 xsl 2.0"/>
+	TEXT="saxon 6.5.5 不支持 xsl 2.0"/>
 <node ID="ID_866143851" 
 	TEXT="saxon 9.4 HE 开源 支持 xsl 1.0 - 3.0 但是 1.0支持效果不如xslproc"/>
 <node ID="ID_706419162" 
