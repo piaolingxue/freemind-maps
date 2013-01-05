@@ -713,6 +713,13 @@
 	TEXT="java -classpath saxon.jar net.sf.saxon.Transform -xsl:test.xsl -s:source.xml -o:output.xml"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1183590602" 
+	TEXT="syntax hightlight">
+<node ID="ID_354495780" LINK="http://sourceforge.net/apps/mediawiki/xslthl/index.php?title=Usage#Compatibility_notation_2" 
+	TEXT="xslhl"/>
+<node ID="ID_1932925420" 
+	TEXT=""/>
+</node>
 <node FOLDED="true" ID="ID_1781395091" 
 	TEXT="5.0 export">
 <node FOLDED="true" ID="ID_162080927" 
@@ -810,6 +817,8 @@
 	TEXT="Doc book 5 快速起步教程">
 <icon BUILTIN="bookmark"/>
 </node>
+<node ID="ID_1827434974" LINK="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0CEcQFjAC&amp;url=http%3A%2F%2Fdocbook-ant-tools.googlecode.com%2Ffiles%2Fdocbook-ant-tools-guide.pdf&amp;ei=SDboUOGjGIbukgWomoCwBA&amp;usg=AFQjCNFioo3XZrhyG_Dx7EqCXag-ChNFBA&amp;sig2=iD481BLMLoFgZ5l1fXz-5Q&amp;bvm=bv.1355534169,d.aGc&amp;cad=rjt" 
+	TEXT="docbook ant 学习指南"/>
 </node>
 <node FOLDED="true" ID="ID_1687714347" POSITION="right" 
 	TEXT="FAQ">
