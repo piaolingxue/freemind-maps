@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="文泉驿微米黑" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="文泉驿微米黑" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -1385,6 +1385,13 @@
 <node ID="ID_1049612378" 
 	TEXT="amend - 修正"/>
 </node>
+<node FOLDED="true" ID="ID_1936771497" POSITION="left" 
+	TEXT="free git repository">
+<node ID="ID_419095762" 
+	TEXT="github"/>
+<node ID="ID_1364205482" LINK="https://bitbucket.org/" 
+	TEXT="bitbucket"/>
+</node>
 <node FOLDED="true" ID="ID_1913780552" POSITION="left" 
 	TEXT="资料">
 <node FOLDED="true" ID="ID_1282935207" 
@@ -1395,10 +1402,9 @@
     
   </head>
   <body>
-    <img src="img/TsDYW.png" />
+    <img src="img/TsDYW.png"/>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

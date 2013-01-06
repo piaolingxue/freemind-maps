@@ -757,6 +757,15 @@
 	TEXT="epub"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1266799859" POSITION="left" 
+	TEXT="抛开所有,最简洁的处理方式">
+<icon BUILTIN="idea"/>
+<node FOLDED="true" ID="ID_1602929389" LINK="http://docs.codehaus.org/display/MAVENUSER/Docbkx+Maven+Plugin" 
+	TEXT="docbkx maven plugin">
+<node ID="ID_556702116" LINK="http://docbkx-tools.sourceforge.net/docbkx-samples/manual.html" 
+	TEXT="user guide"/>
+</node>
+</node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
 	TEXT="tool chain">
 <node ID="ID_1895912914" LINK="emacs-nxml-mode.mm" 
@@ -814,11 +823,16 @@
 <node ID="ID_159700361" LINK="http://geant4.web.cern.ch/geant4/workAreaUserDocKA/AuthorsInstruction/IntroDocBook.html" 
 	TEXT="IntroDocBook"/>
 <node ID="ID_1781621525" LINK="http://blog.csdn.net/tanghw/article/details/6854323#t9" 
-	TEXT="Doc book 5 快速起步教程">
+	TEXT="Doc book 5 快速起步教程 ">
 <icon BUILTIN="bookmark"/>
 </node>
 <node ID="ID_1827434974" LINK="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;ved=0CEcQFjAC&amp;url=http%3A%2F%2Fdocbook-ant-tools.googlecode.com%2Ffiles%2Fdocbook-ant-tools-guide.pdf&amp;ei=SDboUOGjGIbukgWomoCwBA&amp;usg=AFQjCNFioo3XZrhyG_Dx7EqCXag-ChNFBA&amp;sig2=iD481BLMLoFgZ5l1fXz-5Q&amp;bvm=bv.1355534169,d.aGc&amp;cad=rjt" 
 	TEXT="docbook ant 学习指南"/>
+</node>
+<node FOLDED="true" ID="ID_1936289387" POSITION="right" 
+	TEXT="example">
+<node ID="ID_1918313326" LINK="git clone https://bitbucket.org/sobkowiak/docbook-demos.git" 
+	TEXT="docbook-demo by Krzysztof Sobkowiak 使用mvn构建docbook的经典例子"/>
 </node>
 <node FOLDED="true" ID="ID_1687714347" POSITION="right" 
 	TEXT="FAQ">
@@ -836,6 +850,22 @@
     </p>
   </body>
 </html></richcontent>
+</node>
+<node ID="ID_1739702632">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      2.0. <b>Q: No insertfile extension available. </b>
+    </p>
+    <p>
+      <b>Answer:</b>saxon65.jar has not add to java classpath, the jar was located in docbook-xsl-1.78.0/extensions
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
