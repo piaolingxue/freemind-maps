@@ -760,10 +760,16 @@
 <node FOLDED="true" ID="ID_1266799859" POSITION="left" 
 	TEXT="抛开所有,最简洁的处理方式">
 <icon BUILTIN="idea"/>
-<node FOLDED="true" ID="ID_1602929389" LINK="http://docs.codehaus.org/display/MAVENUSER/Docbkx+Maven+Plugin" 
+<node FOLDED="true" ID="ID_1602929389" LINK="http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/plugin-info.html" 
 	TEXT="docbkx maven plugin">
 <node ID="ID_556702116" LINK="http://docbkx-tools.sourceforge.net/docbkx-samples/manual.html" 
 	TEXT="user guide"/>
+<node ID="ID_379495187" 
+	TEXT=""/>
+<node ID="ID_1016856204" LINK="http://docbook.sourceforge.net/release/xsl/1.77.1/doc/fo/" 
+	TEXT="fo param"/>
+<node ID="ID_419271230" LINK="http://docbook.sourceforge.net/release/xsl/1.77.1/doc/html/" 
+	TEXT="html param"/>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
@@ -864,8 +870,46 @@
       <b>Answer:</b>saxon65.jar has not add to java classpath, the jar was located in docbook-xsl-1.78.0/extensions
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node ID="ID_1660507309">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      3.0 <b>Q</b>:how to break line in the <b>programlist</b> for generate pdf
+    </p>
+    <p>
+      <b>      A:</b>add   &lt;xsl:attribute-set name="monospace.verbatim.properties"
+    </p>
+    <p>
+           use-attribute-sets="verbatim.properties"&gt;
+    </p>
+    <p>
+          &lt;xsl:attribute name="wrap-option"&gt;wrap&lt;/xsl:attribute&gt;
+    </p>
+    <p>
+          &lt;xsl:attribute name="hyphenation-character"&gt;\&lt;/xsl:attribute&gt;
+    </p>
+    <p>
+          in pdf.xsl
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1765849641">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      4.0 Q:how to support chinese?
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
