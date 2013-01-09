@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -1302,6 +1302,13 @@
 	TEXT="当发现Bug的时候，可以用来追踪到底是谁在某个提交引入的bug"/>
 <node ID="ID_1201850606" 
 	TEXT="想查看某几行 可以用-L n,m"/>
+</node>
+<node FOLDED="true" ID="ID_1413368531" LINK="http://liuhui998.com/2010/11/06/remove_commits_completely/" 
+	TEXT="彻底删除git中的提交">
+<node ID="ID_1369760864" 
+	TEXT="">
+<icon BUILTIN="help"/>
+</node>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1149764915" POSITION="right" 
