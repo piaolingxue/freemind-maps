@@ -764,13 +764,20 @@
 	TEXT="docbkx maven plugin">
 <node ID="ID_556702116" LINK="http://docbkx-tools.sourceforge.net/docbkx-samples/manual.html" 
 	TEXT="user guide"/>
-<node ID="ID_379495187" 
-	TEXT=""/>
+<node ID="ID_379495187" LINK="http://docbkx-tools.sourceforge.net/advanced.html" 
+	TEXT="如何引用dobkx的样式,符号引用(urn:docbkx)解释"/>
 <node ID="ID_1016856204" LINK="http://docbook.sourceforge.net/release/xsl/1.77.1/doc/fo/" 
 	TEXT="fo param"/>
 <node ID="ID_419271230" LINK="http://docbook.sourceforge.net/release/xsl/1.77.1/doc/html/" 
 	TEXT="html param"/>
 </node>
+<node FOLDED="true" ID="ID_403799227" 
+	TEXT="docbkx-tools">
+<node ID="ID_58454518" LINK="http://code.google.com/p/docbkx-tools/" 
+	TEXT="official url"/>
+</node>
+<node ID="ID_628718752" 
+	TEXT="docbkx-xml"/>
 </node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
 	TEXT="tool chain">
