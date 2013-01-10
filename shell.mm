@@ -16,18 +16,17 @@
   </head>
   <body>
     <pre content="text/html; charset=utf-8"><font size="2" face="DejaVu Sans">#!/bin/sh
-echo &quot;Enter your username:&quot;
+echo "Enter your username:"
 read username
 
-if [ &quot;$username&quot; = &quot;blessen&quot; ]
+if [ "$username" = "blessen" ]
 then
 	echo 'Success!!! You are now logged in.'
 else
 	echo 'Sorry, wrong username.'
 fi</font></pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1605017374" 
@@ -51,12 +50,11 @@ else
    Statement(s) to be executed if no expression is true
 fi</font></pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node ID="ID_307071467" POSITION="right" 
+<node ID="ID_307071467" LINK="code/shell/traversal_directory.sh" POSITION="right" 
 	TEXT="traversal a direcotory"/>
 <node ID="ID_1494356861" POSITION="right" 
 	TEXT=""/>
