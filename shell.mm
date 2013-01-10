@@ -5,6 +5,73 @@
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
 <node ID="ID_657852804" 
 	TEXT="shell">
+<node FOLDED="true" ID="ID_1669847089" POSITION="right" 
+	TEXT="参数传递">
+<node ID="ID_358631666" 
+	TEXT="$#变量"/>
+<node ID="ID_50586536" 
+	TEXT="$*变量">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_802946790" POSITION="right" 
+	TEXT="深入参数">
+<node FOLDED="true" ID="ID_873472546" 
+	TEXT="模式匹配结构">
+<node FOLDED="true" ID="ID_1151790898" 
+	TEXT="${var%pattern} 从var中查找是否以pattern结尾,如果是，就从var右边开始去掉最短的pattern匹配的内容">
+<node ID="ID_534496842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      exp1:
+    </p>
+    <p>
+      a=hello.txt
+    </p>
+    <p>
+      echo ${a%.*}
+    </p>
+    <p>
+      结果显示:hello
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node ID="ID_1008328236" 
+	TEXT="${var%%pattern} 从var右边去掉最长的pattern匹配内容,除非pattern中包含*,否则%,%%作用一样"/>
+<node FOLDED="true" ID="ID_1806781318" 
+	TEXT="#和%用法差不多，只不过是从左边去掉pattern的内容">
+<node ID="ID_600372960">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      exp1:
+    </p>
+    <p>
+      a=hello.txt
+    </p>
+    <p>
+      echo ${a##*.}
+    </p>
+    <p>
+      结果显示:txt
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 <node FOLDED="true" ID="ID_325005206" POSITION="right" 
 	TEXT="syntax">
 <node FOLDED="true" ID="ID_439533841" 
@@ -54,10 +121,11 @@ fi</font></pre>
 </node>
 </node>
 </node>
-<node ID="ID_307071467" LINK="code/shell/traversal_directory.sh" POSITION="right" 
+<node FOLDED="true" ID="ID_1494356861" POSITION="right" 
+	TEXT="example">
+<node ID="ID_307071467" LINK="code/shell/traversal_directory.sh" 
 	TEXT="traversal a direcotory"/>
-<node ID="ID_1494356861" POSITION="right" 
-	TEXT=""/>
+</node>
 <node FOLDED="true" ID="ID_182967750" POSITION="left" 
 	TEXT="ln">
 <node FOLDED="true" ID="ID_666879720" 
