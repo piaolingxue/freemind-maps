@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="文泉驿微米黑" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="文泉驿微米黑" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -1305,9 +1305,45 @@
 </node>
 <node FOLDED="true" ID="ID_1413368531" LINK="http://liuhui998.com/2010/11/06/remove_commits_completely/" 
 	TEXT="彻底删除git中的提交">
-<node ID="ID_1369760864" 
-	TEXT="">
-<icon BUILTIN="help"/>
+<node ID="ID_1369760864">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git gc 会清除30天内当前head不可达对象(悬空对象) 
+    </p>
+    <p>
+      git prune 命令把这些悬空对象清除掉
+    </p>
+    <p>
+      一般是清除默认两周的悬空对象，如果我们想立刻清除，可以设置一个环境变量gc.pruneExpire
+    </p>
+    <p>
+      也可在执行命令时设定清除 git gc --prune=0
+    </p>
+    <p>
+      但是上述命令执行后悬空对象还是不能完全清除，因为我们删除一个object后，在reflog中还有记录
+    </p>
+    <p>
+      所以仓库的悬空对象还不是真正的悬空对象。我们只有将仓库的reflog清除掉，仓库中没有任何的ref
+    </p>
+    <p>
+      指向它,git gc --prune=0 才能执行成功
+    </p>
+    <p>
+      可以设置<font color="rgb(1, 87, 159)" size="inherit" face="PT Serif, Georgia, Times, Times New Roman, serif"><a http-equiv="content-type" style="white-space: pre-wrap; word-spacing: 0px; vertical-align: baseline; text-transform: none; line-height: 34.5px; text-indent: 0px; letter-spacing: normal; text-align: start; border: 0px; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: inherit; padding-bottom: 0px; background-color: rgb(248, 248, 248); font-family: PT Serif, Georgia, Times, Times New Roman, serif; margin-top: 0px; color: rgb(1, 87, 159); margin-right: 0px; margin-left: 0px; margin-bottom: 0px" content="text/html; charset=utf-8" href="http://www.kernel.org/pub/software/scm/git/docs/v1.6.0.6/git-config.html">gc.reflogexpireunreachable</a></font>
+    </p>
+    <p>
+      这个变量,指定expire过期时间长短下面这条命令清空了reflog里的所有从当前head不可达对象(unreachable)的引用(reflog entries)
+    </p>
+    <p>
+      git reflog expire --expire-reachable=0 --all
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>

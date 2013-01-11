@@ -779,6 +779,28 @@
 <node ID="ID_628718752" 
 	TEXT="docbkx-xml"/>
 </node>
+<node FOLDED="true" ID="ID_1740978723" POSITION="left" 
+	TEXT="font">
+<node FOLDED="true" ID="ID_1425222146" LINK="http://7thgen.info/wiki/index.php?title=Font_Families" 
+	TEXT="serif vs sans vs monospace font">
+<node ID="ID_880015958" 
+	TEXT="Serif 不加修饰，易读性强，常用于文本,Times New Roman, 宋体"/>
+<node ID="ID_836009931" 
+	TEXT="Sans Serif,加修饰，起到强调作用，适合标题等,Arial,Helvetica,黑体,圆体"/>
+<node ID="ID_1734372707" 
+	TEXT="Monospace,Courier,MS Courier New, YaHei Consolas"/>
+</node>
+<node FOLDED="true" ID="ID_1523874847" 
+	TEXT="docbook font affect scope">
+<node FOLDED="true" ID="ID_602870332" 
+	TEXT="monospace.font">
+<node ID="ID_906943498" 
+	TEXT="literal"/>
+</node>
+</node>
+<node ID="ID_1876655952" LINK="http://www.wenq.org/" 
+	TEXT="文泉驿 官网"/>
+</node>
 <node FOLDED="true" ID="ID_1014837023" POSITION="left" 
 	TEXT="tool chain">
 <node ID="ID_1895912914" LINK="emacs-nxml-mode.mm" 
