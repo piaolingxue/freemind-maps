@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="文泉驿微米黑" SIZE="12"/>
+<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -1333,7 +1333,7 @@
       指向它,git gc --prune=0 才能执行成功
     </p>
     <p>
-      可以设置<font color="rgb(1, 87, 159)" size="inherit" face="PT Serif, Georgia, Times, Times New Roman, serif"><a http-equiv="content-type" style="white-space: pre-wrap; word-spacing: 0px; vertical-align: baseline; text-transform: none; line-height: 34.5px; text-indent: 0px; letter-spacing: normal; text-align: start; border: 0px; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: inherit; padding-bottom: 0px; background-color: rgb(248, 248, 248); font-family: PT Serif, Georgia, Times, Times New Roman, serif; margin-top: 0px; color: rgb(1, 87, 159); margin-right: 0px; margin-left: 0px; margin-bottom: 0px" content="text/html; charset=utf-8" href="http://www.kernel.org/pub/software/scm/git/docs/v1.6.0.6/git-config.html">gc.reflogexpireunreachable</a></font>
+      可以设置<font face="PT Serif, Georgia, Times, Times New Roman, serif" color="rgb(1, 87, 159)" size="inherit"><a content="text/html; charset=utf-8" href="http://www.kernel.org/pub/software/scm/git/docs/v1.6.0.6/git-config.html" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 0px; white-space: pre-wrap; word-spacing: 0px; vertical-align: baseline; text-transform: none; line-height: 34.5px; text-indent: 0px; letter-spacing: normal; text-align: start; border: 0px; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: inherit; padding-bottom: 0px; font-family: PT Serif, Georgia, Times, Times New Roman, serif; background-color: rgb(248, 248, 248); margin-top: 0px; color: rgb(1, 87, 159)">gc.reflogexpireunreachable</a></font>
     </p>
     <p>
       这个变量,指定expire过期时间长短下面这条命令清空了reflog里的所有从当前head不可达对象(unreachable)的引用(reflog entries)
@@ -1341,6 +1341,7 @@
     <p>
       git reflog expire --expire-reachable=0 --all
     </p>
+    <pre content="text/html; charset=utf-8" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 0; word-spacing: 0px; vertical-align: baseline; text-transform: none; line-height: 1.45em; text-indent: 0px; letter-spacing: normal; text-align: start; border: 1px solid rgb(5, 35, 43); font-weight: normal; padding-top: 0; background-repeat: repeat; font-variant: normal; padding-right: 0; background-position: 0% 0%; font-style: normal; padding-left: 0; padding-bottom: 0; font-size: inherit; background-image: url(http://liuhui998.com/images/noise.png?1337414292); font-family: Menlo, Monaco, Andale Mono, lucida console, Courier New, monospace; background-color: rgb(0, 43, 54); margin-top: 0px; color: rgb(147, 161, 161)">git fsck --lost-found</pre>
   </body>
 </html>
 </richcontent>
