@@ -267,7 +267,15 @@
 <node ID="ID_1740108161" 
 	TEXT="Agile Project Management"/>
 </node>
-<node ID="ID_1917234784" POSITION="left" 
-	TEXT=""/>
+<node FOLDED="true" ID="ID_1558391199" POSITION="left" 
+	TEXT=" 马云">
+<node ID="ID_463326008" LINK="http://www.wshang.com/posts/showPosts/posts_id/7675.html?from=bbbb" 
+	TEXT="马云专访：时间会证明一切"/>
+</node>
+<node FOLDED="true" ID="ID_1917234784" POSITION="left" 
+	TEXT="   经典话语">
+<node ID="ID_181931278" 
+	TEXT="现在互联网的趋势，是越简单越好,其实做好一个互联网产品,非常简单，你只要把互联网的用户想想成脾气非常大,智商非常低， 而且非常没有耐心， 又非常非常小气的人就好了，你把这样的人伺候好了,你的互联网产品一定会成功.   ---周倩如(非你莫属)(代码女神)"/>
+</node>
 </node>
 </map>

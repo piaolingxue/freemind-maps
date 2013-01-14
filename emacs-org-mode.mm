@@ -67,6 +67,53 @@
 	TEXT="FAQ">
 <icon BUILTIN="clanbomber"/>
 </node>
+<node FOLDED="true" ID="ID_1009390760" POSITION="left" 
+	TEXT="install">
+<node ID="ID_575524391" 
+	TEXT="mv org-mode to ~/.emacs.d/site-lisp/"/>
+<node ID="ID_670560424" 
+	TEXT="进入org-mode目录 运行 make all"/>
+<node ID="ID_297555022">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      将下面的配置放到.emacs文件中
+    </p>
+    <p>
+      ;;
+    </p>
+    <p>
+      ;; org-mode
+    </p>
+    <p>
+      ;;
+    </p>
+    <p>
+      (add-to-list 'load-path &quot;~/.emacs.d/site-lisp/org-7.9.3d/lisp/&quot;)
+    </p>
+    <p>
+      ;; (add-to-list 'load-path &quot;~/path/to/orgdir/contrib/lisp&quot; t)
+    </p>
+    <p>
+      (global-set-key &quot;\C-cl&quot; 'org-store-link)
+    </p>
+    <p>
+      (global-set-key &quot;\C-cc&quot; 'org-capture)
+    </p>
+    <p>
+      (global-set-key &quot;\C-ca&quot; 'org-agenda)
+    </p>
+    <p>
+      (global-set-key &quot;\C-cb&quot; 'org-iswitchb)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node ID="ID_1406870648" POSITION="left" 
 	TEXT="Guide Manus and Tutorials">
 <icon BUILTIN="idea"/>
@@ -78,7 +125,9 @@
 <node ID="ID_199852582" 
 	TEXT="agendas -&gt; 会议议程"/>
 <node ID="ID_402884269" 
-	TEXT=""/>
+	TEXT="typeset -&gt; 排版"/>
+<node ID="ID_711031935" 
+	TEXT="reveal -&gt; 揭露"/>
 </node>
 </node>
 </map>
