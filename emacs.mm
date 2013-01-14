@@ -11,7 +11,7 @@
 	TEXT="nxml-mode"/>
 <node ID="ID_51362527" LINK="emacs-template.mm" 
 	TEXT="emacs-template"/>
-<node ID="ID_1117801228" LINK="org-mode.mm" 
+<node ID="ID_1117801228" LINK="emacs-org-mode.mm" 
 	TEXT="org-mode"/>
 </node>
 </node>
