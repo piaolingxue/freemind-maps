@@ -18,5 +18,13 @@
 <node ID="ID_1686863718" 
 	TEXT="sudo fc-cache"/>
 </node>
+<node FOLDED="true" ID="ID_695177062" POSITION="right" 
+	TEXT="net">
+<node FOLDED="true" ID="ID_792339750" 
+	TEXT="proxy">
+<node ID="ID_465459577" 
+	TEXT="terminal:export https_proxy=&quot;http://piaolingxue305@127.0.0.1:8087/&quot;"/>
+</node>
+</node>
 </node>
 </map>

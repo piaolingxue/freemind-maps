@@ -8,7 +8,7 @@
 <font NAME="SansSerif" SIZE="12"/>
 <node FOLDED="true" ID="ID_1116462917" POSITION="right" 
 	TEXT="history of version system">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="文泉驿微米黑" SIZE="12"/>
 <node FOLDED="true" ID="ID_1103496071" 
 	TEXT="diff/patch  Lunus 1991~2002">
 <node ID="ID_1428996426" 
@@ -160,7 +160,7 @@
 </node>
 <node FOLDED="true" HGAP="87" ID="ID_1549322574" POSITION="right" 
 	TEXT="why choose git?" VSHIFT="-151">
-<font NAME="WenQuanYi Micro Hei" SIZE="12"/>
+<font NAME="文泉驿微米黑" SIZE="12"/>
 <node FOLDED="true" HGAP="44" ID="ID_119476811" 
 	TEXT="现场版本控制" VSHIFT="-164">
 <node FOLDED="true" ID="ID_1652919908" 
@@ -1343,8 +1343,7 @@
     </p>
     <pre content="text/html; charset=utf-8" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 0; word-spacing: 0px; vertical-align: baseline; text-transform: none; line-height: 1.45em; text-indent: 0px; letter-spacing: normal; text-align: start; border: 1px solid rgb(5, 35, 43); font-weight: normal; padding-top: 0; background-repeat: repeat; font-variant: normal; padding-right: 0; background-position: 0% 0%; font-style: normal; padding-left: 0; padding-bottom: 0; font-size: inherit; background-image: url(http://liuhui998.com/images/noise.png?1337414292); font-family: Menlo, Monaco, Andale Mono, lucida console, Courier New, monospace; background-color: rgb(0, 43, 54); margin-top: 0px; color: rgb(147, 161, 161)">git fsck --lost-found</pre>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1436,6 +1435,8 @@
 <node ID="ID_1364205482" LINK="https://bitbucket.org/" 
 	TEXT="bitbucket"/>
 </node>
+<node ID="ID_1121221437" POSITION="left" 
+	TEXT="proxy"/>
 <node FOLDED="true" ID="ID_1913780552" POSITION="left" 
 	TEXT="资料">
 <node FOLDED="true" ID="ID_1282935207" 
