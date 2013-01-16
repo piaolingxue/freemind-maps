@@ -38,6 +38,7 @@
   </body>
 </html>
 </richcontent>
+<icon BUILTIN="flag"/>
 </node>
 <node ID="ID_1901803430" LINK="https://www.dnspod.cn/" 
 	TEXT="dnspod 免费,支持解析多个ip(联通,电信),如果想要更稳定,速度更快可以购买vip"/>
