@@ -661,6 +661,28 @@ Hope this make it clearer.</font></pre>
 	TEXT="gunplot mode"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1730948546" 
+	TEXT="Tags">
+<node ID="ID_221343154" 
+	TEXT="e.g. :work:boss:notes:action:"/>
+<node ID="ID_1830319450" 
+	TEXT="inheritance:sub heading heritance the parent headling&apos;s tags"/>
+<node ID="ID_346946695" 
+	TEXT="#+FILETAGS: :Peter:Boss:Secret:"/>
+<node ID="ID_1899192281" 
+	TEXT="当鼠标在headling上时,C-c C-q 或者 C-c C-c设定tags"/>
+</node>
+<node FOLDED="true" ID="ID_1938573718" 
+	TEXT="Properties">
+<node ID="ID_175840579" 
+	TEXT="C-c C-x q set a property"/>
+<node ID="ID_635457507" 
+	TEXT="C-c C-c 当鼠标在一个属性上，执行属性命令"/>
+<node ID="ID_282959490" 
+	TEXT="C-c C-c d 删除一个属性"/>
+<node ID="ID_1435746588" 
+	TEXT="C-c C-c D 全局删除某个属性"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_313980044" POSITION="left" 
 	TEXT="English Words">
@@ -688,6 +710,10 @@ Hope this make it clearer.</font></pre>
 	TEXT="formula -&gt; 公式"/>
 <node ID="ID_671672772" 
 	TEXT="coordinate -&gt; 坐标"/>
+<node ID="ID_753965402" 
+	TEXT="inheritance -&gt; 继承"/>
+<node ID="ID_503300435" 
+	TEXT="restrict -&gt; 限制 约束"/>
 </node>
 </node>
 </map>
