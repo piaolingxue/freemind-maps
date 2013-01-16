@@ -56,8 +56,7 @@
       <b>Visibility cycling</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_130517109">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -164,8 +163,7 @@
       </tr>
     </table>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1878079343">
@@ -178,8 +176,7 @@
       Motion
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1407279265" 
 	TEXT="Keys&#xa;Description&#xa;C-c C-n&#xa;next headling&#xa;C-c C-p&#xa;previous heading&#xa;C-c C-f&#xa;next heading same level&#xa;C-c C-b&#xa;previous heading same level&#xa;C-c C-u&#xa;backward to higher level heading&#xa;C-c C-j&#xa;some methods to jump where you want to go."/>
 </node>
@@ -193,8 +190,7 @@
       Structure Edit
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_203072658">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -459,8 +455,7 @@
       </tr>
     </table>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1805861378" 
@@ -524,6 +519,13 @@
 </node>
 <node ID="ID_658006146" 
 	TEXT="Footnotes"/>
+<node FOLDED="true" ID="ID_946901869" 
+	TEXT="TODO">
+<node ID="ID_1695626954" 
+	TEXT="C-c C-c 在#+行上 使当前设置生效"/>
+<node ID="ID_452552555" 
+	TEXT="在一个任务后面加上[/]或者[%] 然后按C-c C-c 就会显示该任务的进度"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_138400939" POSITION="right" 
 	TEXT="相关资料">
