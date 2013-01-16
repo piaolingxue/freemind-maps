@@ -26,5 +26,28 @@
 	TEXT="terminal:export https_proxy=&quot;http://piaolingxue305@127.0.0.1:8087/&quot;"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1890279445" POSITION="right" 
+	TEXT="FAQ">
+<icon BUILTIN="clanbomber"/>
+<node ID="ID_415280599">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Q:Ubuntu 上方任务栏丢失
+    </p>
+    <p>
+      Q: rm -rf ~/.gconf/apps/panel
+    </p>
+    <p>
+      pkill gnome-panel
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </map>
