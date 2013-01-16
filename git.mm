@@ -1444,7 +1444,11 @@
 <node ID="ID_1863699885" 
 	TEXT="将该仓库放到wuala盘上"/>
 <node ID="ID_1882693058" 
-	TEXT="借用wuala的同步机制时间不同平台的本地仓库的同步"/>
+	TEXT="借用wuala的同步机制实现不同平台的本地仓库的同步"/>
+<node ID="ID_166568176" 
+	TEXT="同步的时候，要设置同步选项，将排除隐藏文件，临时文件勾勾去掉">
+<icon BUILTIN="messagebox_warning"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1913780552" POSITION="left" 
 	TEXT="资料">
