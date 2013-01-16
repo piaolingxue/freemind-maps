@@ -26,6 +26,11 @@
 	TEXT="org-mode"/>
 <node ID="ID_1052544204" LINK="emacs-gnuplot-mode.mm" 
 	TEXT="gnuplot-mode"/>
+<node FOLDED="true" ID="ID_40976019" 
+	TEXT="绘图相关">
+<node ID="ID_54345462" LINK="http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html" 
+	TEXT="graphviz dot mode"/>
+</node>
 </node>
 </node>
 </map>

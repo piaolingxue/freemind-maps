@@ -9,7 +9,7 @@
 	TEXT="Introduction">
 <icon BUILTIN="messagebox_warning"/>
 <node FOLDED="true" ID="ID_1021061045" 
-	TEXT="用途">
+	TEXT="内容">
 <node ID="ID_780848538" 
 	TEXT="Edit"/>
 <node ID="ID_842416735" 
@@ -35,6 +35,20 @@
 	TEXT="Working With Code"/>
 <node ID="ID_1675369728" 
 	TEXT="With your Mobile phone"/>
+</node>
+<node FOLDED="true" ID="ID_1190359635" 
+	TEXT="能干什么?">
+<icon BUILTIN="bookmark"/>
+<node ID="ID_222571669" 
+	TEXT="编代码"/>
+<node ID="ID_962695997" 
+	TEXT="文档"/>
+<node ID="ID_1654628677" 
+	TEXT="演示文稿"/>
+<node ID="ID_1596291906" 
+	TEXT="记日志"/>
+<node ID="ID_513788375" 
+	TEXT="画图,流程图"/>
 </node>
 <node ID="ID_1853972721" 
 	TEXT="当前版本:7.9.3d"/>
@@ -540,8 +554,18 @@
 	TEXT="Organize Your Life In Plain Text"/>
 <node ID="ID_746261673" LINK="http://www.cnblogs.com/bamanzi/archive/2012/05/12/org-mode-so-powerful.html" 
 	TEXT="为什么说org-mode是神器"/>
-<node ID="ID_112599460" LINK="http://forum.ubuntu.org.cn/viewtopic.php?f=68&amp;t=260068" 
+<node ID="ID_112599460" LINK="http://www.yifeiyang.net/using-the-org-mode-for-gtd-1-getting-started/" 
 	TEXT="用org-mode来GTD"/>
+<node ID="ID_139902403" LINK="http://members.optusnet.com.au/~charles57/GTD/orgmode.html" 
+	TEXT="Using Emacs for GTD"/>
+<node ID="ID_114550417" LINK="http://www.yifeiyang.net/emacs/org-mode-for-gtd.html" 
+	TEXT="上一篇的翻译稿"/>
+<node ID="ID_893011289" LINK="http://code.google.com/p/dea/source/browse/trunk/emacser.com/" 
+	TEXT="emacser的示例代码"/>
+<node ID="ID_313715341" LINK="http://emacser.com/org-mode-yupeng.htm" 
+	TEXT="Emacs 的 org-mode:基本入门知识"/>
+<node ID="ID_1641589227" LINK="http://emacser.com/org-mode.htm" 
+	TEXT="Emacs org-mode 学习笔记,如何记笔记,如何管理个人事物"/>
 </node>
 <node FOLDED="true" ID="ID_1237770263" POSITION="right" 
 	TEXT="FAQ">
@@ -649,6 +673,8 @@ Hope this make it clearer.</font></pre>
 <node FOLDED="true" ID="ID_1406870648" POSITION="left" 
 	TEXT="Guide Manus and Tutorials">
 <icon BUILTIN="idea"/>
+<node ID="ID_1742605810" 
+	TEXT="Footnotes"/>
 <node FOLDED="true" ID="ID_1084227982" 
 	TEXT="Tables">
 <node FOLDED="true" ID="ID_1496470479" 
@@ -682,6 +708,15 @@ Hope this make it clearer.</font></pre>
 	TEXT="C-c C-c d 删除一个属性"/>
 <node ID="ID_1435746588" 
 	TEXT="C-c C-c D 全局删除某个属性"/>
+</node>
+<node FOLDED="true" ID="ID_38216908" 
+	TEXT="Export(导出)">
+<node ID="ID_47192108" 
+	TEXT="C-c C-e h -&gt; 导出为html"/>
+<node ID="ID_1899828947" 
+	TEXT="C-c C-e b -&gt; 导出html并在浏览器上打开"/>
+<node ID="ID_1619793207" 
+	TEXT="C-c C-e D -&gt; 导出为docbook(5.0)格式"/>
 </node>
 </node>
 <node FOLDED="true" ID="ID_313980044" POSITION="left" 
