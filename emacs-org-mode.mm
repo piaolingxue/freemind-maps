@@ -558,6 +558,8 @@
 	TEXT="用org-mode来GTD"/>
 <node ID="ID_139902403" LINK="http://members.optusnet.com.au/~charles57/GTD/orgmode.html" 
 	TEXT="Using Emacs for GTD"/>
+<node ID="ID_1312203653" LINK="http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html" 
+	TEXT="How I use org-mode to implement GTD :by Charles Cave"/>
 <node ID="ID_114550417" LINK="http://www.yifeiyang.net/emacs/org-mode-for-gtd.html" 
 	TEXT="上一篇的翻译稿"/>
 <node ID="ID_893011289" LINK="http://code.google.com/p/dea/source/browse/trunk/emacser.com/" 
@@ -790,8 +792,7 @@ Hope this make it clearer.</font></pre>
       都要定期回顾
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1760006981">
 <richcontent TYPE="NODE"><html>
@@ -815,8 +816,7 @@ Hope this make it clearer.</font></pre>
       更加专注
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>

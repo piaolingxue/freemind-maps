@@ -45,9 +45,13 @@
       pkill gnome-panel
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
+</node>
+<node FOLDED="true" ID="ID_1145137422" POSITION="left" 
+	TEXT="tools">
+<node ID="ID_384010503" LINK="http://keepass.info/download.html" 
+	TEXT="KeePass2 保存密码 支持多个平台"/>
 </node>
 </node>
 </map>
