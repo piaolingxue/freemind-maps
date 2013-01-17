@@ -32,5 +32,11 @@
 	TEXT="graphviz dot mode"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1998146749" POSITION="left" 
+	TEXT="资料">
+<icon BUILTIN="gohome"/>
+<node ID="ID_1466441936" LINK="http://www.wanglianghome.org/org/programming/emacsbook/emacs.html" 
+	TEXT="Emacs 定制与扩展"/>
+</node>
 </node>
 </map>

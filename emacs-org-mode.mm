@@ -719,6 +719,108 @@ Hope this make it clearer.</font></pre>
 	TEXT="C-c C-e D -&gt; 导出为docbook(5.0)格式"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1906318470" POSITION="left" 
+	TEXT="应用场景">
+<icon BUILTIN="idea"/>
+<node FOLDED="true" ID="ID_113249402" 
+	TEXT="GTD">
+<node ID="ID_1707779292">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      GTD就是将你一生要完成的工作,收集
+    </p>
+    <p>
+      整理 决策 执行等形成的统一的工作流
+    </p>
+    <ol>
+      <li>
+        你需要得到什么结果?
+      </li>
+      <li>
+        为了达到期望值,你将付出怎样的行动?
+      </li>
+    </ol>
+  </body>
+</html></richcontent>
+</node>
+<node FOLDED="true" ID="ID_509813049" 
+	TEXT="包含的内容">
+<node ID="ID_714909927" 
+	TEXT="NextAction表"/>
+<node FOLDED="true" ID="ID_231092337" 
+	TEXT="Contexts(情境)">
+<node ID="ID_862528998" 
+	TEXT="Office(上班时的电话联络也包括在内)"/>
+<node ID="ID_1437891227" 
+	TEXT="Home(家里的电话包括在内)"/>
+<node ID="ID_1170240728" 
+	TEXT="Computer(家里的电脑)"/>
+<node ID="ID_1800620946" 
+	TEXT="Reading(上班电车中)"/>
+</node>
+<node ID="ID_827910303" 
+	TEXT="Agendas(日程表)"/>
+<node ID="ID_1646900362" 
+	TEXT="Waiting For(等待)"/>
+<node ID="ID_750931874" 
+	TEXT="Projects(项目)"/>
+<node ID="ID_325782438" 
+	TEXT="Calendar(日历) 用来记录会议 约会 生日 等固有信息 而不是todolist"/>
+<node ID="ID_1810333715" 
+	TEXT="Tickler File (备忘录)"/>
+<node ID="ID_91886503" 
+	TEXT="Someday/Maybe (将来/也许)"/>
+<node ID="ID_1966922764">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Weekly Review (每周回顾) 作为GTD
+    </p>
+    <p>
+      的核心,所有的Project,NextActions,Waiting For
+    </p>
+    <p>
+      都要定期回顾
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1760006981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mind Sweep(清空大脑) GTD的目标就是
+    </p>
+    <p>
+      将你大脑中得到东西取出来,保存到外部可
+    </p>
+    <p>
+      信赖的系统.就是说,为了集中精力完成任务
+    </p>
+    <p>
+      最大限的利用你的大脑,清空大脑 是为了让你
+    </p>
+    <p>
+      更加专注
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 <node FOLDED="true" ID="ID_313980044" POSITION="left" 
 	TEXT="English Words">
 <node ID="ID_134381867" 

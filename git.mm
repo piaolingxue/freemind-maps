@@ -1439,15 +1439,76 @@
 	TEXT="proxy"/>
 <node FOLDED="true" ID="ID_1214356618" POSITION="left" 
 	TEXT="速度更快的方式">
+<icon BUILTIN="idea"/>
+<icon BUILTIN="idea"/>
+<icon BUILTIN="idea"/>
 <node ID="ID_883656085" 
-	TEXT="在本地建立自己的私有裸仓库"/>
+	TEXT="在本地用户目录创建repos目录,用来存放所有的仓库"/>
 <node ID="ID_1863699885" 
-	TEXT="将该仓库放到wuala盘上"/>
-<node ID="ID_1882693058" 
-	TEXT="借用wuala的同步机制实现不同平台的本地仓库的同步"/>
+	TEXT="将repos放到wuala网盘上进行同步"/>
 <node ID="ID_166568176" 
 	TEXT="同步的时候，要设置同步选项，将排除隐藏文件，临时文件勾勾去掉">
 <icon BUILTIN="messagebox_warning"/>
+</node>
+<node ID="ID_1882693058">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      将github上的某个仓库克隆到repos目录内,注意要添加--bare参数
+    </p>
+    <p>
+      例如:
+    </p>
+    <p>
+      git clone --bare git@github.com:user/example.git
+    </p>
+    <p>
+      克隆裸版本库
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1619759955">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      在本地workspace目录,从本地repos克隆项目
+    </p>
+    <p>
+      git clone ~/repos/example.git
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_854059711" 
+	TEXT="今后工作区改动push的时候,会将改动push到本地repos目录"/>
+<node ID="ID_846679920" 
+	TEXT="本地repos目录自动同步到wuala服务器跟其他的客户端进行数据同步"/>
+<node ID="ID_851285215" 
+	TEXT="如果想将改动更新到github,只需要在repos/example.git目录下运行git push即可"/>
+<node ID="ID_743569050">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      如果是多人协作的项目,可能要经常从github上拉数据到本地,
+    </p>
+    <p>
+      可以在本地工作区,添加一个远程地址,用来从github上拉数据
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1913780552" POSITION="left" 
