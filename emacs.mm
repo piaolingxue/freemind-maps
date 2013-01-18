@@ -16,6 +16,14 @@
 <node ID="ID_2767639" 
 	TEXT="make &amp; sudo make install"/>
 </node>
+<node FOLDED="true" ID="ID_1531549346" POSITION="right" 
+	TEXT="commands">
+<icon BUILTIN="yes"/>
+<node ID="ID_1544118791" 
+	TEXT="C-M-f 或者C-M-b 括号跳转"/>
+<node ID="ID_227792324" 
+	TEXT="C-x u撤销"/>
+</node>
 <node FOLDED="true" ID="ID_788834889" POSITION="right" 
 	TEXT="emacs-plugins">
 <node ID="ID_1063448085" LINK="emacs-nxml-mode.mm" 
@@ -26,6 +34,8 @@
 	TEXT="org-mode"/>
 <node ID="ID_1052544204" LINK="emacs-gnuplot-mode.mm" 
 	TEXT="gnuplot-mode"/>
+<node ID="ID_568681271" LINK="http://www.emacswiki.org/HighlightParentheses" 
+	TEXT="hightlightparentheses"/>
 <node FOLDED="true" ID="ID_40976019" 
 	TEXT="绘图相关">
 <node ID="ID_54345462" LINK="http://users.skynet.be/ppareit/projects/graphviz-dot-mode/graphviz-dot-mode.html" 

@@ -540,6 +540,8 @@
 <node ID="ID_452552555" 
 	TEXT="在一个任务后面加上[/]或者[%] 然后按C-c C-c 就会显示该任务的进度"/>
 </node>
+<node ID="ID_772691375" 
+	TEXT="Agendars"/>
 </node>
 <node FOLDED="true" ID="ID_138400939" POSITION="right" 
 	TEXT="相关资料">
@@ -560,6 +562,8 @@
 	TEXT="Using Emacs for GTD"/>
 <node ID="ID_1312203653" LINK="http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html" 
 	TEXT="How I use org-mode to implement GTD :by Charles Cave"/>
+<node ID="ID_313916965" LINK="http://members.optusnet.com.au/~charles57/GTD/" 
+	TEXT="org for GTD 系列教程"/>
 <node ID="ID_114550417" LINK="http://www.yifeiyang.net/emacs/org-mode-for-gtd.html" 
 	TEXT="上一篇的翻译稿"/>
 <node ID="ID_893011289" LINK="http://code.google.com/p/dea/source/browse/trunk/emacser.com/" 
@@ -820,6 +824,8 @@ Hope this make it clearer.</font></pre>
 </node>
 </node>
 </node>
+<node ID="ID_190042689" 
+	TEXT="Track your habits"/>
 </node>
 <node FOLDED="true" ID="ID_313980044" POSITION="left" 
 	TEXT="English Words">
@@ -828,7 +834,7 @@ Hope this make it clearer.</font></pre>
 <node ID="ID_1795752734" 
 	TEXT="headline -&gt; 标题"/>
 <node ID="ID_199852582" 
-	TEXT="agendas -&gt; 会议议程"/>
+	TEXT="agendas[əˈdʒɛndə]. -&gt; 会议议程,工作事项"/>
 <node ID="ID_402884269" 
 	TEXT="typeset -&gt; 排版"/>
 <node ID="ID_711031935" 
@@ -851,6 +857,30 @@ Hope this make it clearer.</font></pre>
 	TEXT="inheritance -&gt; 继承"/>
 <node ID="ID_503300435" 
 	TEXT="restrict -&gt; 限制 约束"/>
+<node ID="ID_1122523844" 
+	TEXT="arbitrary[&apos;ɑrbətrɛri]  -&gt; 任意的"/>
+<node ID="ID_523496058" 
+	TEXT="circumvent [,sɝkəm&apos;vɛnt] -&gt; 避免 绕行"/>
+<node ID="ID_112010852" 
+	TEXT="overdue -&gt; 过期"/>
+<node ID="ID_660586048" 
+	TEXT="appropriate -&gt; 适当的"/>
+<node ID="ID_45212318" 
+	TEXT="shave -&gt; 修脸,刮面"/>
+<node ID="ID_1456049037" 
+	TEXT="elapsed -&gt; 时间消逝,过去"/>
+<node ID="ID_672528012" 
+	TEXT="overlay -&gt; 叠加"/>
+<node ID="ID_296424610" 
+	TEXT="tabular[&apos;tæbjəlɚ] -&gt; 扁平的,列成表格的"/>
+<node ID="ID_53722863" 
+	TEXT="criteria [kraɪ&apos;tɪrɪə] -&gt; 标准 条件"/>
+<node ID="ID_558749196" 
+	TEXT="dispacher [dɪs&apos;pætʃə] -&gt; 调度程序 分配员">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_465095980" 
+	TEXT="anniversary[,ænɪ&apos;vɝsəri]  -&gt; 周年纪念日"/>
 </node>
 </node>
 </map>

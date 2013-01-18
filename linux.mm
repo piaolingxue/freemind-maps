@@ -50,8 +50,17 @@
 </node>
 <node FOLDED="true" ID="ID_1145137422" POSITION="left" 
 	TEXT="tools">
-<node ID="ID_384010503" LINK="http://keepass.info/download.html" 
-	TEXT="KeePass2 保存密码 支持多个平台"/>
+<node FOLDED="true" ID="ID_384010503" LINK="http://keepass.info/download.html" 
+	TEXT="KeePass2 保存密码 支持多个平台">
+<node ID="ID_1710192487" 
+	TEXT="sudo apt-add-repository ppa:jtaylor/keepass"/>
+<node ID="ID_1956239234" 
+	TEXT="sudo apt-get update"/>
+<node ID="ID_599173292" 
+	TEXT="sudo apt-get install keepass2"/>
+</node>
+<node ID="ID_1916826195" LINK="http://www.keepassx.org/" 
+	TEXT="相比较上一个,Keepassx更好一点,支持中文"/>
 </node>
 </node>
 </map>
