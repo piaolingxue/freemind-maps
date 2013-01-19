@@ -82,24 +82,24 @@
     </p>
     <table border="0" style="border-bottom-width: 0; border-right-width: 0; width: 80%; border-left-width: 0; border-top-width: 0; border-style: solid">
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             Keys
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             Description
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">TAB </font>
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">Subtree cycling: Rotate current subtree among the states </font>
           </p>
@@ -112,12 +112,12 @@
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">C-u TAB </font>
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">Global cycling: Rotate the entire buffer among the states </font>
           </p>
@@ -130,46 +130,46 @@
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">C-u C-u C-u TAB </font>
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">Show all, including drawers. </font>
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             <font size="2">C-c C-r</font>
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <pre content="text/html; charset=utf-8" http-equiv="content-type" style="font-style: normal; word-spacing: 0px; margin-top: 0; text-transform: none; text-indent: 0px; line-height: normal; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0; font-weight: normal; margin-left: 0; font-variant: normal; margin-bottom: 0">reveal context to point</pre>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-u C-c C-r
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid" valign="top">
           <p content="text/html; charset=utf-8" http-equiv="content-type" style="font-style: normal; word-spacing: 0px; margin-top: 0; text-transform: none; text-indent: 0px; line-height: normal; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0; font-weight: normal; margin-left: 0; font-variant: normal; margin-bottom: 0">
             reveal context to a state which you have gotten using visibility cycling
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-c C-x b
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-left-width: 1; border-top-width: 1; border-style: solid" valign="top">
           <p content="text/html; charset=utf-8" http-equiv="content-type" style="font-style: normal; word-spacing: 0px; margin-top: 0; text-transform: none; text-indent: 0px; line-height: normal; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0; font-weight: normal; margin-left: 0; font-variant: normal; margin-bottom: 0">
             show the current subtree in an indirect buffer, C-u prefix with an numeric you can go up top N subtree then take that tree.
           </p>
@@ -216,252 +216,252 @@
     </p>
     <table border="0" style="border-bottom-width: 0; border-right-width: 0; width: 80%; border-left-width: 0; border-top-width: 0; border-style: solid">
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             Keys
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             Description
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-R
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             insert new headling with same level
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-R
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             same as M-R except 当在某一空行上运行C-R 是在下一列添加一个haadling 而M-R 是在当前行添加一个headling
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-S-R
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             在当前行插入TODO
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-S-R
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             跟M-S-R的关系有点类似C-R 跟M-R的关系
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             TAB
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             针对M-R后的新headling, 按一次Tab当前headling变为孩子节点, 再按一次变为父节点
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-left
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             当前headling增加一级 e.g 2-&gt;1
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-right
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             当前headling减少一级 e.g 1-&gt;2
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-S-left
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             当前subtree增加一级 e.g 2-&gt;1
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-S-right
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             当前subtree减少一级 e.g 1 -&gt; 2
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-S-upper
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             跟上面同级子树交换
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             M-S-down
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             跟下面同级子树交换
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-C C-x C-w
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             剪切子树
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-C C-x M-w
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             拷贝子树
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-y
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             粘贴子树
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-c C-w
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             将一个区域或记录换个位置
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-c ^
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             将当前headline下级节点各headling根据一定的排序规则排序
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-x n s
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             将当前子树扩展到整个buffer
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-x n b
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             将当前块扩展到整个buffer
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-x n w
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             还原上两步的操作
           </p>
         </td>
       </tr>
       <tr>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             C-c *
           </p>
         </td>
-        <td valign="top" style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid">
+        <td style="border-right-width: 1; border-bottom-width: 1; width: 50%; border-top-width: 1; border-left-width: 1; border-style: solid" valign="top">
           <p style="margin-right: 1; margin-top: 1; margin-left: 1; margin-bottom: 1">
             将一个文本变成headling或者将一个heading转成文本
           </p>
@@ -540,8 +540,72 @@
 <node ID="ID_452552555" 
 	TEXT="在一个任务后面加上[/]或者[%] 然后按C-c C-c 就会显示该任务的进度"/>
 </node>
-<node ID="ID_772691375" 
-	TEXT="Agendars"/>
+<node FOLDED="true" ID="ID_772691375" 
+	TEXT="Agendars">
+<node ID="ID_1345809533" 
+	TEXT="C-c a #: display &apos;stuck&apos; project(a project that no define next actions)"/>
+<node FOLDED="true" ID="ID_1455619881" 
+	TEXT="commands in agendar buffer">
+<node ID="ID_1141967502" 
+	TEXT="n -&gt; next line"/>
+<node ID="ID_1470675027" 
+	TEXT="p -&gt; previous line"/>
+<node ID="ID_1883548603" 
+	TEXT="L -&gt; display origin location, and recenter it in the window"/>
+<node ID="ID_208207490" 
+	TEXT="d -&gt; a days&apos;s agenda view"/>
+<node ID="ID_1343072242" 
+	TEXT="w -&gt; week"/>
+<node ID="ID_29843976" 
+	TEXT="m -&gt; month"/>
+<node ID="ID_1465647806" 
+	TEXT="j -&gt; 提示输入一个日期, and go there"/>
+<node ID="ID_1764714220" 
+	TEXT="y -&gt; year"/>
+<node ID="ID_791734204" 
+	TEXT="f -&gt; org-agenda-ndays"/>
+<node ID="ID_1958268768" 
+	TEXT="b -&gt; go backword in time to display earlier dates"/>
+<node ID="ID_858770061" 
+	TEXT=". -&gt; go to today"/>
+<node ID="ID_687833205" 
+	TEXT="D -&gt; toggle the includsion of daily entries"/>
+<node ID="ID_1136696858" 
+	TEXT="v 加其他命令">
+<icon BUILTIN="info"/>
+</node>
+<node ID="ID_568252712" 
+	TEXT="r -&gt; rebuild agenda buffer"/>
+<node ID="ID_1455556657" 
+	TEXT="C-c C-s schele this item"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1320509857" 
+	TEXT="column views">
+<node ID="ID_1220118734" 
+	TEXT="C-c C-x C-c -&gt; enter column view "/>
+<node ID="ID_317824102" 
+	TEXT="r -&gt; recompute the column view"/>
+<node ID="ID_913383789" 
+	TEXT="q -&gt; quit the column view"/>
+</node>
+<node FOLDED="true" ID="ID_1617494424" 
+	TEXT="clock">
+<node ID="ID_1376128167" 
+	TEXT="C-c C-x C-i -&gt; clock in"/>
+<node ID="ID_1045212397" 
+	TEXT="C-c C-x C-o -&gt; clock out"/>
+<node ID="ID_1972178304" 
+	TEXT="C-c C-y -&gt; 当其中某个时间戳改变时,用该命令更新时间间隔"/>
+<node ID="ID_635826054" 
+	TEXT="C-c C-x C-e 更新耗时时间"/>
+<node ID="ID_558101472" 
+	TEXT="C-c C-x C-x -&gt; 取消当前时钟计数"/>
+<node ID="ID_178083400" 
+	TEXT="C-c C-x C-j -&gt; 跳转到当前正在运行中的任务"/>
+<node ID="ID_1171696993" 
+	TEXT="C-c C-t -&gt; 当将一个任务状态改为DONE时,自动停止计数"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_138400939" POSITION="right" 
 	TEXT="相关资料">
@@ -588,10 +652,10 @@
     <p>
       A:
     </p>
-    <table style="width: 80%; border-left-width: 0; border-top-width: 0; border-style: solid; border-bottom-width: 0; border-right-width: 0" border="0">
+    <table border="0" style="width: 80%; border-left-width: 0; border-top-width: 0; border-style: solid; border-bottom-width: 0; border-right-width: 0">
       <tr>
         <td style="border-top-width: 1; border-left-width: 1; width: 50%; border-style: solid; border-bottom-width: 1; border-right-width: 1" valign="top">
-          <pre http-equiv="content-type" style="color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0; font-weight: normal; margin-left: 0; font-variant: normal; margin-bottom: 0; font-style: normal; word-spacing: 0px; margin-top: 0; text-transform: none; text-indent: 0px; line-height: normal" content="text/html; charset=utf-8"><font size="2">Use a simple hierarchy, with (for example) TODO entries, like this.
+          <pre content="text/html; charset=utf-8" http-equiv="content-type" style="color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0; font-weight: normal; margin-left: 0; font-variant: normal; margin-bottom: 0; font-style: normal; word-spacing: 0px; margin-top: 0; text-transform: none; text-indent: 0px; line-height: normal"><font size="2">Use a simple hierarchy, with (for example) TODO entries, like this.
 
 * main 1
 ** sub
@@ -824,63 +888,78 @@ Hope this make it clearer.</font></pre>
 </node>
 </node>
 </node>
-<node ID="ID_190042689" 
-	TEXT="Track your habits"/>
+<node FOLDED="true" ID="ID_190042689" 
+	TEXT="Track your habits">
+<node ID="ID_777808602" 
+	TEXT="C-c C-t -&gt; create a todo item as a new habbit"/>
+<node ID="ID_592297484" 
+	TEXT="C-c C-s -&gt; scheduled"/>
+<node ID="ID_339929145" 
+	TEXT="add repeated style -&gt; .+2d/3d"/>
+<node ID="ID_729358005" 
+	TEXT="C-c C-x p -&gt; 添加STYLE属性值为habbit"/>
+<node ID="ID_925021270" 
+	TEXT="在日期上运行 C-c C-c使习惯生效"/>
+<node ID="ID_1429852810" 
+	TEXT="关于样式:.+表示当状态置为DONE时,天数根据当天加上重复天数,如果多次运行,时间不会变更, ++样式,修改一次状态,时间就会变更一次"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_313980044" POSITION="left" 
 	TEXT="English Words">
-<node ID="ID_134381867" 
-	TEXT="heading [&apos;hɛdɪŋ] -&gt; 标题"/>
-<node ID="ID_1795752734" 
-	TEXT="headline -&gt; 标题"/>
 <node ID="ID_199852582" 
 	TEXT="agendas[əˈdʒɛndə]. -&gt; 会议议程,工作事项"/>
-<node ID="ID_402884269" 
-	TEXT="typeset -&gt; 排版"/>
-<node ID="ID_711031935" 
-	TEXT="reveal -&gt; 揭露"/>
-<node ID="ID_966694398" 
-	TEXT="drawer[drɔr]  -&gt; 抽屉"/>
-<node ID="ID_1206202037" 
-	TEXT="bullet[ˈbʊlɪt] -&gt; 子弹 符号 符文"/>
-<node ID="ID_317044558" 
-	TEXT="entry -&gt; 条目"/>
-<node ID="ID_606550823" 
-	TEXT="item -&gt; 项"/>
-<node ID="ID_833606760" 
-	TEXT="occasionally -&gt; 偶尔"/>
-<node ID="ID_1409419408" 
-	TEXT="formula -&gt; 公式"/>
-<node ID="ID_671672772" 
-	TEXT="coordinate -&gt; 坐标"/>
-<node ID="ID_753965402" 
-	TEXT="inheritance -&gt; 继承"/>
-<node ID="ID_503300435" 
-	TEXT="restrict -&gt; 限制 约束"/>
-<node ID="ID_1122523844" 
-	TEXT="arbitrary[&apos;ɑrbətrɛri]  -&gt; 任意的"/>
-<node ID="ID_523496058" 
-	TEXT="circumvent [,sɝkəm&apos;vɛnt] -&gt; 避免 绕行"/>
-<node ID="ID_112010852" 
-	TEXT="overdue -&gt; 过期"/>
+<node ID="ID_465095980" 
+	TEXT="anniversary[,ænɪ&apos;vɝsəri]  -&gt; 周年纪念日"/>
 <node ID="ID_660586048" 
 	TEXT="appropriate -&gt; 适当的"/>
-<node ID="ID_45212318" 
-	TEXT="shave -&gt; 修脸,刮面"/>
-<node ID="ID_1456049037" 
-	TEXT="elapsed -&gt; 时间消逝,过去"/>
-<node ID="ID_672528012" 
-	TEXT="overlay -&gt; 叠加"/>
-<node ID="ID_296424610" 
-	TEXT="tabular[&apos;tæbjəlɚ] -&gt; 扁平的,列成表格的"/>
+<node ID="ID_1122523844" 
+	TEXT="arbitrary[&apos;ɑrbətrɛri]  -&gt; 任意的"/>
+<node ID="ID_1206202037" 
+	TEXT="bullet[ˈbʊlɪt] -&gt; 子弹 符号 符文"/>
+<node ID="ID_523496058" 
+	TEXT="circumvent [,sɝkəm&apos;vɛnt] -&gt; 避免 绕行"/>
+<node ID="ID_1186867948" 
+	TEXT="combersome [&apos;kʌmbəs(ə)m] -&gt; 笨重的累赘的"/>
+<node ID="ID_671672772" 
+	TEXT="coordinate -&gt; 坐标"/>
 <node ID="ID_53722863" 
 	TEXT="criteria [kraɪ&apos;tɪrɪə] -&gt; 标准 条件"/>
 <node ID="ID_558749196" 
 	TEXT="dispacher [dɪs&apos;pætʃə] -&gt; 调度程序 分配员">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node ID="ID_465095980" 
-	TEXT="anniversary[,ænɪ&apos;vɝsəri]  -&gt; 周年纪念日"/>
+<node ID="ID_966694398" 
+	TEXT="drawer[drɔr]  -&gt; 抽屉"/>
+<node ID="ID_1456049037" 
+	TEXT="elapsed -&gt; 时间消逝,过去"/>
+<node ID="ID_317044558" 
+	TEXT="entry -&gt; 条目"/>
+<node ID="ID_1409419408" 
+	TEXT="formula -&gt; 公式"/>
+<node ID="ID_134381867" 
+	TEXT="heading [&apos;hɛdɪŋ] -&gt; 标题"/>
+<node ID="ID_1795752734" 
+	TEXT="headline -&gt; 标题"/>
+<node ID="ID_753965402" 
+	TEXT="inheritance -&gt; 继承"/>
+<node ID="ID_606550823" 
+	TEXT="item -&gt; 项"/>
+<node ID="ID_833606760" 
+	TEXT="occasionally -&gt; 偶尔"/>
+<node ID="ID_112010852" 
+	TEXT="overdue -&gt; 过期"/>
+<node ID="ID_672528012" 
+	TEXT="overlay -&gt; 叠加"/>
+<node ID="ID_503300435" 
+	TEXT="restrict -&gt; 限制 约束"/>
+<node ID="ID_711031935" 
+	TEXT="reveal -&gt; 揭露"/>
+<node ID="ID_45212318" 
+	TEXT="shave -&gt; 修脸,刮面"/>
+<node ID="ID_296424610" 
+	TEXT="tabular[&apos;tæbjəlɚ] -&gt; 扁平的,列成表格的"/>
+<node ID="ID_402884269" 
+	TEXT="typeset -&gt; 排版"/>
 </node>
 </node>
 </map>
