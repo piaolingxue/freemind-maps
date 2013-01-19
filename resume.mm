@@ -267,6 +267,330 @@
 <node ID="ID_1740108161" 
 	TEXT="Agile Project Management"/>
 </node>
+<node FOLDED="true" ID="ID_186146388" POSITION="left" 
+	TEXT="阿里招聘的工作">
+<node FOLDED="true" ID="ID_580823682" 
+	TEXT="淘宝">
+<node FOLDED="true" ID="ID_1675475210" 
+	TEXT="资深java开发工程师">
+<node ID="ID_1548836346" 
+	TEXT="四年以上J2EE工作经验"/>
+<node ID="ID_1410640381" 
+	TEXT="Java 基础知识扎实,熟悉IO,多线程,集合类等基础框架,熟悉缓存,消息,搜索等机制"/>
+<node ID="ID_1188291782" 
+	TEXT="精通J2EE相关的主流开源框架:如spring,iBatis,struts等"/>
+<node ID="ID_787614638" 
+	TEXT="在可扩展,高性能,高并发,高稳定性系统设计,开发和调优有实际经验"/>
+<node ID="ID_19081723" 
+	TEXT="熟悉Oracal,MySql等数据库技术,对sql优化有一定的经验"/>
+<node ID="ID_1548563355" 
+	TEXT="具有很强的技术研发和创新能力,能有效把握技术发展方向"/>
+<node ID="ID_447433739" 
+	TEXT="思路清晰,较好的沟通能力和技术领导能力"/>
+<node ID="ID_768688401" 
+	TEXT="具有BI产品,数据可视化产品开发经验者优先考虑"/>
+</node>
+<node FOLDED="true" ID="ID_1589841106" 
+	TEXT="资深java开发">
+<node ID="ID_1189871962" 
+	TEXT="java 基础扎实,熟悉IO,多线程,集合类等基础框架,熟悉缓存,消息,搜索等机制"/>
+<node ID="ID_843275460" 
+	TEXT="五年以上使用java进行web开发的经验;熟悉AOP,MVC等框架,熟悉web开发的相关技术,html/javascript/xml/ajax"/>
+<node ID="ID_1086879994" 
+	TEXT="熟悉J2EE规范,熟悉常用的设计模式,精通java及web的开发和应用;熟悉高并发,高性能的分布式系统的设计和应用,调优."/>
+<node ID="ID_1298684126" 
+	TEXT="熟悉消息中间件的的原理和应用,熟悉缓存框架的原理和应用"/>
+<node ID="ID_1408230149" 
+	TEXT="熟悉SQL,了解Oracal等大型数据库"/>
+<node ID="ID_1710875492" 
+	TEXT="熟悉linux下常用命令"/>
+</node>
+<node FOLDED="true" ID="ID_1341007097" 
+	TEXT="资深java开发工程师(CRM)">
+<node ID="ID_857669329" 
+	TEXT="三年以上java开发经验"/>
+<node ID="ID_1847992082" 
+	TEXT="熟悉web开发相关技术和框架:sprint,ibatis等"/>
+<node ID="ID_1733253705" 
+	TEXT="熟悉常用的设计模式,有大型分布式,高并发,高负载,高可用性系统设计开发经验"/>
+<node ID="ID_113511806" 
+	TEXT="熟悉mysql,oracal,linux"/>
+<node ID="ID_713019364" 
+	TEXT="学习能力强,适应能力好"/>
+<node ID="ID_273562836" 
+	TEXT="以上5点不一定全部满足,最重要是对技术,对互联网的热情,有CRM,ERP相关开发设计经验,就加分了"/>
+</node>
+<node FOLDED="true" ID="ID_1996841906" 
+	TEXT="java开发工程师">
+<node ID="ID_1702481865" 
+	TEXT="本科以上学历,两年以上开发经验"/>
+<node ID="ID_532909117" 
+	TEXT="熟悉web开发相关技术和开源框架:html,struts,sprint,ibatis"/>
+<node ID="ID_862315743" 
+	TEXT="有较大系统的设计和开发经验"/>
+<node ID="ID_1597851033" 
+	TEXT="有较丰富的数据存储和查询经验(如Oracal/Mysql,Redis,HBase等)经验,对性能优化有一定的经验"/>
+<node ID="ID_1861670439" 
+	TEXT="学习能力好,适应能力好,对技术充满热情,良好的沟通能力"/>
+</node>
+<node FOLDED="true" ID="ID_1755740131" 
+	TEXT="资深java开发工程师">
+<node ID="ID_1371430841" 
+	TEXT="JAVA基础扎实，熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息、搜索等机制；"/>
+<node ID="ID_1318211117" 
+	TEXT="三年以上使用java进行web开发的经验，精通AOP、MVC等框架，熟悉Linux下的常用命令，熟悉MySQL和Oracle；"/>
+<node ID="ID_1497943714" 
+	TEXT=".熟悉常用设计模式，有大型分布式、高并发、高负载、高可用性系统设计开发经验；"/>
+<node ID="ID_131098975" 
+	TEXT=".具有一定的项目规划和决策能力，善于捕捉业务需求、架构设计中存在的问题，并给出有效的解决措施和方法；"/>
+<node ID="ID_883864848" 
+	TEXT="具有高度的抽象设计能力，思路清晰，善于思考，能独立分析和解决问题,责任心强，具备良好的团队合作精神和承受压力的能力。"/>
+</node>
+<node FOLDED="true" ID="ID_1966007402" 
+	TEXT="数字产品java资深研发">
+<node ID="ID_1033090869" 
+	TEXT=" Java基础扎实，理解io、多线程、集合等基础框架，对JVM原理有一定的了解；熟悉面向对象设计开发;"/>
+<node ID="ID_1399342770" 
+	TEXT=" 四年以上使用JAVA开发的经验，对于你用过的开源框架，能了解到它的原理和机制；"/>
+<node ID="ID_57503366" 
+	TEXT="熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息、搜索\推荐等机制；能对分布式常用技术进行合理应用，解决问题；"/>
+<node ID="ID_1419293080" 
+	TEXT="掌握Linux 操作系统和大型数据库；有较强的分析设计能力和方案整合能力；"/>
+<node ID="ID_98737214" 
+	TEXT="良好的沟通技能，团队合作能力，勤奋好学；">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1342381222" 
+	TEXT="我们希望你对互联网或J2EE应用开发的最新潮流有关注，喜欢去看及尝试最新的技术，追求编写优雅的代码，从技术趋势和思路上能影响技术团队；"/>
+<node ID="ID_731258605" 
+	TEXT="如果你觉得和以上要求不符，但你对这个岗位很感兴趣，并且确认你以往的其他经历或经验能给团队带来自己独特的价值，那么也欢迎投递简历；"/>
+<node ID="ID_1021132410" 
+	TEXT=" 喜欢研究新技术并和人分享者优先 "/>
+<node ID="ID_1669366952" 
+	TEXT="熟悉MySQL等数据库性能优化相关知识者优先, 熟悉NoSQL相关知识者优先."/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1058225652" 
+	TEXT="天猫">
+<node FOLDED="true" ID="ID_1552759069" 
+	TEXT="资深java开发工程师">
+<node ID="ID_625414107" 
+	TEXT="本科及以上学历，计算机相关专业，全国重点大学优先考虑；"/>
+<node ID="ID_1809918444" 
+	TEXT="精通Java EE相关技术和框架，Spring，iBatis等；"/>
+<node ID="ID_1948731498" 
+	TEXT=" 精通企业应用设计模式，有大型分布式，高并发，高负载，高可用性系统设计开发经验；"/>
+<node ID="ID_1282305863" 
+	TEXT="精通NOSQL分布式存储系统或者CEP复杂事件处理者优先；"/>
+<node ID="ID_1262731439" 
+	TEXT="学习能力强，适应能力好；"/>
+<node ID="ID_1297122898" 
+	TEXT="有高并发应用开发经验者优先；"/>
+<node ID="ID_205295058" 
+	TEXT="我们希望你对J2EE应用开发的最新潮流有理解，你喜欢去看及尝试最新的Java技术、开源框架（提供的特性及其实现原理）；知道该如何编写优雅的代码。从技术趋势和思路上能影响技术团队。 "/>
+</node>
+<node FOLDED="true" ID="ID_1786201128" 
+	TEXT="资深java开发工程师(物流宝)">
+<node ID="ID_523192697" 
+	TEXT="5年左右工作时间，专注设计和编码，有梦想和激情，敢于尝试和挑战新鲜事物；"/>
+<node ID="ID_511152660" 
+	TEXT="java基础扎实，熟悉互联网和web应用的相关开发技术；"/>
+<node ID="ID_1435334400" 
+	TEXT="熟悉面向对象和设计模式，熟悉java开源框架、Oracle、MySql等数据库技术，对sql优化有一定的经验；"/>
+<node ID="ID_1312156575" 
+	TEXT="如果以上均不符合，也没关系，只要你确认自己是个技术人才，对技术有火一样的热情，希望找到一个能发挥你能力的地方，也欢迎投递简历。 "/>
+</node>
+<node FOLDED="true" ID="ID_1377593007" 
+	TEXT="后台java开发">
+<node ID="ID_1364484195" 
+	TEXT="计算机相关专业，大学本科以上学历，3年以上工作经验；"/>
+<node ID="ID_1888943255" 
+	TEXT="熟悉Unix/Linux下JAVA开发，有海量系统开发经验；"/>
+<node ID="ID_1271797344" 
+	TEXT="熟悉MYSQL或其他关系型数据库，并有数据Cache经验者尤佳；"/>
+<node ID="ID_230694127" 
+	TEXT="熟悉当前比较流行的WEB容器的结构、部署、调优、熟悉各种容器优缺点尤佳；"/>
+<node ID="ID_1689326648" 
+	TEXT="熟悉无线互联网环境，有最新的android，ios等平台的开发经验尤佳；"/>
+<node ID="ID_41577923" 
+	TEXT="全面的软件知识结构(操作系统、数据结构、数据库系统、网络安全)；"/>
+<node ID="ID_771426315" 
+	TEXT="具备良好的学习能力和分析解决问题能力；"/>
+<node ID="ID_1164684894" 
+	TEXT="责任心强，良好的对外沟通和团队协作能力。"/>
+</node>
+<node FOLDED="true" ID="ID_1064697288" 
+	TEXT="java开发工程师">
+<node ID="ID_326175310" 
+	TEXT=".计算机相关专业本科以上学历；如果不是计算机相关专业，但对计算机技术特别感兴趣，我们也非常欢迎"/>
+<node ID="ID_1919728238" 
+	TEXT="两年以上java开发经验；熟悉web应用的相关开发技术；"/>
+<node ID="ID_1917120241" 
+	TEXT=".熟悉面向对象和设计模式，熟悉java开源框架，如Spring,ibatis,struts等；"/>
+<node ID="ID_630560357" 
+	TEXT="熟悉Oracle、MySql等数据库技术，对sql优化有一定的经验；"/>
+<node ID="ID_1493003229" 
+	TEXT=".如果你来自互联网公司，或者有较大数据规模的实践经验，关注新技术，喜欢尝试新东西，那么我们会非常欢迎；"/>
+<node ID="ID_1198185607" 
+	TEXT="沟通能力强，有团队精神"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1686635536" 
+	TEXT="一淘">
+<node FOLDED="true" ID="ID_838285755" 
+	TEXT="java开发工程师（无线联盟">
+<node ID="ID_751017993" 
+	TEXT="本科或以上学历，3年以上J2EE开发经验；"/>
+<node ID="ID_145135015" 
+	TEXT="良好的Java基础，在多线程、IO、网络、开源方面有着深入的研究；"/>
+<node ID="ID_1473047016" 
+	TEXT="熟悉Spring/SpringMvc、Ibatis等开源框架，对上述一个以上框架有深入的理解；熟悉Oracle、MySQL数据库应用，掌握数据库优化理念和技术；"/>
+<node ID="ID_626366614" 
+	TEXT="对无线平台及无线广告平台有了解，有过android或ios开发经验最佳。"/>
+<node ID="ID_641180705" 
+	TEXT="能承受一定的工作压力，有责任心，上进心和自我驱动力，能通过持续学习完善自身；"/>
+<node ID="ID_996655007" 
+	TEXT="对技术有着特别的渴求，在关注的领域有着深入的研究，相信技术带来效率和革命性创新；"/>
+<node ID="ID_758391591" 
+	TEXT="较好的客户服务意识、沟通和表达能力佳。"/>
+</node>
+<node FOLDED="true" ID="ID_513353080" 
+	TEXT="java开发专家">
+<node ID="ID_642343533" 
+	TEXT="乐观、开朗、善于沟通，气场强大的更好； "/>
+<node ID="ID_1101568987" 
+	TEXT="学历不重要,但是需要5年以上java开发经验，熟悉分布式计算、*nix操作系统,java系统优化有相当的经验。"/>
+<node ID="ID_1709260971" 
+	TEXT="热衷技术，乐于接受挑战；"/>
+<node ID="ID_183690438" 
+	TEXT="业界知名的牛人，我们最欢迎！"/>
+</node>
+<node FOLDED="true" ID="ID_1937336356" 
+	TEXT="高级java开发工程师">
+<node ID="ID_1219997947" 
+	TEXT="本科或以上学历，计算机软件或相关专业"/>
+<node ID="ID_1791698526" 
+	TEXT="三年以上J2EE项目开发经验；熟悉Web JSP,Servlet,Java Bean,JMS,EJB,Jdbc开发，熟悉J2EE规范；"/>
+<node ID="ID_367332086" 
+	TEXT="至少深入过一种Spring,ibatis,webwork等WEB相关框架（框架提供的特性及其实现原理），不局限于以上框架"/>
+<node ID="ID_235281525" 
+	TEXT="熟悉基于数据库的设计和开发，了解或使用过NoSQL,MemoryDB等新形式DB。"/>
+<node ID="ID_1005701800" 
+	TEXT="具备一定的Unix/Linux运维、部署能力"/>
+<node ID="ID_288083917" 
+	TEXT="参与过分布式系统项目开发经验"/>
+<node ID="ID_996833400" 
+	TEXT="优先项】有无线互联网成熟产品开发经验者优先"/>
+<node ID="ID_840626821" 
+	TEXT="【优先项】熟悉各主流客户端特性、以及与服务端交互设计细节、有客户端云端架构设计及实务开发经验着优先"/>
+<node ID="ID_1823878405" 
+	TEXT="【优先项】掌握多线程及高性能的设计与编码及性能调优；有高并发应用开发经验者优先"/>
+</node>
+<node FOLDED="true" ID="ID_1288348594" 
+	TEXT="高级java开发工程师-一淘-滨江">
+<node ID="ID_669140862" 
+	TEXT="主要从事java相关的web应用开发，扎实的编程基础，对jvm相关知识有一定的理解；熟悉精通java相关的网络通讯、IO、集合、基本的算法、编程规范等"/>
+<node ID="ID_995102982" 
+	TEXT="熟悉相关的j2ee体系，熟悉并能运用流行的开源软件框架编程，如：spring、struts等"/>
+<node ID="ID_776817988" 
+	TEXT="对相关流行的DB如oracle/mysql有一定的基础，例如，事务、锁的理解，并具有比较好的SQL编写及优化能力；了解运用过NOSQL或者对大数据量处理等有经验更好。"/>
+<node ID="ID_497301023" 
+	TEXT="擅长使用JS进行开发和设计，熟悉 jquery 或其他的前台展现技术，并有一定的开发经验"/>
+<node ID="ID_195507167" 
+	TEXT="具有比较好的分析设计能力"/>
+<node ID="ID_63871346" 
+	TEXT="好的学习能力、良好的沟通能力及团队合作精神，责任心强"/>
+</node>
+<node FOLDED="true" ID="ID_1708212565" 
+	TEXT="java开发工程师（无线底层)">
+<node ID="ID_1082285841" 
+	TEXT="岗位描述： 一人多责，你不是一颗螺丝钉，但也许会有一个人战斗的时候 把适合的新技术有效应用到无线的平台，你可以提出想法和解决方案 对于一些公共问题研究之，提出具有能解决一系列问题的方案 有时候还要做做运维工作和shell交流情感 岗位要求： 简单的人，执着的心，喜欢研究，清楚自己在技术上的能力 需要你自我管理能力强，因为 给你充分自由的空间 有一点小小的技术灵感， 对技术和产品都要有点小爱好 开放的视野，喜欢关注各 种新技术 当然最基础的一点，技术要过硬，会JAVA或者C，如果还会点其他花色语言你就大赞了  最后一条（-_-）用技术交流感情，人比较简单直白，有什么不爽直接吼过来就好。"/>
+</node>
+<node FOLDED="true" ID="ID_1612703973" 
+	TEXT="java开发工程师（无线社区&amp;数据)">
+<node ID="ID_1252538552" 
+	TEXT="希望你具有创业精神，因为我们业务全新，万事从头做起。"/>
+<node ID="ID_1583172831" 
+	TEXT="希望你具备丰富的服务端Java开发经验，熟悉流行的java框架，原理，机制。"/>
+<node ID="ID_1014615189" 
+	TEXT="希望有高并发分布式系统架构经验，或者曾经在社区业务厮混过，那都是传说中的加分点。"/>
+<node ID="ID_60059763" 
+	TEXT="希望你痴迷研究新技术，善于总结沉淀，乐于和人分享，一起成长。"/>
+</node>
+<node FOLDED="true" ID="ID_373023806" 
+	TEXT="高级Java开发工程师- 一淘广告技术">
+<node ID="ID_289358831" 
+	TEXT="本科或以上学历，计算机软件或相关专业；如果是不是计算机相关专业，但对计算机技术特别感兴趣，我们也非常欢迎； "/>
+<node ID="ID_1809986592" 
+	TEXT="五年以上java项目开发经验；java基础扎实，熟悉互联网和web应用的相关开发技术"/>
+<node ID="ID_1233537777" 
+	TEXT="熟悉面向对象和设计模式，熟悉java开源框架，如Spring,ibatis,struts等；"/>
+<node ID="ID_1044032657" 
+	TEXT="熟悉Oracle、MySql等数据库技术，对sql优化有一定的经验；"/>
+<node ID="ID_1510804046" 
+	TEXT="如果你来自互联网公司，或者有较大数据规模的实践经验，关注新技术，喜欢尝试新东西，那么我们会非常欢迎；"/>
+<node ID="ID_1257479710" 
+	TEXT="如果以上均不符合，也没关系，只要你确认自己是个技术人才，对技术有火一样的热情，希望找到一个能发挥你能力的地方，也欢迎投递简历；"/>
+</node>
+<node FOLDED="true" ID="ID_640988176" 
+	TEXT="java开发工程师-旺信">
+<node ID="ID_90615256" 
+	TEXT="JAVA基础扎实，熟悉io、多线程、集合等基础框架，熟悉分布式、缓存、消息、搜索等机制"/>
+<node ID="ID_1185071706" 
+	TEXT="三年以上使用JAVA进行web开发的经验；"/>
+<node ID="ID_661842152" 
+	TEXT="熟悉JAVA EE规范，熟悉常用的设计模式；精通Java及Web的开发和应用；"/>
+<node ID="ID_431296550" 
+	TEXT="熟悉Linux下的常用命令"/>
+</node>
+</node>
+<node ID="ID_1916559480" 
+	TEXT="集团"/>
+<node ID="ID_729182821" 
+	TEXT="聚划算"/>
+<node FOLDED="true" ID="ID_118670064" 
+	TEXT="必选技能">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="bookmark"/>
+<node ID="ID_1257061627" 
+	TEXT="java基础,io,多线程,集合,分布式,缓存,消息,搜索等机制">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_300893058" 
+	TEXT="java开源框架:spring,ibatis,struts">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_833088952" 
+	TEXT="数据库相关:mysql,oracal">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1761867257" 
+	TEXT="java设计模式">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_30549588" 
+	TEXT="可选技能">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="bookmark"/>
+<node ID="ID_1568053366" 
+	TEXT="J2EE体系,规范">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_788320176" 
+	TEXT="熟悉AOP,MVC框架">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1500703616" 
+	TEXT="linux下常用命令">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_1611907325" 
+	TEXT="jvm原理">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
 <node FOLDED="true" ID="ID_1558391199" POSITION="left" 
 	TEXT=" 马云">
 <node ID="ID_463326008" LINK="http://www.wshang.com/posts/showPosts/posts_id/7675.html?from=bbbb" 
