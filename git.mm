@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="0.9.0">
+<map version="1.0.0">
 <!-- This file is saved using a hacked version of FreeMind. visit: http://freemind-mmx.sourceforge.net -->
 <!-- Orignal FreeMind, can download from http://freemind.sourceforge.net -->
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
@@ -604,8 +604,18 @@
 	TEXT="git rev-parse --show-cdup"/>
 </node>
 </node>
-<node FOLDED="true" ID="ID_1039135738" POSITION="right" 
-	TEXT="git stage(暂存区)">
+<node FOLDED="true" ID="ID_1039135738" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      git stage(暂存区)
+    </p>
+  </body>
+</html>
+</richcontent>
 <cloud/>
 <node FOLDED="true" ID="ID_1724943129" 
 	TEXT="一个有趣的实验">
@@ -1469,8 +1479,7 @@
       克隆裸版本库
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1619759955">
 <richcontent TYPE="NODE"><html>
@@ -1485,8 +1494,7 @@
       git clone ~/repos/example.git
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_854059711" 
 	TEXT="今后工作区改动push的时候,会将改动push到本地repos目录"/>
@@ -1507,8 +1515,7 @@
       可以在本地工作区,添加一个远程地址,用来从github上拉数据
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1913780552" POSITION="left" 

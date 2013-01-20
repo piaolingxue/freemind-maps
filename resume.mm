@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="0.9.0">
+<map version="1.0.0">
 <!-- This file is saved using a hacked version of FreeMind. visit: http://freemind-mmx.sourceforge.net -->
 <!-- Orignal FreeMind, can download from http://freemind.sourceforge.net -->
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
@@ -13,6 +13,17 @@
 	TEXT="英文自我介绍">
 <node ID="ID_910302557">
 <richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      one
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
@@ -51,7 +62,8 @@
       That’s all. Thank you for giving me the chance.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node ID="ID_97660116">
 <richcontent TYPE="NODE"><html>
@@ -60,13 +72,36 @@
   </head>
   <body>
     <p>
+      two
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
       Good morning. I am glad to be here for this interview. First let me introduce myself. My name is ***, 24. I come from ******,the capital of *******Province. I graduated from the ******* department of *****University in July ,2001.In the past two years I have been preparing for the postgraduate examination while I have been teaching *****in NO.****middle School and I was a head-teacher of a class in junior grade two.Now all my hard work has got a result since I have a chance to be interview by you . I am open-minded ,quick in thought and very fond of history.In my spare time,I have broad interests like many other youngsters.I like reading books, especially those about *******.Frequently I exchange with other people by making comments in the forum on line.In addition ,during my college years,I was once a Net-bar technician.So, I have a comparatively good command of network application.I am able to operate the computer well.I am skillful in searching for information in Internet.I am a football fan for years.Italian team is my favorite.Anyway,I feel great pity for our country’s team. I always believe that one will easily lag behind unless he keeps on learning .Of course, if I am given a chance to study ****** in this famous University,I will stare no effort to master a good command of advance ******.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node ID="ID_196625309">
 <richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      three
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
   <head>
     
   </head>
@@ -81,7 +116,8 @@
       I hope you will give them a wonderful speech .Good luck to you !
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node ID="ID_1777246056">
 <richcontent TYPE="NODE"><html>
@@ -90,10 +126,22 @@
   </head>
   <body>
     <p>
+      four
+    </p>
+  </body>
+</html>
+</richcontent>
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
       good morning, my name is jack, it is really a great honor to have this opportunity for a interview, i would like to answer whatever you may raise, and i hope i can make a good performance today, eventually enroll in this prestigious university in september. now i will introduce myself briefly,i am 21 years old,born in heilongjiang province ,northeast of china,and i am curruently a senior student at beijing XX uni.my major is packaging engineering.and i will receive my bachelor degree after my graduation in june.in the past 4 years,i spend most of my time on study,i have passed CET4/6 with an ease. and i have acquired basic knowledge of packaging and publishing both in theory and in practice. besides, i have attend several packaging exhibition hold in Beijing, this is our advantage study here, i have taken a tour to some big factory and company. through these i have a deeply understanding of domestic packaging industry. compared to developed countries such as us, unfortunately, although we have made extraordinary progress since 1978,our packaging industry are still underdeveloped, mess, unstable, the situation of employees in this field are awkard. but i have full confidence in a bright future if only our economy can keep the growth pace still. i guess you maybe interested in the reason itch to law, and what is my plan during graduate study life, i would like to tell you that pursue law is one of my lifelong goal,i like my major packaging and i won't give up,if i can pursue my master degree here i will combine law with my former education. i will work hard in thesefields ,patent ,trademark, copyright, on the base of my years study in department of p&amp;p, my character? i cannot describe it well, but i know i am optimistic and confident. sometimes i prefer to stay alone, reading, listening to music, but i am not lonely, i like to chat with my classmates, almost talk everything ,my favorite pastime is valleyball,playing cards or surf online. through college life,i learn how to balance between study and entertainment. by the way, i was a actor of our amazing drama club. i had a few glorious memory on stage. that is my pride.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_592547319" 
@@ -133,6 +181,38 @@
 </node>
 </node>
 </node>
+</node>
+<node ID="ID_535027082" POSITION="right" 
+	TEXT="自我介绍">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      你好,我叫李斌,毕业于苏州科技大学,计算机科学与技术专业,拥有至少四年的编程经验,近三年的java开发经验,这里,你如果看过我的简历,可能会疑惑,我是2011年1月5号正式入职,到现在也不过两年多的时间,实际上呢 2011年之前我做过java的实习工作,主要是java web开发,而且大学期间曾经担任一年的科协会长,跟老师或者同学一起做过不少项目,常见的编程语言都用过,做过的项目有:一些简单的桌面小软件,小游戏,汽车轮廓识别系统,也做过底层关于单片机方面的开发,像我大学毕业的毕业设计就是多功能无线传感网络的设计与实现.毕业这两年,主要从事项目核心功能的研发,都是在linux环境下开发,编程语言主要是java,C++有时也会用到,像我刚开始改写中科院分词就是用到了c++,任职期间因工作需要或者自己兴趣学了很多开源框架,hadoop,osgi,thrift,还有lucene搜索引擎,爬虫,mahou数据挖掘平台,maven,mongodb,fastdfs,git,cmake,我学过的东西非常杂,但是这种杂确实对我工作很有帮助,就是遇到一个问题,我可能会想到很多种解决方案,最终评估一个最佳解决方案再做行动.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node FOLDED="true" ID="ID_884960684" POSITION="right" 
+	TEXT="一句话概括自己">
+<node ID="ID_925160853" 
+	TEXT="一个善良的,努力的,解决问题较强,还算自信的平凡的小伙"/>
+</node>
+<node FOLDED="true" ID="ID_1915745794" POSITION="right" 
+	TEXT="个人形象(150~250字)">
+<node ID="ID_1653423826" 
+	TEXT="成熟稳重,干练,有自己独特的个性"/>
+<node ID="ID_77664500" 
+	TEXT="积极,自信,坚毅,遇到问题挫折,从不轻言放弃"/>
+<node ID="ID_969883595" 
+	TEXT="喜欢不断超越自我,不断挑战新的困难"/>
+<node ID="ID_854974869" 
+	TEXT="爱读书,爱学习新技术"/>
+<node ID="ID_1368825780" 
+	TEXT="时间观念强,逻辑思维强,善于把握问题的重心"/>
 </node>
 <node ID="ID_1165837059" POSITION="right" 
 	TEXT="大规模数据分析"/>
@@ -209,7 +289,9 @@
 <node FOLDED="true" ID="ID_282012425" POSITION="right" 
 	TEXT="为什么选择离职?">
 <node ID="ID_194410933" 
-	TEXT="公司发展太缓慢"/>
+	TEXT="想尝试更有挑战的工作"/>
+<node ID="ID_1312117072" 
+	TEXT="换个空间,最大发挥自己的能力"/>
 <node ID="ID_791047358" 
 	TEXT="我希望寻求一个更有挑战的环境,更大的平台"/>
 </node>
@@ -590,6 +672,141 @@
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_753303232" 
+	TEXT="常见问题">
+<node ID="ID_580561076" 
+	TEXT="java 会出现内存溢出吧,请简单描述"/>
+<node FOLDED="true" ID="ID_1356511613" 
+	TEXT="什么是0day">
+<node ID="ID_1937602083" 
+	TEXT="只要是软件或者作品在很短时间出现相关破解的都可以叫0day"/>
+</node>
+<node FOLDED="true" ID="ID_631531891" 
+	TEXT="ER图 实体和和联系都可以表示成?">
+<node ID="ID_1781077999" 
+	TEXT="关系"/>
+</node>
+<node FOLDED="true" ID="ID_1120237111" 
+	TEXT="collection 和 map的区别">
+<node FOLDED="true" ID="ID_1327669567" 
+	TEXT="collection">
+<node ID="ID_1459457403" 
+	TEXT="集合"/>
+<node ID="ID_410951327" 
+	TEXT="每个位置只有一个元素"/>
+<node FOLDED="true" ID="ID_756048004" 
+	TEXT="包括">
+<node FOLDED="true" ID="ID_1983993852" 
+	TEXT="list">
+<node ID="ID_135411559" 
+	TEXT="arraylist"/>
+<node ID="ID_488740814" 
+	TEXT="linkedlist"/>
+<node ID="ID_184427463" 
+	TEXT="vector"/>
+</node>
+<node FOLDED="true" ID="ID_345185551" 
+	TEXT="set">
+<node ID="ID_1884183494" 
+	TEXT="hashset"/>
+<node ID="ID_804759393" 
+	TEXT="treeset"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_765210703" 
+	TEXT="map">
+<node ID="ID_1507229566" 
+	TEXT="key,value对"/>
+<node ID="ID_585965014" 
+	TEXT="像个小型的key value数据库"/>
+<node FOLDED="true" ID="ID_979347786" 
+	TEXT="包括">
+<node ID="ID_1202663806" 
+	TEXT="hashmap"/>
+<node ID="ID_1801511931" 
+	TEXT="treemap"/>
+<node ID="ID_1805851902" 
+	TEXT="hashtable"/>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_104696100" 
+	TEXT="arraylist 和 linkedlist区别">
+<node ID="ID_1851400314" 
+	TEXT="arraylist 数组,删除插入麻烦"/>
+<node ID="ID_195716940" 
+	TEXT="linkedlist 每个对象保存单独的内存空间,查找麻烦,需要从第一个元素开始找"/>
+</node>
+<node FOLDED="true" ID="ID_1037120219" 
+	TEXT="mvc">
+<node FOLDED="true" ID="ID_1181637748" 
+	TEXT="Model">
+<node ID="ID_533942876" 
+	TEXT="在复杂的商务逻辑中,提供简单并且统一的应用程序接口,"/>
+<node ID="ID_1659511765" 
+	TEXT="这一层负责管理应用程序的行为和状态,来响应状态的请求和状态的指令"/>
+</node>
+<node FOLDED="true" ID="ID_1222400265" 
+	TEXT="View">
+<node ID="ID_219120328" 
+	TEXT="从Model层和Controller获取数据"/>
+<node ID="ID_1434612710" 
+	TEXT="并按照某种方式显示给用户"/>
+</node>
+<node FOLDED="true" ID="ID_1252563030" 
+	TEXT="Controller">
+<node ID="ID_645225325" 
+	TEXT="捕捉用户的一些事件"/>
+<node ID="ID_968772972" 
+	TEXT="并根据用户和应用程序的状态来决定响应的类型"/>
+<node ID="ID_1001825210" 
+	TEXT="Controller的响应会同时影响到Model层和View层"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1317912428" 
+	TEXT="log4j日志的优先级别">
+<node ID="ID_135131628" 
+	TEXT="DEBUG&lt;INFO&lt;WARM&lt;ERROR&lt;FATAL"/>
+</node>
+<node ID="ID_1199874476" 
+	TEXT="uml的九类图中,哪些属于动态建模机制,哪些属于静态建模机制"/>
+<node FOLDED="true" ID="ID_1567593973" 
+	TEXT="数学宝塔">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="margin-bottom: 0.13in" align="left">
+      <span lang="zh-CN"><font color="#333333" face="宋体"><b>数学宝塔，从最顶上走到最底层，每次只能走到下一层的左边或右边的数字，求出使所走到的所有数字之和为</b></font></span><b><font color="#333333" face="Tahoma, serif">60</font><span lang="zh-CN"><font color="#333333" face="宋体">的途径。</font></span></b><font color="#333333" face="Tahoma, serif"><br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　　　</font></span><font color="#333333" face="Tahoma, serif">7<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　　　　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　</font></span><font color="#333333" face="Tahoma, serif">2</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5<br />2</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1779141808" 
+	TEXT="该问题主要用i递归解决"/>
+<node ID="ID_1543429455" 
+	TEXT="关键是数据结构设计,设计合理对解题非常有利"/>
+<node ID="ID_102317527" LINK="https://github.com/piaolingxue/java-interview-questions.git" 
+	TEXT="答案详见:"/>
+</node>
+<node FOLDED="true" ID="ID_766049046" 
+	TEXT="店小二花名分类问题">
+<node ID="ID_231354923" LINK="https://github.com/piaolingxue/java-interview-questions.git" 
+	TEXT="比较简单,答案:"/>
+</node>
+<node FOLDED="true" ID="ID_1098936732" 
+	TEXT="写出回形钩的用法">
+<node ID="ID_1253493683" 
+	TEXT="夹纸, 做鱼钩, 别耳机在领子上, 当书签, "/>
+</node>
+<node FOLDED="true" ID="ID_641623494" 
+	TEXT="sql中查询表id&gt;100的">
+<node ID="ID_978702280" 
+	TEXT="select * from table where id &gt; 100"/>
+</node>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1558391199" POSITION="left" 
 	TEXT=" 马云">
@@ -599,7 +816,19 @@
 <node FOLDED="true" ID="ID_1917234784" POSITION="left" 
 	TEXT="   经典话语">
 <node ID="ID_181931278" 
-	TEXT="现在互联网的趋势，是越简单越好,其实做好一个互联网产品,非常简单，你只要把互联网的用户想想成脾气非常大,智商非常低， 而且非常没有耐心， 又非常非常小气的人就好了，你把这样的人伺候好了,你的互联网产品一定会成功.   ---周倩如(非你莫属)(代码女神)"/>
+	TEXT="-周倩如(非你莫属)(代码女神)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      现在互联网的趋势，是越简单越好,其实做好一个互联网产品,非常简单，你只要把互联网的用户想想成脾气非常大,智商非常低， 而且非常没有耐心， 又非常非常小气的人就好了，你把这样的人伺候好了,你的互联网产品一定会成功.  
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </map>
