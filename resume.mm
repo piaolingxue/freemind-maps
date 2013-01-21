@@ -21,8 +21,7 @@
       one
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -62,8 +61,7 @@
       That’s all. Thank you for giving me the chance.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_97660116">
 <richcontent TYPE="NODE"><html>
@@ -75,8 +73,7 @@
       two
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -86,8 +83,7 @@
       Good morning. I am glad to be here for this interview. First let me introduce myself. My name is ***, 24. I come from ******,the capital of *******Province. I graduated from the ******* department of *****University in July ,2001.In the past two years I have been preparing for the postgraduate examination while I have been teaching *****in NO.****middle School and I was a head-teacher of a class in junior grade two.Now all my hard work has got a result since I have a chance to be interview by you . I am open-minded ,quick in thought and very fond of history.In my spare time,I have broad interests like many other youngsters.I like reading books, especially those about *******.Frequently I exchange with other people by making comments in the forum on line.In addition ,during my college years,I was once a Net-bar technician.So, I have a comparatively good command of network application.I am able to operate the computer well.I am skillful in searching for information in Internet.I am a football fan for years.Italian team is my favorite.Anyway,I feel great pity for our country’s team. I always believe that one will easily lag behind unless he keeps on learning .Of course, if I am given a chance to study ****** in this famous University,I will stare no effort to master a good command of advance ******.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_196625309">
 <richcontent TYPE="NODE"><html>
@@ -99,8 +95,7 @@
       three
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -116,8 +111,7 @@
       I hope you will give them a wonderful speech .Good luck to you !
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1777246056">
 <richcontent TYPE="NODE"><html>
@@ -129,8 +123,7 @@
       four
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -140,8 +133,7 @@
       good morning, my name is jack, it is really a great honor to have this opportunity for a interview, i would like to answer whatever you may raise, and i hope i can make a good performance today, eventually enroll in this prestigious university in september. now i will introduce myself briefly,i am 21 years old,born in heilongjiang province ,northeast of china,and i am curruently a senior student at beijing XX uni.my major is packaging engineering.and i will receive my bachelor degree after my graduation in june.in the past 4 years,i spend most of my time on study,i have passed CET4/6 with an ease. and i have acquired basic knowledge of packaging and publishing both in theory and in practice. besides, i have attend several packaging exhibition hold in Beijing, this is our advantage study here, i have taken a tour to some big factory and company. through these i have a deeply understanding of domestic packaging industry. compared to developed countries such as us, unfortunately, although we have made extraordinary progress since 1978,our packaging industry are still underdeveloped, mess, unstable, the situation of employees in this field are awkard. but i have full confidence in a bright future if only our economy can keep the growth pace still. i guess you maybe interested in the reason itch to law, and what is my plan during graduate study life, i would like to tell you that pursue law is one of my lifelong goal,i like my major packaging and i won't give up,if i can pursue my master degree here i will combine law with my former education. i will work hard in thesefields ,patent ,trademark, copyright, on the base of my years study in department of p&amp;p, my character? i cannot describe it well, but i know i am optimistic and confident. sometimes i prefer to stay alone, reading, listening to music, but i am not lonely, i like to chat with my classmates, almost talk everything ,my favorite pastime is valleyball,playing cards or surf online. through college life,i learn how to balance between study and entertainment. by the way, i was a actor of our amazing drama club. i had a few glorious memory on stage. that is my pride.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_592547319" 
@@ -193,8 +185,7 @@
       你好,我叫李斌,毕业于苏州科技大学,计算机科学与技术专业,拥有至少四年的编程经验,近三年的java开发经验,这里,你如果看过我的简历,可能会疑惑,我是2011年1月5号正式入职,到现在也不过两年多的时间,实际上呢 2011年之前我做过java的实习工作,主要是java web开发,而且大学期间曾经担任一年的科协会长,跟老师或者同学一起做过不少项目,常见的编程语言都用过,做过的项目有:一些简单的桌面小软件,小游戏,汽车轮廓识别系统,也做过底层关于单片机方面的开发,像我大学毕业的毕业设计就是多功能无线传感网络的设计与实现.毕业这两年,主要从事项目核心功能的研发,都是在linux环境下开发,编程语言主要是java,C++有时也会用到,像我刚开始改写中科院分词就是用到了c++,任职期间因工作需要或者自己兴趣学了很多开源框架,hadoop,osgi,thrift,还有lucene搜索引擎,爬虫,mahou数据挖掘平台,maven,mongodb,fastdfs,git,cmake,我学过的东西非常杂,但是这种杂确实对我工作很有帮助,就是遇到一个问题,我可能会想到很多种解决方案,最终评估一个最佳解决方案再做行动.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node FOLDED="true" ID="ID_884960684" POSITION="right" 
 	TEXT="一句话概括自己">
@@ -778,12 +769,11 @@
     
   </head>
   <body>
-    <p style="margin-bottom: 0.13in" align="left">
-      <span lang="zh-CN"><font color="#333333" face="宋体"><b>数学宝塔，从最顶上走到最底层，每次只能走到下一层的左边或右边的数字，求出使所走到的所有数字之和为</b></font></span><b><font color="#333333" face="Tahoma, serif">60</font><span lang="zh-CN"><font color="#333333" face="宋体">的途径。</font></span></b><font color="#333333" face="Tahoma, serif"><br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　　　</font></span><font color="#333333" face="Tahoma, serif">7<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　　　　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　</font></span><font color="#333333" face="Tahoma, serif">2</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3<br /></font><span lang="zh-CN"><font color="#333333" face="宋体">　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5<br />2</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2</font>
+    <p align="left" style="margin-bottom: 0.13in">
+      <span lang="zh-CN"><font color="#333333" face="宋体"><b>数学宝塔，从最顶上走到最底层，每次只能走到下一层的左边或右边的数字，求出使所走到的所有数字之和为</b></font></span><b><font color="#333333" face="Tahoma, serif">60</font><span lang="zh-CN"><font color="#333333" face="宋体">的途径。</font></span></b><font color="#333333" face="Tahoma, serif"><br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　　　</font></span><font color="#333333" face="Tahoma, serif">7<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　　　　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　　</font></span><font color="#333333" face="Tahoma, serif">2</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">3<br/></font><span lang="zh-CN"><font color="#333333" face="宋体">　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">9</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">6</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">1</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">5<br/>2</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">3</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">5</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">7</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">8</font><span lang="zh-CN"><font color="#333333" face="宋体">　 　</font></span><font color="#333333" face="Tahoma, serif">4</font><span lang="zh-CN"><font color="#333333" face="宋体">　　</font></span><font color="#333333" face="Tahoma, serif">2</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1779141808" 
 	TEXT="该问题主要用i递归解决"/>
 <node ID="ID_1543429455" 
@@ -826,8 +816,30 @@
       现在互联网的趋势，是越简单越好,其实做好一个互联网产品,非常简单，你只要把互联网的用户想想成脾气非常大,智商非常低， 而且非常没有耐心， 又非常非常小气的人就好了，你把这样的人伺候好了,你的互联网产品一定会成功.  
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1877280812" POSITION="left" 
+	TEXT="电话面试总结">
+<node FOLDED="true" ID="ID_440539327" 
+	TEXT="2013-1-21">
+<node ID="ID_14033191" 
+	TEXT="Hadoop原理"/>
+<node ID="ID_1256121838" 
+	TEXT="Lucene评分机制"/>
+<node ID="ID_1334147074" 
+	TEXT="HashMap 初始容量跟大小的关系"/>
+<node ID="ID_284507075" 
+	TEXT="HashMap是否线性安全"/>
+<node ID="ID_805786450" 
+	TEXT="什么线性安全"/>
+<node ID="ID_1201509914" 
+	TEXT="Hash原理"/>
+<node FOLDED="true" ID="ID_1951074616" 
+	TEXT="算法">
+<node ID="ID_825620177" 
+	TEXT="堆排序"/>
+</node>
 </node>
 </node>
 </node>
