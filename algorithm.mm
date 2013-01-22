@@ -30,8 +30,7 @@
       改进2,用一个标记位记录最后一次交换的位置，如果标记=0,直接退出
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1640225444" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -46,8 +45,7 @@
       越重的沉的越快，如果初始状态都在同一水平线上，那么就会发现从上到下依次按照轻重排序。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_819297558" 
 	TEXT="流程"/>
@@ -69,8 +67,7 @@
       所有的记录插入完毕
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1508691566" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -82,8 +79,7 @@
       每次将一个待排序的记录，从后往前插入到一个有序队列中
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_607942025" 
 	TEXT="流程">
@@ -123,8 +119,7 @@
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_570819606" 
@@ -149,8 +144,7 @@
       直到整个数组变成有序区
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_316915354" 
 	TEXT="流程"/>
@@ -172,8 +166,7 @@
       关键是对间隔序列的选取
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1643428571" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -197,7 +190,7 @@
       <span http-equiv="content-type" style="font-variant: normal; font-style: normal; font-size: 18px; white-space: normal; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255); float: none; text-transform: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal" content="text/html; charset=utf-8"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">希尔排序通过将比较的全部元素分为几个区域来提升</font></span><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a title="插入排序" style="font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F">插入排序</a></font><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 18px; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">的性能。这样可以让一个元素可以一次性地朝最终位置前进一大步。然后算法再取越来越小的步长进行排序，算法的最后一步就是普通的</font></span><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a title="插入排序" style="font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F">插入排序</a></font><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 18px; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">，但是到了这步，需排序的数据几乎是已排好的了（此时</font></span><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a title="插入排序" style="font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F">插入排序</a></font><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 18px; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">较快）。</font></span>
     </p>
     <p>
-      <img src="img/shellsort-example.png" />
+      <img src="img/shellsort-example.png"/>
     </p>
   </body>
 </html></richcontent>
@@ -236,7 +229,7 @@
       步长的选择是希尔排序的重要部分。只要最终步长为1任何步长序列都可以工作。算法最开始以一定的步长进行排序。然后会继续以一定步长进行排序，最终算法以步长为1进行排序。当步长为1时，算法变为插入排序，这就保证了数据一定会被排序。
     </p>
     <p style="font-variant: normal; margin-bottom: 0; font-style: normal; font-size: 18px; white-space: normal; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255); margin-top: 0; text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0px; font-weight: normal; margin-left: 0px">
-      Donald Shell 最初建议步长选择为<img alt="\frac{n}{2}" style="margin-right: 0px; margin-top: 0px; margin-left: 0px; margin-bottom: 0px; border: none" class="tex" src="http://upload.wikimedia.org/math/b/5/e/b5e802c9e84df78d4ec77e67144becaf.png" />并且对步长取半直到步长达到 1。虽然这样取可以比<img alt="\mathcal{O}(n^2)" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; margin-bottom: 0px; border: none" class="tex" src="http://upload.wikimedia.org/math/0/4/a/04a727b4c56b63e9130a2e8a42eb9038.png" />类的算法（插入排序）更好，但这样仍然有减少平均时间和最差时间的余地。 可能<b>希尔排序</b>最重要的地方在于当用较小步长排序后，以前用的较大步长仍然是有序的。比如，如果一个数列以步长5进行了排序然后再以步长3进行排序，那么该数列不仅是以步长3有序，而且是以步长5有序。如果不是这样，那么算法在<font color="rgb(11, 0, 128)"><a title="迭代" style="background-repeat: repeat; background-position: initial initial; background-image: none; color: rgb(11, 0, 128); text-decoration: none" href="http://zh.wikipedia.org/wiki/%E8%BF%AD%E4%BB%A3">迭代</a></font>过程中会打乱以前的顺序，那就不会以如此短的时间完成排序了。
+      Donald Shell 最初建议步长选择为<img alt="\frac{n}{2}" style="margin-right: 0px; margin-top: 0px; margin-left: 0px; margin-bottom: 0px; border: none" class="tex" src="http://upload.wikimedia.org/math/b/5/e/b5e802c9e84df78d4ec77e67144becaf.png"/>并且对步长取半直到步长达到 1。虽然这样取可以比<img alt="\mathcal{O}(n^2)" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; margin-bottom: 0px; border: none" class="tex" src="http://upload.wikimedia.org/math/0/4/a/04a727b4c56b63e9130a2e8a42eb9038.png"/>类的算法（插入排序）更好，但这样仍然有减少平均时间和最差时间的余地。 可能<b>希尔排序</b>最重要的地方在于当用较小步长排序后，以前用的较大步长仍然是有序的。比如，如果一个数列以步长5进行了排序然后再以步长3进行排序，那么该数列不仅是以步长3有序，而且是以步长5有序。如果不是这样，那么算法在<font color="rgb(11, 0, 128)"><a title="迭代" style="background-repeat: repeat; background-position: initial initial; background-image: none; color: rgb(11, 0, 128); text-decoration: none" href="http://zh.wikipedia.org/wiki/%E8%BF%AD%E4%BB%A3">迭代</a></font>过程中会打乱以前的顺序，那就不会以如此短的时间完成排序了。
     </p>
     <table style="font-variant: normal; margin-bottom: 0; font-style: normal; font-size: 18px; white-space: normal; word-spacing: 0px; font-family: sans-serif; background-color: rgb(249, 249, 249); margin-top: 0; text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; margin-right: 0px; font-weight: normal; margin-left: 0px; border: 1px solid rgb(170, 170, 170)" class="wikitable sortable jquery-tablesorter">
       <tr>
@@ -249,34 +242,34 @@
       </tr>
       <tr align="center">
         <td style="padding-top: 0; padding-right: 0; padding-left: 0; border: 1px solid rgb(170, 170, 170); padding-bottom: 0" nowrap="nowrap">
-          <img alt="{n/2^i}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/d/6/0/d6082eb7bf3f36a0f7fb7a5959d3381c.png" />
+          <img alt="{n/2^i}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/d/6/0/d6082eb7bf3f36a0f7fb7a5959d3381c.png"/>
           
         </td>
         <td style="padding-top: 0; padding-right: 0; padding-left: 0; border: 1px solid rgb(170, 170, 170); padding-bottom: 0">
-          <img alt="\mathcal{O}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/1/d/f/1dff52add43c7f855eaaf17cc31cf689.png" />
-          <img alt="(n^2)" style="border: none" class="tex" src="http://upload.wikimedia.org/math/4/5/6/4565dcd2927672834f23a3e2a08955ca.png" />
+          <img alt="\mathcal{O}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/1/d/f/1dff52add43c7f855eaaf17cc31cf689.png"/>
+          <img alt="(n^2)" style="border: none" class="tex" src="http://upload.wikimedia.org/math/4/5/6/4565dcd2927672834f23a3e2a08955ca.png"/>
           
         </td>
       </tr>
       <tr align="center">
         <td style="padding-top: 0; padding-right: 0; padding-left: 0; border: 1px solid rgb(170, 170, 170); padding-bottom: 0" nowrap="nowrap">
-          <img alt="2^k - 1" style="border: none" class="tex" src="http://upload.wikimedia.org/math/8/0/d/80d94b5dd6c72527fcdbc7c731f20bb4.png" />
+          <img alt="2^k - 1" style="border: none" class="tex" src="http://upload.wikimedia.org/math/8/0/d/80d94b5dd6c72527fcdbc7c731f20bb4.png"/>
           
         </td>
         <td style="padding-top: 0; padding-right: 0; padding-left: 0; border: 1px solid rgb(170, 170, 170); padding-bottom: 0">
-          <img alt="\mathcal{O}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/1/d/f/1dff52add43c7f855eaaf17cc31cf689.png" />
-          <img alt="(n^{3/2})" style="border: none" class="tex" src="http://upload.wikimedia.org/math/4/e/e/4ee66614af2f6704406d7d384f167f74.png" />
+          <img alt="\mathcal{O}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/1/d/f/1dff52add43c7f855eaaf17cc31cf689.png"/>
+          <img alt="(n^{3/2})" style="border: none" class="tex" src="http://upload.wikimedia.org/math/4/e/e/4ee66614af2f6704406d7d384f167f74.png"/>
           
         </td>
       </tr>
       <tr align="center">
         <td style="padding-top: 0; padding-right: 0; padding-left: 0; border: 1px solid rgb(170, 170, 170); padding-bottom: 0" nowrap="nowrap">
-          <img alt="2^i 3^j" style="border: none" class="tex" src="http://upload.wikimedia.org/math/5/7/e/57eeffd39dc0d31811e675cf718efb46.png" />
+          <img alt="2^i 3^j" style="border: none" class="tex" src="http://upload.wikimedia.org/math/5/7/e/57eeffd39dc0d31811e675cf718efb46.png"/>
           
         </td>
         <td style="padding-top: 0; padding-right: 0; padding-left: 0; border: 1px solid rgb(170, 170, 170); padding-bottom: 0">
-          <img alt="\mathcal{O}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/1/d/f/1dff52add43c7f855eaaf17cc31cf689.png" />
-          <img alt="( n\log^2 n )" style="border: none" class="tex" src="http://upload.wikimedia.org/math/4/6/1/4615aae29ad6f3f4aeb7a99a6ac9c05c.png" />
+          <img alt="\mathcal{O}" style="border: none" class="tex" src="http://upload.wikimedia.org/math/1/d/f/1dff52add43c7f855eaaf17cc31cf689.png"/>
+          <img alt="( n\log^2 n )" style="border: none" class="tex" src="http://upload.wikimedia.org/math/4/6/1/4615aae29ad6f3f4aeb7a99a6ac9c05c.png"/>
           
         </td>
       </tr>
@@ -358,8 +351,7 @@
       坑的右边大于基准值，此时将该值放到坑中，然后对坑的左边和右边递归的执行上述过程。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_393041243" LINK="http://blog.csdn.net/morewindows/article/details/6684558" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -402,8 +394,7 @@
       通过递归让左右序列有序，然后合并
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1178912907" 
 	TEXT="是建立在归并操作上的一种排序算法"/>
 <node ID="ID_1097182157" 
@@ -451,8 +442,7 @@
       于是整个堆排序就是不断构建大顶堆，然后将顶部数据跟堆底最后一个叶子节点交换,去除最后一个叶子节点，再重新构建大顶堆的过程。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1322722175" 
 	TEXT="堆的概念">
 <richcontent TYPE="NOTE"><html>
@@ -540,6 +530,50 @@
 </node>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1989982026" 
+	TEXT="RadixSort基数排序法(分配式排序)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      时间复杂度nlog(r)m
+    </p>
+    <p>
+      其中r是基数,m是堆数
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1650117500" 
+	TEXT="基本思想">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 17px; white-space: normal; font-family: serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; display: inline !important; text-indent: 0px; line-height: normal; color: rgb(0, 0, 0); letter-spacing: normal; text-align: left; font-weight: normal; font-variant: normal; font-style: normal"><font size="17px" face="serif" color="rgb(0, 0, 0)">「基數排序法」</font></span>属于 <span content="text/html; charset=utf-8" http-equiv="content-type" style="white-space: normal; font-size: 17px; word-spacing: 0px; font-family: serif; background-color: rgb(255, 255, 255); float: none; text-transform: none; text-indent: 0px; display: inline !important; line-height: normal; color: rgb(0, 0, 0); letter-spacing: normal; text-align: left; font-weight: normal; font-variant: normal; font-style: normal"><font size="17px" face="serif" color="rgb(0, 0, 0)">「分配式排序」</font></span>
+    </p>
+    <p>
+      又称桶子法,顾名思义,透过键值的部分信息,将要排序的元素分配到某些桶中,藉以达到
+    </p>
+    <p>
+      排序的目的,属于稳定性排序
+    </p>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); float: none; text-transform: none; text-indent: 30px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="arial, 宋体, sans-serif" color="rgb(0, 0, 0)">LSD（Least significant digital）或MSD（Most significant digital），LSD的排序方式由键值的最右边开始，而MSD则相反，由键值的最左边开始。</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_701861801" LINK="http://caterpillar.onlyfun.net/Gossip/AlgorithmGossip/RadixSort.htm" 
+	TEXT="林信良:基数排序"/>
+<node ID="ID_1903628136" LINK="http://blog.csdn.net/feixiaoxing/article/details/6876831" 
+	TEXT="一步一步写算法"/>
+</node>
 </node>
 <node ID="ID_1850736590" POSITION="right" 
 	TEXT="二叉树和树"/>
@@ -548,6 +582,8 @@
 <icon BUILTIN="gohome"/>
 <node ID="ID_1762691543" LINK="http://blog.csdn.net/morewindows/article/category/859207" 
 	TEXT="白话经典算法系列"/>
+<node ID="ID_1579814017" LINK="http://blog.csdn.net/feixiaoxing/article/category/878822" 
+	TEXT="一步一步写算法"/>
 </node>
 <node FOLDED="true" ID="ID_962000592" POSITION="left" 
 	TEXT="english">

@@ -13,6 +13,16 @@
 <node ID="ID_265284021" LINK="http://freemind.pluskid.org/" 
 	TEXT="FreeMind 机器学习,程序设计"/>
 </node>
+<node FOLDED="true" ID="ID_1369859239" 
+	TEXT="computer">
+<node ID="ID_1548976222" LINK="http://caterpillar.onlyfun.net/" 
+	TEXT="台湾人士 林信良 的个人网站"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1642088805" POSITION="right" 
+	TEXT="技术论坛">
+<node ID="ID_556238852" LINK="http://www.javaworld.com.tw/jute/" 
+	TEXT="java world"/>
 </node>
 <node FOLDED="true" ID="ID_1260134328" POSITION="right" 
 	TEXT="课程">
