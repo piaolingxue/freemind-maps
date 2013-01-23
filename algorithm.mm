@@ -544,8 +544,7 @@
       其中r是基数,m是堆数
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1650117500" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -566,14 +565,24 @@
       <span content="text/html; charset=utf-8" http-equiv="content-type" style="white-space: normal; font-size: 14px; word-spacing: 0px; font-family: arial, 宋体, sans-serif; background-color: rgb(255, 255, 255); float: none; text-transform: none; text-indent: 30px; display: inline !important; line-height: 24px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="arial, 宋体, sans-serif" color="rgb(0, 0, 0)">LSD（Least significant digital）或MSD（Most significant digital），LSD的排序方式由键值的最右边开始，而MSD则相反，由键值的最左边开始。</font></span>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_701861801" LINK="http://caterpillar.onlyfun.net/Gossip/AlgorithmGossip/RadixSort.htm" 
 	TEXT="林信良:基数排序"/>
 <node ID="ID_1903628136" LINK="http://blog.csdn.net/feixiaoxing/article/details/6876831" 
 	TEXT="一步一步写算法"/>
 </node>
+</node>
+<node FOLDED="true" ID="ID_151594082" POSITION="right" 
+	TEXT="stack">
+<node ID="ID_932003917" 
+	TEXT="括号匹配检验 bracket match{[()]}"/>
+<node ID="ID_1522402841" 
+	TEXT="背包问题(Knapsack Problem)求解"/>
+<node ID="ID_1547717015" 
+	TEXT="表达式求值(expression evaluation)"/>
+<node ID="ID_1446295629" 
+	TEXT=""/>
 </node>
 <node ID="ID_1850736590" POSITION="right" 
 	TEXT="二叉树和树"/>
@@ -591,6 +600,12 @@
 	TEXT="conquer -&gt; 制服"/>
 <node ID="ID_1437260018" 
 	TEXT="reversed -&gt; 逆"/>
+<node ID="ID_1794757501" 
+	TEXT="bracket -&gt; 括号"/>
+<node ID="ID_1726909481" 
+	TEXT="knapstack [&apos;næpsæk] -&gt; 背包"/>
+<node ID="ID_529697846" 
+	TEXT="evaluation -&gt; 求值"/>
 </node>
 </node>
 </map>
