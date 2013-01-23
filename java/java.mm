@@ -7,6 +7,26 @@
 	TEXT="java">
 <node FOLDED="true" ID="ID_583145166" POSITION="right" 
 	TEXT="基础">
+<node FOLDED="true" ID="ID_427303183" 
+	TEXT="基本操作符">
+<node FOLDED="true" ID="ID_1021603858" 
+	TEXT="位运算">
+<node ID="ID_1059033744" 
+	TEXT="~位非"/>
+<node ID="ID_1758315266" 
+	TEXT="| 位或"/>
+<node ID="ID_738175555" 
+	TEXT="&amp; 位与"/>
+<node ID="ID_663725280" 
+	TEXT="^ 位异或"/>
+<node ID="ID_1103735422" 
+	TEXT="左移 &lt;&lt;"/>
+<node ID="ID_600271303" 
+	TEXT="右移 &gt;&gt;"/>
+<node ID="ID_1774416243" 
+	TEXT="无符号右移 &gt;&gt;&gt;"/>
+</node>
+</node>
 <node FOLDED="true" ID="ID_57314945" 
 	TEXT="多线程">
 <node ID="ID_1792323021" 
@@ -25,8 +45,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1809648994" 
 	TEXT="每个进程都有一个主线程"/>
@@ -46,8 +65,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node FOLDED="true" ID="ID_1522638497" 
 	TEXT="线程的状态">
@@ -79,8 +97,7 @@
       该线程重新进入线程队列等待cpu资源
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1697122217" 
 	TEXT="wait操作">
@@ -96,8 +113,7 @@
       必须其他线程执行nofity方法通知它
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_676358833" 
 	TEXT="阻塞">
@@ -116,8 +132,7 @@
       只有引起阻塞的原因消除后，才能进入就绪状态
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node ID="ID_734700252" 
