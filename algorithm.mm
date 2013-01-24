@@ -5,8 +5,11 @@
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
 <node ID="ID_634763193" 
 	TEXT="algorithm">
+<edge STYLE="sharp_bezier"/>
+<hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
 <node FOLDED="true" ID="ID_1101574107" POSITION="right" 
 	TEXT="sort">
+<edge STYLE="sharp_bezier"/>
 <node FOLDED="true" ID="ID_1822773754" 
 	TEXT="冒泡排序O(n2)">
 <richcontent TYPE="NOTE"><html>
@@ -30,7 +33,9 @@
       改进2,用一个标记位记录最后一次交换的位置，如果标记=0,直接退出
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1640225444" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -45,10 +50,14 @@
       越重的沉的越快，如果初始状态都在同一水平线上，那么就会发现从上到下依次按照轻重排序。
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_819297558" 
-	TEXT="流程"/>
+	TEXT="流程">
+<edge STYLE="sharp_bezier"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_370559002" 
 	TEXT="插入排序O(n2)">
@@ -67,7 +76,9 @@
       所有的记录插入完毕
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1508691566" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -79,7 +90,9 @@
       每次将一个待排序的记录，从后往前插入到一个有序队列中
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_607942025" 
 	TEXT="流程">
@@ -119,11 +132,14 @@
       }
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 </node>
 </node>
 <node FOLDED="true" ID="ID_570819606" 
 	TEXT="选择排序">
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1755159304" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -144,10 +160,14 @@
       直到整个数组变成有序区
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_316915354" 
-	TEXT="流程"/>
+	TEXT="流程">
+<edge STYLE="sharp_bezier"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1811120864" 
 	TEXT="ShellSort(希尔排序)">
@@ -166,7 +186,9 @@
       关键是对间隔序列的选取
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1643428571" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -187,13 +209,15 @@
       
     </p>
     <p>
-      <span http-equiv="content-type" style="font-variant: normal; font-style: normal; font-size: 18px; white-space: normal; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255); float: none; text-transform: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal" content="text/html; charset=utf-8"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">希尔排序通过将比较的全部元素分为几个区域来提升</font></span><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a title="插入排序" style="font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F">插入排序</a></font><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 18px; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">的性能。这样可以让一个元素可以一次性地朝最终位置前进一大步。然后算法再取越来越小的步长进行排序，算法的最后一步就是普通的</font></span><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a title="插入排序" style="font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F">插入排序</a></font><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 18px; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">，但是到了这步，需排序的数据几乎是已排好的了（此时</font></span><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a title="插入排序" style="font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F">插入排序</a></font><span style="font-variant: normal; font-style: normal; white-space: normal; font-size: 18px; font-family: sans-serif; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none; text-indent: 0px; display: inline !important; line-height: 27.58333396911621px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal"><font color="rgb(0, 0, 0)" size="18px" face="sans-serif">较快）。</font></span>
+      <font color="rgb(0, 0, 0)" face="sans-serif">希尔排序通过将比较的全部元素分为几个区域来提升</font><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a style="text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; color: rgb(11, 0, 128); text-decoration: none; letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255)" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F" title="插入排序">插入排序</a></font><font color="rgb(0, 0, 0)" face="sans-serif">的性能。这样可以让一个元素可以一次性地朝最终位置前进一大步。然后算法再取越来越小的步长进行排序，算法的最后一步就是普通的</font><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a style="text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255)" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F" title="插入排序">插入排序</a></font><font color="rgb(0, 0, 0)" face="sans-serif">，但是到了这步，需排序的数据几乎是已排好的了（此时</font><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a style="text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255)" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F" title="插入排序">插入排序</a></font><font color="rgb(0, 0, 0)" face="sans-serif">较快）。</font>
     </p>
     <p>
-      <img src="img/shellsort-example.png"/>
+      <img src="img/shellsort-example.png" />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_323906670" 
 	TEXT="流程">
@@ -214,10 +238,13 @@
       </li>
     </ol>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 </node>
 <node FOLDED="true" ID="ID_1844938949" 
 	TEXT="关键">
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_467164740" 
 	TEXT="步长(gap)序列的选择">
 <richcontent TYPE="NOTE"><html>
@@ -297,6 +324,7 @@
 </node>
 <node FOLDED="true" ID="ID_1807933296" 
 	TEXT="优缺点">
+<edge STYLE="sharp_bezier"/>
 <node FOLDED="true" ID="ID_1870240347" 
 	TEXT="优点">
 <richcontent TYPE="NOTE"><html>
@@ -317,6 +345,7 @@
 </node>
 <node FOLDED="true" ID="ID_552637301" 
 	TEXT="参考">
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_187239443" LINK="http://en.wikipedia.org/wiki/Shellsort" 
 	TEXT="wiki"/>
 <node ID="ID_1930238886" LINK="http://blog.csdn.net/morewindows/article/details/6668714" 
@@ -325,6 +354,7 @@
 </node>
 <node FOLDED="true" ID="ID_1914620554" 
 	TEXT="先进排序算法">
+<edge STYLE="sharp_bezier"/>
 <node FOLDED="true" ID="ID_333137376" 
 	TEXT="QuickSort">
 <richcontent TYPE="NOTE"><html>
@@ -351,7 +381,9 @@
       坑的右边大于基准值，此时将该值放到坑中，然后对坑的左边和右边递归的执行上述过程。
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_393041243" LINK="http://blog.csdn.net/morewindows/article/details/6684558" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -394,7 +426,9 @@
       通过递归让左右序列有序，然后合并
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1178912907" 
 	TEXT="是建立在归并操作上的一种排序算法"/>
 <node ID="ID_1097182157" 
@@ -442,7 +476,9 @@
       于是整个堆排序就是不断构建大顶堆，然后将顶部数据跟堆底最后一个叶子节点交换,去除最后一个叶子节点，再重新构建大顶堆的过程。
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1322722175" 
 	TEXT="堆的概念">
 <richcontent TYPE="NOTE"><html>
@@ -544,7 +580,9 @@
       其中r是基数,m是堆数
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_1650117500" 
 	TEXT="基本思想">
 <richcontent TYPE="NOTE"><html>
@@ -575,37 +613,134 @@
 </node>
 <node FOLDED="true" ID="ID_151594082" POSITION="right" 
 	TEXT="stack">
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_932003917" 
-	TEXT="括号匹配检验 bracket match{[()]}"/>
+	TEXT="括号匹配检验 bracket match{[()]}">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node ID="ID_1522402841" 
-	TEXT="背包问题(Knapsack Problem)求解"/>
-<node ID="ID_1547717015" 
-	TEXT="表达式求值(expression evaluation)"/>
-<node ID="ID_1446295629" 
+	TEXT="背包问题(Knapsack Problem)求解">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node FOLDED="true" ID="ID_1547717015" 
+	TEXT="表达式求值(expression evaluation)">
+<edge STYLE="sharp_bezier"/>
+<node FOLDED="true" ID="ID_109529396" 
+	TEXT="表达式的组成">
+<edge STYLE="sharp_bezier"/>
+<node ID="ID_552021094" 
+	TEXT="Operand 操作数">
+<edge STYLE="sharp_bezier"/>
+<arrowlink COLOR="#6b2929" DESTINATION="ID_409748615" ENDARROW="None" ENDINCLINATION="22;0;" ID="Arrow_ID_1767089658" STARTARROW="None" STARTINCLINATION="22;0;"/>
+</node>
+<node ID="ID_409748615" 
+	TEXT="Operator 操作符">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node ID="ID_129801119" 
+	TEXT="Delimiter 定界符">
+<edge STYLE="sharp_bezier"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_254520685" 
+	TEXT="算符(OP)间的优先关系">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      这里的算符包括Operand,Operator
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1314297907">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="img/20130004_102112.jpg" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1349639449" 
+	TEXT="算法流程">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1725036587" 
 	TEXT=""/>
 </node>
+</node>
+<node ID="ID_1446295629" 
+	TEXT="">
+<edge STYLE="sharp_bezier"/>
+</node>
+</node>
 <node ID="ID_1850736590" POSITION="right" 
-	TEXT="二叉树和树"/>
+	TEXT="二叉树和树">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node FOLDED="true" ID="ID_1282792139" POSITION="right" 
 	TEXT="资料">
+<edge STYLE="sharp_bezier"/>
 <icon BUILTIN="gohome"/>
 <node ID="ID_1762691543" LINK="http://blog.csdn.net/morewindows/article/category/859207" 
-	TEXT="白话经典算法系列"/>
+	TEXT="白话经典算法系列">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node ID="ID_1579814017" LINK="http://blog.csdn.net/feixiaoxing/article/category/878822" 
-	TEXT="一步一步写算法"/>
+	TEXT="一步一步写算法">
+<edge STYLE="sharp_bezier"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1207186790" POSITION="left" 
+	TEXT="tools">
+<node ID="ID_1810722238" LINK="http://www.yworks.com/en/products_download.php" 
+	TEXT="yed 话流程图的工具"/>
 </node>
 <node FOLDED="true" ID="ID_962000592" POSITION="left" 
 	TEXT="english">
+<edge STYLE="sharp_bezier"/>
 <node ID="ID_805989636" 
-	TEXT="conquer -&gt; 制服"/>
+	TEXT="conquer -&gt; 制服">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node ID="ID_1437260018" 
-	TEXT="reversed -&gt; 逆"/>
+	TEXT="reversed -&gt; 逆">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node ID="ID_1794757501" 
-	TEXT="bracket -&gt; 括号"/>
+	TEXT="bracket -&gt; 括号">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node ID="ID_1726909481" 
-	TEXT="knapstack [&apos;næpsæk] -&gt; 背包"/>
+	TEXT="knapstack [&apos;næpsæk] -&gt; 背包">
+<edge STYLE="sharp_bezier"/>
+</node>
 <node ID="ID_529697846" 
-	TEXT="evaluation -&gt; 求值"/>
+	TEXT="evaluation -&gt; 求值">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node ID="ID_143488153" 
+	TEXT="operand [,ɑpə&apos;rænd] -&gt; 操作数">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node ID="ID_1821376422" STYLE="fork" 
+	TEXT="delimiter [dɪ&apos;lɪmɪtɚ] -&gt; 定界符，界限">
+<edge STYLE="sharp_bezier"/>
+</node>
+<node ID="ID_891820922" 
+	TEXT="precede [prɪ&apos;sid] -&gt; 领先,优先"/>
 </node>
 </node>
 </map>

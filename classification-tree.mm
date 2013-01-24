@@ -406,25 +406,41 @@
 	TEXT="影音电器 66">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" ID="ID_681039280" 
-	TEXT="液晶电视 67"/>
+	TEXT="液晶电视 67">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_85076048" 
-	TEXT="等离子电视 68"/>
+	TEXT="等离子电视 68">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_1752211123" 
 	TEXT="家庭影院|家庭影院套装 69"/>
 <node COLOR="#111111" ID="ID_1669674289" 
-	TEXT="音响|音响设备|迷你组合音响|av音箱|hifi音箱|音响周边|音箱功放|音箱配件 70"/>
+	TEXT="音响|音响设备|迷你组合音响|av音箱|hifi音箱|音响周边|音箱功放|音箱配件 70">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_1448823908" 
-	TEXT="硬盘播放器 71"/>
+	TEXT="硬盘播放器 71">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_448723837" 
 	TEXT="影碟机 72"/>
 <node COLOR="#111111" ID="ID_490871068" 
-	TEXT="DVD播放机 73"/>
+	TEXT="DVD播放机 73">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_1229167435" 
-	TEXT="蓝光|蓝光播放机 74"/>
+	TEXT="蓝光|蓝光播放机 74">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_413634012" 
-	TEXT="VCD播放机 75"/>
+	TEXT="VCD播放机 75">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_1863039387" 
-	TEXT="高清播放器|无线高清 76"/>
+	TEXT="高清播放器|无线高清 76">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 <node COLOR="#111111" ID="ID_441365375" 
 	TEXT="背投电视 760"/>
 <node COLOR="#111111" ID="ID_1521051077" 
@@ -437,10 +453,25 @@
 	TEXT="CD播放器 764"/>
 <node COLOR="#111111" ID="ID_790044408" 
 	TEXT="麦克|麦克风 765"/>
+<node BACKGROUND_COLOR="#e01815" COLOR="#111111" ID="ID_1003990562" 
+	TEXT="机顶盒 ---- （暂无)">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 <node COLOR="#990000" ID="ID_304753078" 
 	TEXT="五金电器">
 <font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" FOLDED="true" ID="ID_1904800838" 
+	TEXT="汽车/汽车用品">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" FOLDED="true" ID="ID_673448570" 
+	TEXT="汽车电子">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" ID="ID_1890344129" 
+	TEXT="功放"/>
 </node>
 </node>
 <node COLOR="#00b439" FOLDED="true" ID="ID_1699633978" 
