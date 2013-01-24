@@ -6,7 +6,6 @@
 <node ID="ID_634763193" 
 	TEXT="algorithm">
 <edge STYLE="sharp_bezier"/>
-<hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
 <node FOLDED="true" ID="ID_1101574107" POSITION="right" 
 	TEXT="sort">
 <edge STYLE="sharp_bezier"/>
@@ -33,8 +32,7 @@
       改进2,用一个标记位记录最后一次交换的位置，如果标记=0,直接退出
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_1640225444" 
 	TEXT="基本思想">
@@ -50,8 +48,7 @@
       越重的沉的越快，如果初始状态都在同一水平线上，那么就会发现从上到下依次按照轻重排序。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_819297558" 
@@ -76,8 +73,7 @@
       所有的记录插入完毕
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_1508691566" 
 	TEXT="基本思想">
@@ -90,8 +86,7 @@
       每次将一个待排序的记录，从后往前插入到一个有序队列中
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_607942025" 
@@ -132,8 +127,7 @@
       }
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 </node>
 </node>
@@ -160,8 +154,7 @@
       直到整个数组变成有序区
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_316915354" 
@@ -186,8 +179,7 @@
       关键是对间隔序列的选取
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_1643428571" 
 	TEXT="基本思想">
@@ -212,11 +204,10 @@
       <font color="rgb(0, 0, 0)" face="sans-serif">希尔排序通过将比较的全部元素分为几个区域来提升</font><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a style="text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; color: rgb(11, 0, 128); text-decoration: none; letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255)" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F" title="插入排序">插入排序</a></font><font color="rgb(0, 0, 0)" face="sans-serif">的性能。这样可以让一个元素可以一次性地朝最终位置前进一大步。然后算法再取越来越小的步长进行排序，算法的最后一步就是普通的</font><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a style="text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255)" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F" title="插入排序">插入排序</a></font><font color="rgb(0, 0, 0)" face="sans-serif">，但是到了这步，需排序的数据几乎是已排好的了（此时</font><font color="rgb(11, 0, 128)" size="18px" face="sans-serif"><a style="text-transform: none; text-indent: 0px; line-height: 27.58333396911621px; text-decoration: none; color: rgb(11, 0, 128); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; background-repeat: repeat; font-style: normal; background-position: initial initial; white-space: normal; font-size: 18px; background-image: none; word-spacing: 0px; font-family: sans-serif; background-color: rgb(255, 255, 255)" href="http://zh.wikipedia.org/wiki/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F" title="插入排序">插入排序</a></font><font color="rgb(0, 0, 0)" face="sans-serif">较快）。</font>
     </p>
     <p>
-      <img src="img/shellsort-example.png" />
+      <img src="img/shellsort-example.png"/>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 </node>
 <node ID="ID_323906670" 
@@ -238,8 +229,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 </node>
 <node FOLDED="true" ID="ID_1844938949" 
@@ -381,8 +371,7 @@
       坑的右边大于基准值，此时将该值放到坑中，然后对坑的左边和右边递归的执行上述过程。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_393041243" LINK="http://blog.csdn.net/morewindows/article/details/6684558" 
 	TEXT="基本思想">
@@ -426,8 +415,7 @@
       通过递归让左右序列有序，然后合并
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_1178912907" 
 	TEXT="是建立在归并操作上的一种排序算法"/>
@@ -476,8 +464,7 @@
       于是整个堆排序就是不断构建大顶堆，然后将顶部数据跟堆底最后一个叶子节点交换,去除最后一个叶子节点，再重新构建大顶堆的过程。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_1322722175" 
 	TEXT="堆的概念">
@@ -580,8 +567,7 @@
       其中r是基数,m是堆数
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier"/>
 <node ID="ID_1650117500" 
 	TEXT="基本思想">
@@ -653,18 +639,16 @@
       这里的算符包括Operand,Operator
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1314297907">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="img/20130004_102112.jpg" />
+    <img src="img/20130004_102112.jpg"/>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1349639449" 
@@ -675,10 +659,69 @@
   </head>
   <body>
   </body>
+</html></richcontent>
+<node ID="ID_1725036587" 
+	TEXT="优先级比较">
+<icon BUILTIN="full-1"/>
+</node>
+<node ID="ID_461632132" 
+	TEXT="后缀表达式">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      将中缀表达式翻译成后缀表达式
+    </p>
+    <ol>
+      <li>
+        操作符栈 push '#'
+      </li>
+      <li>
+        扫描字符串,
+      </li>
+      <li>
+        如果是数字直接进入后缀表达式
+      </li>
+      <li>
+        如果是左括号,直接进栈
+      </li>
+      <li>
+        如果是右括号,弹出栈中到最近的左括号之间的所有操作符到后缀表达式
+      </li>
+      <li>
+        如果当前操作符大于栈顶操作符,弹出所有小于当前操作符的进入后缀表达式
+      </li>
+      <li>
+        如果当前操作符不为'#',直接入栈,继续进入2
+      </li>
+    </ol>
+    <p>
+      扫描后缀表达式求解
+    </p>
+    <ol>
+      <li>
+        扫描后缀表达式
+      </li>
+      <li>
+        如果为数字入栈
+      </li>
+      <li>
+        如果为操作符,从栈弹出两个数字,根据操作符运算后将结果入栈
+      </li>
+      <li>
+        继续从1开始执行.
+      </li>
+      <li>
+        最后栈内数字即位结果
+      </li>
+    </ol>
+  </body>
 </html>
 </richcontent>
-<node ID="ID_1725036587" 
-	TEXT=""/>
+<icon BUILTIN="full-2"/>
+</node>
 </node>
 </node>
 <node ID="ID_1446295629" 
@@ -686,6 +729,8 @@
 <edge STYLE="sharp_bezier"/>
 </node>
 </node>
+<node ID="ID_1105128510" POSITION="right" 
+	TEXT="queue"/>
 <node ID="ID_1850736590" POSITION="right" 
 	TEXT="二叉树和树">
 <edge STYLE="sharp_bezier"/>
@@ -741,6 +786,10 @@
 </node>
 <node ID="ID_891820922" 
 	TEXT="precede [prɪ&apos;sid] -&gt; 领先,优先"/>
+<node ID="ID_624094749" 
+	TEXT="Postfix Expression [post&apos;fɪks] -&gt; 后缀表达式">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 </node>
 </map>
