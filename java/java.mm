@@ -140,10 +140,15 @@
 </node>
 </node>
 </node>
+<node ID="ID_588546276" POSITION="right" 
+	TEXT=""/>
 <node ID="ID_1160070456" LINK="java设计模式.mm" POSITION="right" 
 	TEXT="设计模式"/>
-<node ID="ID_434836328" POSITION="right" 
-	TEXT=""/>
+<node FOLDED="true" ID="ID_434836328" POSITION="right" 
+	TEXT="资料">
+<node ID="ID_58452046" LINK="http://ifeve.com/" 
+	TEXT="并发编程网"/>
+</node>
 <node FOLDED="true" ID="ID_1711381380" POSITION="left" 
 	TEXT="开源框架">
 <node ID="ID_749723210" LINK="apache-struts.mm" 
