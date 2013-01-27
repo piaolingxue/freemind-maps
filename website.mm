@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="0.9.0">
+<map version="1.0.0">
 <!-- This file is saved using a hacked version of FreeMind. visit: http://freemind-mmx.sourceforge.net -->
 <!-- Orignal FreeMind, can download from http://freemind.sourceforge.net -->
 <!-- This .mm file is CVS/SVN friendly, some atts are saved in .mmx file. (from ossxp.com) -->
@@ -36,8 +36,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="flag"/>
 </node>
 <node ID="ID_1901803430" LINK="https://www.dnspod.cn/" 
@@ -48,6 +47,14 @@
 	TEXT="my websites">
 <node ID="ID_1055940149" LINK="coolb.com.cn.mm" 
 	TEXT="coolb.com.cn"/>
+</node>
+<node FOLDED="true" ID="ID_236169348" POSITION="right" 
+	TEXT="方向:">
+<node FOLDED="true" ID="ID_203981859" 
+	TEXT="母婴市场">
+<node ID="ID_1025955831" LINK="http://anbbaby.taobao.com/" 
+	TEXT="早安宝贝母婴专营店"/>
+</node>
 </node>
 </node>
 </map>

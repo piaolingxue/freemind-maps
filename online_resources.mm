@@ -19,6 +19,11 @@
 	TEXT="台湾人士 林信良 的个人网站"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_706083491" POSITION="right" 
+	TEXT="个人博客">
+<node ID="ID_1683429644" LINK="http://www.nonoidea.com/" 
+	TEXT="王淮Harry(前facebook员工) 写&lt;&lt;打造facebook&gt;&gt;的个人博客"/>
+</node>
 <node FOLDED="true" ID="ID_1642088805" POSITION="right" 
 	TEXT="技术论坛">
 <node ID="ID_556238852" LINK="http://www.javaworld.com.tw/jute/" 
