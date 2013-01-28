@@ -142,7 +142,7 @@
 </node>
 <node ID="ID_588546276" POSITION="right" 
 	TEXT=""/>
-<node ID="ID_1160070456" LINK="java设计模式.mm" POSITION="right" 
+<node ID="ID_1160070456" LINK="java_design_patterns.mm" POSITION="right" 
 	TEXT="设计模式"/>
 <node FOLDED="true" ID="ID_434836328" POSITION="right" 
 	TEXT="资料">

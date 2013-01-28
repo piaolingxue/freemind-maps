@@ -286,6 +286,26 @@
 <node ID="ID_791047358" 
 	TEXT="我希望寻求一个更有挑战的环境,更大的平台"/>
 </node>
+<node FOLDED="true" ID="ID_143368090" POSITION="right" 
+	TEXT="有没有什么问题想咨询了解">
+<node ID="ID_612745290" 
+	TEXT="这是一个面试陷阱">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="display: inline !important; text-indent: 0px; line-height: 26px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: left; font-weight: normal; font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; font-family: Arial; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none"><font size="14px" face="Arial" color="rgb(0, 0, 0)">一个对公司丝毫不像了解的人又怎么会为公司的利益而努力工作呢</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="yes"/>
+</node>
+<node ID="ID_1353519704" 
+	TEXT="可以问下公司的企业文化和对员工的重视程度"/>
+</node>
 <node ID="ID_1523186489" POSITION="right" 
 	TEXT="大型分布式云计算开发经验"/>
 <node ID="ID_1145626659" POSITION="right" 
@@ -840,7 +860,143 @@
 <node ID="ID_825620177" 
 	TEXT="堆排序"/>
 </node>
+<node FOLDED="true" ID="ID_938392364" 
+	TEXT="敏捷开发">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      以人为核心，迭代，循序渐进
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_243730231" 
+	TEXT="价值观">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      沟通，简单，反馈，勇气，谦逊
+    </p>
+    <p>
+      尽可能的保持模型的简单
+    </p>
+    <p>
+      拥抱变化 需求时刻在变
+    </p>
+    <p>
+      持续集成
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
+</node>
+<node ID="ID_663691979" 
+	TEXT="类的加载机制(classloader)"/>
+<node FOLDED="true" ID="ID_1022086119" 
+	TEXT="JVM知识">
+<node ID="ID_654399331" 
+	TEXT="JVM原理"/>
+<node ID="ID_1529402657" 
+	TEXT="classloader原理"/>
+</node>
+<node ID="ID_835224396" 
+	TEXT="arraylist与vector区别">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      vector线程安全,arraylist线程不安全
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1994192924" 
+	TEXT="栈和堆的区别"/>
+<node ID="ID_82747010" 
+	TEXT="hash表优缺点">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 10px; white-space: normal; word-spacing: 0px; text-transform: none; line-height: 25px; text-indent: 0px; letter-spacing: normal; text-align: left; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: 14px; padding-bottom: 0px; background-color: rgb(250, 250, 250); font-family: Arial, Helvetica, simsun, u5b8bu4f53; margin-top: 0px; color: rgb(89, 89, 89)">
+       hash表：关键字和存储位置一一对应，一次性就可以找到该关键字的位置。
+    </p>
+    <p style="text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal; padding-bottom: 0px; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none">
+         优点：关键字很容易找到，通过哈希函数就可以直接映射到该关键字的存储位置，即可找到，提供快速的查找和插入操作
+    </p>
+    <p style="text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal; padding-bottom: 0px; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none">
+         缺点：如果关键字很多的话，通过哈希函数映射难免有冲突，所以会影响查找该关键字的效率，最终导致性能下降
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1939408290" 
+	TEXT="两个有序数组且长度均为n，求这两个数组的中位数">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 10px; white-space: normal; word-spacing: 0px; text-transform: none; line-height: 25px; text-indent: 0px; letter-spacing: normal; text-align: left; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: 14px; padding-bottom: 0px; background-color: rgb(250, 250, 250); font-family: Arial, Helvetica, simsun, u5b8bu4f53; margin-top: 0px; color: rgb(89, 89, 89)">
+      <span class="Apple-converted-space"> </span>首先将数组a的最大值与数组b的最小值相比较，如果a的最大值小于b的最小值，那么中位数即为a的末值
+    </p>
+    <p style="text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal; padding-bottom: 0px; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none">
+          首先分别找到a数组的中位数a1和b数组的中位数b1，如果a1&lt;b1则将a1值后半部分与b1值的前半部分，类似的方法递归找到中位数
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1441418993" 
+	TEXT="假设有10亿个数据，找出前10w个数据">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 10px; white-space: normal; word-spacing: 0px; text-transform: none; line-height: 25px; text-indent: 0px; letter-spacing: normal; text-align: left; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: 14px; padding-bottom: 0px; background-color: rgb(250, 250, 250); font-family: Arial, Helvetica, simsun, u5b8bu4f53; margin-top: 0px; color: rgb(89, 89, 89)">
+      我的思路是在美丽的姐姐多次的提示下最终总结出来的.
+    </p>
+    <p style="text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal; padding-bottom: 0px; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none">
+         用堆存放10w个数据，创建个小顶堆，然后再让其他的数据一一与小顶堆的堆顶相比较，如果比堆顶小的话直接pass掉，如果比堆顶大的话，就将堆顶替换掉，然后对自身在堆排序。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_961829684" LINK="http://www.cnblogs.com/liu-jun/archive/2012/04/24/2468664.html" 
+	TEXT="题目1"/>
+<node ID="ID_1457960339" LINK="http://blog.163.com/caipeipei_love@126/blog/static/25966032201121345162/" 
+	TEXT="题目2"/>
+<node ID="ID_944589260" LINK="http://www.59n.net/115626.html" 
+	TEXT="题目3"/>
+</node>
+</node>
+<node ID="ID_1229713882" POSITION="right" 
+	TEXT="你是如何尽快能融入到一个团队当中的？">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      从一个项目开始切入，逐渐学习，逐步深入
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </map>
