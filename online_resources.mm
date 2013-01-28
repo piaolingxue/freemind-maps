@@ -18,6 +18,11 @@
 <node ID="ID_1548976222" LINK="http://caterpillar.onlyfun.net/" 
 	TEXT="台湾人士 林信良 的个人网站"/>
 </node>
+<node FOLDED="true" ID="ID_708585736" 
+	TEXT="operation and maintenance(运维)">
+<node ID="ID_1195456019" LINK="http://www.itkoala.com/" 
+	TEXT="itkoala"/>
+</node>
 </node>
 <node FOLDED="true" ID="ID_706083491" POSITION="right" 
 	TEXT="个人博客">
@@ -35,6 +40,14 @@
 	TEXT="Coursera">
 <node ID="ID_1278553798" LINK="https://www.coursera.org/course/algs4partI" 
 	TEXT="算法课程 开课时间:2.4"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1662767075" POSITION="left" 
+	TEXT="code repos">
+<node FOLDED="true" ID="ID_37152551" 
+	TEXT="github">
+<node ID="ID_905573136" LINK="https://github.com/repositories" 
+	TEXT="github interesting,popular"/>
 </node>
 </node>
 </node>

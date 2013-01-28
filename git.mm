@@ -614,8 +614,7 @@
       git stage(暂存区)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <cloud/>
 <node FOLDED="true" ID="ID_1724943129" 
 	TEXT="一个有趣的实验">
@@ -1533,6 +1532,8 @@
 </html></richcontent>
 </node>
 </node>
+<node ID="ID_1931019873" LINK="https://github.com/repositories" 
+	TEXT="github仓库 流行的仓库"/>
 </node>
 </node>
 </map>
