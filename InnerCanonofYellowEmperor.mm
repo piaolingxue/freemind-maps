@@ -159,11 +159,195 @@
 </node>
 <node ID="ID_1478390382" 
 	TEXT="治疗原则:禁食、监护、胃肠减压、制酸、大量补液、改善微循环、灌肠通便……">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      皮损以肥厚粗糙为主，或有鳞屑，或呈苔藓样变者，选用软膏剂如3％黑豆馏油、糠馏油或皮质类固醇激素类软膏外涂。
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 <node ID="ID_867142954" 
 	TEXT="白头发"/>
+<node FOLDED="true" ID="ID_1937333808" 
+	TEXT="接触性皮炎">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      接触性皮炎是指因皮肤或粘膜接触某些外界致病物质后所引起的皮肤急性炎症反应。以发病前有明显的接触史及有一定的潜伏期，皮损限于接触部位，主要表现为红班、丘疹、水疱、糜烂及渗液，自觉瘙痒为临床特征。病程自限性，除去病因后可自行痊愈。中医无相对应病名，中医文献中根据接触物质的不同及其引起的症状特点而有不同的名称，如因漆刺激而引起者，称为漆疮；因贴膏药引起者，称为膏药风；因接触马桶引起者，称为马桶癣等。
+    </p>
+  </body>
+</html>
+</richcontent>
+<node ID="ID_1762556638" 
+	TEXT="病因病机">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      由于禀赋不耐，皮肤腠理不密，接触某些物质，如漆、药物、塑料、橡胶制品、染料和某些植物的花粉、叶、茎等，使毒邪侵入皮肤，蕴郁化热，邪热与气血相搏而发病。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1128958047" 
+	TEXT="诊断">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      发病前有明确的接触史。除强酸、强碱等一些强烈的刺激物，立即引起皮损而无潜伏期外，大多需经过一定的潜伏期才发病，第一次接触某种物质，潜伏期在4—5天以上，再次接触发病时间则缩短。一般起病较急。皮损主要表现为红斑、丘疹、丘疱疹、水疱，甚至大疱，破后糜烂、渗液，严重者则可有表皮松解，甚至坏死、溃疡。发生于口唇、眼睑、包皮、阴囊等皮肤组织疏松部位者，皮肤肿胀明显，呈局限性水肿而无明显边缘，皮肤光亮，皮纹消失。
+    </p>
+    <p>
+      皮损的形态、范围、严重程度取决于接触物质种类、性质、浓度、接触时间的久暂、接触部位和面积大小以及机体对刺激物的反应程度。皮损边界清楚，形状与接触物大抵一致，一般仅局限于刺激物接触部位，尤以面颈，四肢等暴露部位为多，但亦可因搔抓或其他原因，将接触物带至身体其他部位使皮损播散，甚至泛发全身。
+    </p>
+    <p>
+      自觉灼热、瘙痒，严重者感觉灼痒疼痛，少数患者伴畏寒．发热、恶心呕吐、头晕头痛。
+    </p>
+    <p>
+      病程有自限性，一般去除病因后，处理得当，约1—2周内痊愈。菪反复接触刺激物或．处理不当，病情迁延而转变为亚急性或慢性，表现为轻度红斑、丘疹、境界不清，或为皮肤轻度增厚及苔藓样变。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_661566548" 
+	TEXT="鉴别诊断">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      一、急性湿疮无明显的接触史，皮损呈多形性，对称性分布，部位不定，边界欠清楚，病程较长，易转变为慢性。
+    </p>
+    <p>
+      二、颜面丹毒皮损颜色鲜红，边界清楚，形如云片，色若涂丹，局部触痛明显，伴畏寒、发热、头痛、恶心欲呕等全身症状，无明显接触史。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_814709998" 
+	TEXT="辩证论治">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      一、内治法
+    </p>
+    <p>
+      （一）热毒湿蕴起病急骤，皮损鲜红肿胀，其上有水疱或大疱，水疱破后则糜烂、渗液，自觉灼热，瘙痒；伴发热，口渴，大便于结，小便黄赤；舌红，苔微黄，脉弦滑数。
+    </p>
+    <p>
+      辨证分析：禀赋不耐，热毒湿邪蕴结于肌肤，故起病急骤，皮损鲜红肿胀，其上有水疱或大疱，水疱破后则糜烂、渗液，自觉灼热，瘙痒；热毒湿邪内盛则发热，大便于结，小便黄短；热灼津液则口干；舌红、苔微黄、脉弦滑数为热毒湿蕴之象。
+    </p>
+    <p>
+      治法：清热祛湿，凉血解毒。
+    </p>
+    <p>
+      方药：化斑解毒汤合龙胆泻肝汤加减。
+    </p>
+    <p>
+      （二）血虚风燥病情反复发作，皮损肥厚干燥，有鳞屑，或呈苔藓样变，瘙痒剧烈，有抓痕及结痂；舌淡红，苔薄，脉弦细数。
+    </p>
+    <p>
+      辨证分析：热毒湿邪久羁，故病情反复发作；日久耗伤阴血，血虚生风，肌肤失养则皮损肥厚，干燥，有鳞屑，或呈苔藓样变，瘙痒剧烈，有抓痕及结痂；舌淡红、苔薄、脉细数为血虚风燥之象。
+    </p>
+    <p>
+      治法：清热祛风，养血润燥。
+    </p>
+    <p>
+      方药：消风散合当归饮子加减。
+    </p>
+    <p>
+      二、外治法
+    </p>
+    <p>
+      首先要追查病因，去除刺激物，避免再接触。外治原则与湿疮相同，但用药宜简单、温和，忌用刺激性药物。
+    </p>
+    <p>
+      （一）皮损以潮红、丘疹为主者，选用三黄洗剂外搽，或青黛散冷开水调涂，或1％～2％樟脑、5％薄荷脑粉外涂，每天5—6次。
+    </p>
+    <p>
+      （二）皮损以糜烂、渗液为主者，选用绿茶、马齿苋、黄柏、羊蹄草、石韦、蒲公英、桑叶等，；煎水湿敷，或以10％黄柏溶液湿敷。
+    </p>
+    <p>
+      （三）皮损以糜烂、结痂为主者，选用青黛膏、清凉油乳剂或2％雷锁辛硫黄糊剂等外搽。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_972553394" 
+	TEXT="其他疗法">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      皮损以肥厚粗糙为主，或有鳞屑，或呈苔藓样变者，选用软膏剂如3％黑豆馏油、糠馏油或皮质类固醇激素类软膏外涂。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_50767864" 
+	TEXT="预防与调摄">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1．避免再接触刺激物，如因职业关系，应注意防护，必要时调换工种。
+    </p>
+    <p>
+      2．治疗期间，不宜用热水或肥皂洗涤局部，禁止用刺激性强的外用药物。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1152562144" 
+	TEXT="结论">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      接触性皮炎中医因接触物不同而有不同的名称，如接触漆引起者称漆疮，接触膏药引起者称膏药风，接触马桶引起者称马桶癣。其特点是发病前有明确的接触史及有一定的潜伏期，皮损限于接触部位，主要表现为红斑、丘疹、水疱、糜烂及渗液，自觉瘙痒。本病应与急性湿疮、颜面丹毒相鉴别。热毒湿蕴证，治宜清热祛湿、凉血解毒，方用化斑解毒汤合龙胆泻肝汤加减；血虚风燥证，治宜清热祛风、养血润燥，方用消风散合当归饮子加减。外治与湿疮相同，但用药宜简单、温和，忌用刺激性药物。
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node FOLDED="true" ID="ID_392593926" POSITION="right" 
+	TEXT="资料">
+<node ID="ID_1200521625" LINK="http://www.haodf.com/zhuanjiaguandian/zhaodongqi_591672820.htm" 
+	TEXT="科内业务学习资料汇编"/>
+<node ID="ID_869310305" LINK="http://zhaodongqi.haodf.com/lanmu" 
+	TEXT="赵东奇大夫个人网站"/>
 </node>
 <node FOLDED="true" ID="ID_1383808063" POSITION="left" 
 	TEXT="女性健康与美丽">
@@ -180,8 +364,7 @@
       卵巢,子宫,输卵管
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_991006019" 
 	TEXT="肾气不虚的现象">
@@ -194,8 +377,7 @@
       女性第二性特征明显:乳房挺翘'皮肤光滑细嫩'身材婀娜多姿'美丽四射
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1347873909" 
 	TEXT="肾气虚的现象">
@@ -208,8 +390,7 @@
       第二性特征明显衰退'减弱,出现月经不调'乳房下垂萎缩'皮肤色斑'外阴干燥'性欲减退等现象.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_1459047295" 
@@ -226,8 +407,7 @@
       人体每天要将停滞于脏腑肌肤腠理内的淤血旧血顺利祛除,新血才能得以充盈,皮肤也就自然干净清透.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_306444531" 
 	TEXT="养肝是美容的关键,也是祛斑的总要手段"/>
 <node ID="ID_1117103045" 
@@ -250,8 +430,7 @@
       不怒不忧
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node ID="ID_815321099" 
@@ -270,8 +449,7 @@
       肺为气之王,肾为气之根
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node FOLDED="true" ID="ID_812324698" 
 	TEXT="常见病症">
@@ -310,8 +488,7 @@
       皆由肝肾虚损及脏腑阴阳失调,虚'损'淤'郁之因所致.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_830086724" 
@@ -339,8 +516,7 @@
       4、一般幼年时就有，女性多于男性，常伴有家族史，无其他症状。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1865373528" 
 	TEXT="晒斑">
@@ -353,8 +529,7 @@
       <span content="text/html; charset=utf-8" http-equiv="content-type" style="display: inline !important; text-indent: 0px; line-height: 20px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal; font-size: 14px; white-space: normal; font-family: Times New Roman; word-spacing: 0px; text-transform: none; float: none"><font face="Times New Roman" color="rgb(0, 0, 0)" size="14px">经常暴晒的部位容易出现。颜色由浅到深，有的可大于1厘米。长期受紫外线刺激，黑色素会逐渐累计，随着年龄的增长，渐渐地浮现出来。</font></span>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_479924268" 
 	TEXT="黄褐斑">
@@ -388,8 +563,7 @@
       7、 经常日晒形成的日晒斑也是黄褐斑的一种。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_713553418" 
 	TEXT="黑斑">
@@ -402,8 +576,7 @@
       <span content="text/html; charset=utf-8" http-equiv="content-type" style="display: inline !important; text-indent: 0px; line-height: 20px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal; font-size: 14px; white-space: normal; font-family: Times New Roman; word-spacing: 0px; text-transform: none; float: none"><font face="Times New Roman" color="rgb(0, 0, 0)" size="14px">斑点深浅不一，可大片出现在两颊。可能与激素变化有关，并因日晒而增深。</font></span>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -421,8 +594,7 @@
       肝滞'脾不和'肾虚
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_57148921" 
 	TEXT="预防">
 <richcontent TYPE="NOTE"><html>
@@ -445,8 +617,7 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
