@@ -30,18 +30,16 @@
       此模式让算法的变化独立于使用算法的客户。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_86434312">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="../img/strategy.png" />
+    <img src="../img/strategy.png"/>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node FOLDED="true" ID="ID_671525908" 
@@ -58,19 +56,43 @@
       其他依赖的对象都会被自动通知和更新
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_1257131160">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <img src="../img/observer.png" />
+    <img src="../img/observer.png"/>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node ID="ID_629524900" 
+	TEXT="装饰器模式(decorator pattern)">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      动态的将责任附加到对象上
+    </p>
+    <p>
+      若要扩展功能，装饰者提供了比继承更有弹性的解决方案
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      装饰者和被装饰者有相同的父类对象
+    </p>
+    <p>
+      你可以用一个或者多个装饰者包装一个对象
+    </p>
   </body>
 </html>
 </richcontent>
-</node>
 </node>
 </node>
 <node FOLDED="true" ID="ID_415221232" POSITION="right" 
@@ -89,6 +111,30 @@
 </node>
 <node ID="ID_1959626568" 
 	TEXT="Strive for loosely coupled between objects that interact">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node ID="ID_46017609" 
+	TEXT="开闭原则:类应该对扩展开放，对修改关闭(Classes Should be open for extension but closed for modification">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      例如，观察者模式，通过引入新的观察者，可以在不修改任何代码的情况下
+    </p>
+    <p>
+      对subject进行扩展，而且不需要向subject添加任何代码
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      每个地方都采用开闭原则是一种浪费，也没必要，还会导致代码变的复杂且难以理解。
+    </p>
+  </body>
+</html>
+</richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -147,6 +193,10 @@
 	TEXT="interact [,ɪntɚ&apos;ækt] -&gt; 交互"/>
 <node ID="ID_440295669" 
 	TEXT="humidity [hju&apos;mɪdəti] -&gt; 湿度"/>
+<node ID="ID_1231445044" 
+	TEXT="beverage -&gt; 饮料"/>
+<node ID="ID_624813534" 
+	TEXT="condiment [&apos;kɑndɪmənt]  -&gt; 佐料 调味品"/>
 </node>
 </node>
 </map>
