@@ -24,6 +24,13 @@
 	TEXT="itkoala"/>
 </node>
 </node>
+<node FOLDED="true" ID="ID_1681698466" POSITION="right" 
+	TEXT="网站">
+<node ID="ID_1292578361" LINK="http://www.oschina.net/" 
+	TEXT="开源社区oschina:开源软件&apos;代码&apos;文章"/>
+<node ID="ID_616241107" LINK="http://developer.51cto.com" 
+	TEXT="51cto.com 技术资讯"/>
+</node>
 <node FOLDED="true" ID="ID_706083491" POSITION="right" 
 	TEXT="个人博客">
 <node ID="ID_1683429644" LINK="http://www.nonoidea.com/" 
@@ -33,6 +40,8 @@
 	TEXT="技术论坛">
 <node ID="ID_556238852" LINK="http://www.javaworld.com.tw/jute/" 
 	TEXT="java world"/>
+<node ID="ID_1549982121" LINK="http://hadoop.hadoopor.com/" 
+	TEXT="hadoop - hadoopor"/>
 </node>
 <node FOLDED="true" ID="ID_1260134328" POSITION="right" 
 	TEXT="课程">
