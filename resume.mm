@@ -299,8 +299,7 @@
       <span content="text/html; charset=utf-8" http-equiv="content-type" style="display: inline !important; text-indent: 0px; line-height: 26px; color: rgb(0, 0, 0); letter-spacing: normal; text-align: left; font-weight: normal; font-variant: normal; font-style: normal; white-space: normal; font-size: 14px; font-family: Arial; word-spacing: 0px; background-color: rgb(255, 255, 255); text-transform: none; float: none"><font size="14px" face="Arial" color="rgb(0, 0, 0)">一个对公司丝毫不像了解的人又怎么会为公司的利益而努力工作呢</font></span>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="yes"/>
 </node>
 <node ID="ID_1353519704" 
@@ -838,6 +837,265 @@
   </body>
 </html></richcontent>
 </node>
+<node ID="ID_767715688" 
+	TEXT="新浪微博:刘军">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14.166666030883789px; white-space: normal; word-spacing: 0px; font-family: verdana, Arial, Helvetica, sans-serif; background-color: rgb(255, 255, 255); float: none; text-transform: none; display: inline !important; text-indent: 0px; line-height: 20.833332061767578px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14.166666030883789px" face="verdana, Arial, Helvetica, sans-serif" color="rgb(51, 51, 51)">当你心中只有一个目标时，全世界都会给你让路！Read more! Write more! Practise more!</font></span><font size="14.166666030883789px" face="verdana, Arial, Helvetica, sans-serif" color="rgb(51, 51, 51)"><span class="Apple-converted-space"> </span></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node FOLDED="true" ID="ID_800091123" 
+	TEXT="拿下国内多个互联网公司offer的哥们">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      中国最不缺的就是人，不下功夫准备连个P都拿不到。
+    </p>
+    <p>
+      笔试面试，不准备和准备差距很大。
+    </p>
+    <p>
+      算法，操作系统，程序设计搞定，国内IT通杀。
+    </p>
+    <p>
+      重温+突击程序设计、算法和操作系统
+    </p>
+    <ol>
+      <li>
+        把基础的数据结构的C语言实现在纸上写三遍以上，用我能想象的最精简最优化的办法。
+      </li>
+      <li>
+        阅读CARM的TCPL，确保不回遗漏C语言的每个细节
+      </li>
+      <li>
+        重温之前自己做过的靠普的项目，并总结里面的关键难题和解决思路。
+      </li>
+      <li>
+        重读WritingSolidCode，Elements Of Programing Style(写出良好风格的代码)，Practice Of Programming,C interfaces and implement包含大量工业级别的代码
+      </li>
+      <li>
+        阅读ScienceOfProgramming，做到可以证明自己程序的正确性(前条件+后条件+不变式)
+      </li>
+    </ol>
+    <p>
+      算法:
+    </p>
+    <ol>
+      <li>
+        重读AlgorithmDesignManual(课后习题很实在),重点阅读Dynamic Programming和Backtraverse
+      </li>
+      <li>
+        重读Programming Pearls和More Programming Pearls并完成所有课后习题
+      </li>
+      <li>
+        独立解决编程之美里面的题目
+      </li>
+      <li>
+        完成Careercup里的MS,Google,Amazon分类下的前20页面试题
+      </li>
+    </ol>
+    <p>
+      操作系统:
+    </p>
+    <ol>
+      <li>
+        重读Modern Operation System, 重温OS的核心概念。
+      </li>
+      <li>
+        重读Computer Systems a Programmer's Perspective的关键点
+      </li>
+    </ol>
+    <p>
+      从七月底开始一直到11月份，近4个月时间很多东西一面面试一面准备
+    </p>
+    <p>
+      面试-&gt;发现盲点-&gt;修复盲点
+    </p>
+    <p>
+      一些面试笔试题的资源
+    </p>
+    <p>
+      1.Crack over the code review(很靠普的笔试面试指导手册)
+    </p>
+    <p>
+      2.Career Cup (集齐了大量真实的笔试面试题，去外企一定要看)
+    </p>
+    <p>
+      3.Top Coder (如果不是ACM,练这个就够了)
+    </p>
+    <p>
+      4.编程之美,三星题目适合一个人好好思考
+    </p>
+  </body>
+</html></richcontent>
+<node FOLDED="true" ID="ID_845821228" 
+	TEXT="关于简历">
+<node ID="ID_1652781707" 
+	TEXT="可读性">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      最好使用PDF,纯文本的简历非常有必要
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_730771486" 
+	TEXT="群发">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      不要给人群发的嫌疑
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1199942853" 
+	TEXT="设计">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      推荐看下
+    </p>
+    <p>
+      &lt;&lt;给大家看的设计书&gt;&gt;
+    </p>
+    <p>
+      &lt;&lt;Google Resume&gt;&gt;
+    </p>
+    <p>
+      至少搞明白里面的C.R.A.P原则
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_229246223" 
+	TEXT="篇幅">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      尽量一页搞定
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_189639946" 
+	TEXT="重点">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      一定要有重点,做到让HR在20秒内确定你靠不靠谱
+    </p>
+    <p>
+      可用用黑体字加以引导
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1521661788" 
+	TEXT="措辞">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      甭搞“渴望得到这份工作",期待在&gt;&gt;&gt;的工作机会。这样的句式
+    </p>
+    <p>
+      除了显得你低端，其他毛用没有。
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1837704428" 
+	TEXT="别字">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      千万不要出现错别字,别字简历一般直接干掉。
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_58338401" 
+	TEXT="优先内部推荐"/>
+</node>
+<node FOLDED="true" ID="ID_1530095844" 
+	TEXT="面试">
+<node FOLDED="true" ID="ID_555714876" 
+	TEXT="自我介绍:5~10分钟">
+<node ID="ID_1777310284" 
+	TEXT="言简意赅 突出亮点">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      做过的项目
+    </p>
+    <p>
+      读过的书
+    </p>
+    <p>
+      认识的人
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_438350223" 
+	TEXT="紧贴简历"/>
+<node ID="ID_1414157117" 
+	TEXT="了解公司需求"/>
+</node>
+<node FOLDED="true" ID="ID_1717521511" 
+	TEXT="技术提问:35~45分钟">
+<node ID="ID_1686066332" 
+	TEXT="关于过去的经历,项目,说说你最牛逼的项目"/>
+<node ID="ID_1877943991" 
+	TEXT="假设类的问题，假如"/>
+<node ID="ID_399182630" 
+	TEXT="如何改进"/>
+</node>
+<node FOLDED="true" ID="ID_436416451" 
+	TEXT="问答环节">
+<node ID="ID_1726119929" 
+	TEXT="态度"/>
+<node ID="ID_1696299816" 
+	TEXT="着装"/>
+<node ID="ID_1582332585" 
+	TEXT="交流"/>
+</node>
+</node>
+</node>
 </node>
 <node FOLDED="true" ID="ID_1877280812" POSITION="left" 
 	TEXT="电话面试总结">
@@ -871,8 +1129,7 @@
       以人为核心，迭代，循序渐进
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node ID="ID_243730231" 
 	TEXT="价值观">
 <richcontent TYPE="NOTE"><html>
@@ -893,18 +1150,442 @@
       持续集成
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node ID="ID_663691979" 
 	TEXT="类的加载机制(classloader)"/>
 <node FOLDED="true" ID="ID_1022086119" 
 	TEXT="JVM知识">
-<node ID="ID_654399331" 
-	TEXT="JVM原理"/>
-<node ID="ID_1529402657" 
-	TEXT="classloader原理"/>
+<node FOLDED="true" ID="ID_233647784" 
+	TEXT="jvm体系结构">
+<node ID="ID_1724986974" 
+	TEXT="方法区">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      当jvm装载一个class时，会从这个class文件包含的二进制数据中解析类型信息，
+    </p>
+    <p>
+      然后将这些类型信息放到方法区，因为方法区被多线程共享，
+    </p>
+    <p>
+      所以要考虑线程安全问题
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1930774897" 
+	TEXT="Stack">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      java栈由多个栈帧构成，当一个线程调用一个方法时，
+    </p>
+    <p>
+      压入一个栈帧到java栈顶，当方法退出时，弹出该栈帧
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1230629104" 
+	TEXT="Heap">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      存放线程运行时创建的对象，堆是一个线程共享的内存区
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1225929749" 
+	TEXT="PC register">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      每个线程都有自己的pc计数器和java栈帧
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1396417088" 
+	TEXT="本地方法区"/>
+</node>
+<node FOLDED="true" ID="ID_41656396" 
+	TEXT="类的装载">
+<node ID="ID_1019166288" 
+	TEXT="BootstrapLoader">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      负责装载jre下的核心类库，是根加载器
+    </p>
+    <p>
+      c/c++写的,在java里面看不到它
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1510900984" 
+	TEXT="ExtClassloader">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      负责装载jre下的rt.jar,charset.jar
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_732781759" 
+	TEXT="AppClassloader">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      负责装载classloader下的类包
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1464189644" 
+	TEXT="关系">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      AppClassloader &lt;- ExtClassloader &lt;-BootstrapLoader
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1121870296" 
+	TEXT="如何装载一个类">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      装载一个用户指派的类，首先会那个类加载器
+    </p>
+    <p>
+      会委派给父类加载器装载，一直委派到根装载器。
+    </p>
+    <p>
+      如果根装载器有该类，直接返回类的对象，否则，交给对应的子类装载器，
+    </p>
+    <p>
+      如果还没有找到，就会委派给用户指定的类装载器装载
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_665313165" 
+	TEXT="一个完整的过程">
+<node ID="ID_1606584065" 
+	TEXT="装载">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      每一个类装载器都会在方法区形成一张表，该表记录了该装载器对应的类的权限定名
+    </p>
+    <p>
+      调用类的loadClass方法装载类
+    </p>
+    <p>
+      若该类还没有装载到命名空间，那么jvm会传递一个该类的全限定名给类装载器，也就是<span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">CONSTANT_Class_info</font></span>
+    </p>
+    <p>
+      表（存储着父类，类装载器等信息）入口的装载器，如果发起引用的类型是被jvm装载器定义的，那么由jvm装载
+    </p>
+    <p>
+      否则由用户自定义的装载器装载
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_541517871" 
+	TEXT="连接">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      确认类型符合java语义，并且不回危害虚拟机的完整性
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_1884393775" 
+	TEXT="准备">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      jvm为类变量分配内存，赋默认初始值
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_48978673" 
+	TEXT="解析">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      在类型常量池中寻找类，接口，字段和方法的符号引用，
+    </p>
+    <p>
+      把这些符号引用替换成直接引用的过程。
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_338900091" 
+	TEXT="参数">
+<node ID="ID_1528329966" 
+	TEXT="-Xss128k">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">每个线程的java栈大小,一个线程java栈所有栈帧大小总和最大允许的尺寸128k。</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_36781845" 
+	TEXT="-Xms128m">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">表示JVM Heap(堆内存)最小尺寸128MB，初始分配</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_893096752" 
+	TEXT="-Xmx512m">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">表示JVM Heap(堆内存)最大允许的尺寸256MB，按需分配</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_495244404" 
+	TEXT="-XX:PermSize=20M">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">设置方法区的初始大小</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_1731392901" 
+	TEXT="-XX:MaxPermSize=30M">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      设置方法区的最大值
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1195741898" 
+	TEXT="常见异常分析">
+<node ID="ID_1012330085" 
+	TEXT="StackOverflow">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">每当java程序代码启动一个新线程时，Java虚拟机都会为它分配一个Java栈。Java栈以帧为单位保存线程的运行状态。当线程调用java方法时，虚拟机压入一个新的栈帧到该线程的java栈中。只要这个方法还没有返回，它就一直存在。如果线程的方法嵌套调用层次太多(如递归调用)，随着java栈中帧的逐渐增多，最终会由于该线程java栈中所有栈帧大小总和大于-Xss设置的值，而产生StackOverflowError内存溢出异常。</font></span>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node ID="ID_552784966" 
+	TEXT="OutOfMemory">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">1.java程序代码启动一个新线程时，没有足够的内存空间为该线程分配java栈(一个线程java栈的大小由-Xss参数确定)，jvm则抛出OutOfMemoryError异常。例子如下：</font></span>
+    </p>
+    <p>
+      2.java堆溢出 <span content="text/html; charset=utf-8" http-equiv="content-type" style="white-space: normal; font-size: 14px; font-family: 宋体; word-spacing: 0px; background-color: rgb(248, 248, 248); text-transform: none; float: none; text-indent: 28px; display: inline !important; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">而堆的内存占用又已经达到-Xmx设置的最大值。将会抛出OutOfMemoryError异常。例子如下：</font></span>
+    </p>
+    <p>
+      
+    </p>
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="background-color: rgb(248, 248, 248); font-family: 宋体; margin-top: 10px; color: rgb(51, 51, 51); margin-right: 0px; margin-left: 0px; margin-bottom: 10px; white-space: normal; word-spacing: 0px; text-transform: none; line-height: 28px; text-indent: 28px; letter-spacing: normal; text-align: start; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: 14px; padding-bottom: 0px">
+      <strong style="text-align: center; font-weight: bold"><b>方法区溢出</b></strong>
+    </p>
+    <p style="padding-bottom: 0px; font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); margin-top: 10px; text-transform: none; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal">
+      方法区用于存放java类型的相关信息，如类名、访问修饰符、常量池、字段描述、方法描述等。在类装载器加载class文件到内存的过程中，虚拟机会提取其中的类型信息，并将这些信息存储到方法区。当需要存储类信息而方法区的内存占用又已经达到-XX:MaxPermSize设置的最大值。将会抛出OutOfMemoryError异常。对于这种情况的测试，基本的思路是运行时产生大量的类去填满方法区，直到溢出。这里需要借助CGLib直接操作字节码运行时，生成了大量的动态类。例子如下：
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node FOLDED="true" ID="ID_439937625" 
+	TEXT="Garbage Collector(垃圾回收)">
+<node FOLDED="true" ID="ID_526695514" 
+	TEXT="基本回收算法">
+<node ID="ID_953625270" 
+	TEXT="引用计数"/>
+<node ID="ID_490652796" 
+	TEXT="标记-清除">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      此算法会暂停应用，主要分两个阶段
+    </p>
+    <p>
+      第一个阶段扫描堆，标记引用的对象
+    </p>
+    <p>
+      第二阶段将没有标记的堆清除，该算法会产生内存碎片
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_129176246" 
+	TEXT="复制">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      将内存空间划分为两个对等的区域
+    </p>
+    <p>
+      将正在使用的对象复制到一个区域，注意，只处理正在使用的对象
+    </p>
+    <p>
+      复制过程还能进行内存合并操作，避免碎片
+    </p>
+    <p>
+      缺点需要两倍的内存空间。
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_530290822" 
+	TEXT="标记-整理">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      此算法结合了前两种算法的优点
+    </p>
+    <p>
+      分两个阶段
+    </p>
+    <p>
+      第一阶段扫描栈，标记出堆中存活的对象
+    </p>
+    <p>
+      第二阶段
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_19582513" 
+	TEXT="增量收集">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">实施垃圾回收算法，即：在应用进行的同时进行垃圾回收。</font></span>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node ID="ID_816587717" 
+	TEXT="分代">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <span content="text/html; charset=utf-8" http-equiv="content-type" style="font-size: 14px; white-space: normal; word-spacing: 0px; font-family: 宋体; background-color: rgb(248, 248, 248); float: none; text-transform: none; display: inline !important; text-indent: 28px; line-height: 28px; color: rgb(51, 51, 51); letter-spacing: normal; text-align: start; font-weight: normal; font-variant: normal; font-style: normal"><font size="14px" face="宋体" color="rgb(51, 51, 51)">基于对对象生命周期分析后得出的垃圾回收算法。把对象分为年青代、年老代、持久代，对不同生命周期的对象使用不同的算法（上述方式中的一个）进行回收。现在的垃圾回收器（从J2SE1.2开始）都是使用此算法的。</font></span>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
 </node>
 <node ID="ID_835224396" 
 	TEXT="arraylist与vector区别">
@@ -917,8 +1598,7 @@
       vector线程安全,arraylist线程不安全
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1994192924" 
 	TEXT="栈和堆的区别"/>
@@ -929,18 +1609,20 @@
     
   </head>
   <body>
-    <p content="text/html; charset=utf-8" http-equiv="content-type" style="margin-right: 0px; margin-left: 0px; margin-bottom: 10px; white-space: normal; word-spacing: 0px; text-transform: none; line-height: 25px; text-indent: 0px; letter-spacing: normal; text-align: left; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: 14px; padding-bottom: 0px; background-color: rgb(250, 250, 250); font-family: Arial, Helvetica, simsun, u5b8bu4f53; margin-top: 0px; color: rgb(89, 89, 89)">
+    <p content="text/html; charset=utf-8" http-equiv="content-type" style="background-color: rgb(250, 250, 250); font-family: Arial, Helvetica, simsun, u5b8bu4f53; margin-top: 0px; color: rgb(89, 89, 89); margin-right: 0px; margin-left: 0px; margin-bottom: 10px; white-space: normal; word-spacing: 0px; text-transform: none; line-height: 25px; text-indent: 0px; letter-spacing: normal; text-align: left; font-weight: normal; padding-top: 0px; font-variant: normal; padding-right: 0px; font-style: normal; padding-left: 0px; font-size: 14px; padding-bottom: 0px">
        hash表：关键字和存储位置一一对应，一次性就可以找到该关键字的位置。
     </p>
-    <p style="text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal; padding-bottom: 0px; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none">
+    <p style="padding-bottom: 0px; font-size: 14px; white-space: normal; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none; text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal">
          优点：关键字很容易找到，通过哈希函数就可以直接映射到该关键字的存储位置，即可找到，提供快速的查找和插入操作
     </p>
-    <p style="text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal; padding-bottom: 0px; white-space: normal; font-size: 14px; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none">
+    <p style="padding-bottom: 0px; font-size: 14px; white-space: normal; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none; text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal">
          缺点：如果关键字很多的话，通过哈希函数映射难免有冲突，所以会影响查找该关键字的效率，最终导致性能下降
     </p>
+    <p style="padding-bottom: 0px; font-size: 14px; white-space: normal; word-spacing: 0px; font-family: Arial, Helvetica, simsun, u5b8bu4f53; background-color: rgb(250, 250, 250); margin-top: 0px; text-transform: none; text-indent: 0px; line-height: 25px; color: rgb(89, 89, 89); letter-spacing: normal; text-align: left; margin-right: 0px; padding-top: 0px; font-weight: normal; margin-left: 0px; padding-right: 0px; font-variant: normal; margin-bottom: 10px; padding-left: 0px; font-style: normal">
+      当出现冲突时，性能会急剧下降
+    </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1939408290" 
 	TEXT="两个有序数组且长度均为n，求这两个数组的中位数">
@@ -956,8 +1638,7 @@
           首先分别找到a数组的中位数a1和b数组的中位数b1，如果a1&lt;b1则将a1值后半部分与b1值的前半部分，类似的方法递归找到中位数
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_1441418993" 
 	TEXT="假设有10亿个数据，找出前10w个数据">
@@ -973,8 +1654,7 @@
          用堆存放10w个数据，创建个小顶堆，然后再让其他的数据一一与小顶堆的堆顶相比较，如果比堆顶小的话直接pass掉，如果比堆顶大的话，就将堆顶替换掉，然后对自身在堆排序。
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node ID="ID_961829684" LINK="http://www.cnblogs.com/liu-jun/archive/2012/04/24/2468664.html" 
 	TEXT="题目1"/>
@@ -982,6 +1662,22 @@
 	TEXT="题目2"/>
 <node ID="ID_944589260" LINK="http://www.59n.net/115626.html" 
 	TEXT="题目3"/>
+</node>
+</node>
+<node FOLDED="true" ID="ID_1709784208" POSITION="left" 
+	TEXT="国内公司">
+<node ID="ID_1811848603" 
+	TEXT="排名">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      外企(Google,MS,Yahoo)-&gt;(阿里‘腾讯’百度‘网易等)
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node ID="ID_1229713882" POSITION="right" 
@@ -995,8 +1691,9 @@
       从一个项目开始切入，逐渐学习，逐步深入
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
+<node ID="ID_509509298" POSITION="right" 
+	TEXT=""/>
 </node>
 </map>
